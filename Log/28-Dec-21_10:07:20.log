@@ -1,0 +1,38 @@
+28-Dec-21 10:07:20 - INFO - Log file /Users/jan/Documents/Python_Projects/Bachelorthesis/log/28-Dec-21_10:07:20.log created
+28-Dec-21 10:07:20 - INFO - Sueddeutsche: Start scraping Sueddeutsche news page...
+28-Dec-21 10:07:20 - INFO - Sueddeutsche: Scraping Sueddeutsche @ https://www.sueddeutsche.de/news
+28-Dec-21 10:07:20 - INFO - Starting Chromedriver with @ https://www.sueddeutsche.de/news and loadingTime 10s
+28-Dec-21 10:07:41 - INFO - Sueddeutsche: Switching to Sueddeutsche CookieWindow with XPATH: //iframe[contains(@id,'sp_message_iframe_585922')]
+28-Dec-21 10:07:41 - INFO - Sueddeutsche: Found cookie window...
+28-Dec-21 10:07:41 - INFO - Sueddeutsche: Accepting Cookies with XPATH: //*[@id="notice"]/div[3]/div/div/button[1]
+28-Dec-21 10:07:42 - INFO - Sueddeutsche: Accepting cookies successfull
+28-Dec-21 10:07:42 - INFO - Sueddeutsche0 Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog/
+28-Dec-21 10:07:42 - INFO - Sueddeutsche0: Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche0_28122021_10_07_42.html
+28-Dec-21 10:07:42 - INFO - Sueddeutsche0: Check if html already created
+28-Dec-21 10:07:42 - INFO - Sueddeutsche0: Sueddeutsche0_28122021_10_07_42.html doesnt exist yet
+28-Dec-21 10:07:42 - INFO - Sueddeutsche0: Successfully saved file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche0_28122021_10_07_42.html
+28-Dec-21 10:07:42 - INFO - _______________________________________________________________________
+28-Dec-21 10:07:48 - INFO - Sueddeutsche1 Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog/
+28-Dec-21 10:07:48 - INFO - Sueddeutsche1: Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche1_28122021_10_07_48.html
+28-Dec-21 10:07:48 - INFO - Sueddeutsche1: Check if html already created
+28-Dec-21 10:07:48 - INFO - Sueddeutsche1: Sueddeutsche1_28122021_10_07_48.html doesnt exist yet
+28-Dec-21 10:07:48 - INFO - Sueddeutsche1: Successfully saved file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche1_28122021_10_07_48.html
+28-Dec-21 10:07:48 - INFO - _______________________________________________________________________
+28-Dec-21 10:07:53 - INFO - Sueddeutsche2 Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog/
+28-Dec-21 10:07:53 - INFO - Sueddeutsche2: Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche2_28122021_10_07_53.html
+28-Dec-21 10:07:53 - INFO - Sueddeutsche2: Check if html already created
+28-Dec-21 10:07:53 - INFO - Sueddeutsche2: Sueddeutsche2_28122021_10_07_53.html doesnt exist yet
+28-Dec-21 10:07:53 - INFO - Sueddeutsche2: Successfully saved file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche2_28122021_10_07_53.html
+28-Dec-21 10:07:53 - INFO - _______________________________________________________________________
+28-Dec-21 10:07:58 - INFO - Sueddeutsche3 Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog/
+28-Dec-21 10:07:58 - INFO - Sueddeutsche3: Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche3_28122021_10_07_58.html
+28-Dec-21 10:07:58 - INFO - Sueddeutsche3: Check if html already created
+28-Dec-21 10:07:58 - INFO - Sueddeutsche3: Sueddeutsche3_28122021_10_07_58.html doesnt exist yet
+28-Dec-21 10:07:58 - INFO - Sueddeutsche3: Successfully saved file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche3_28122021_10_07_58.html
+28-Dec-21 10:07:58 - INFO - _______________________________________________________________________
+28-Dec-21 10:08:04 - INFO - Sueddeutsche4 Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog/
+28-Dec-21 10:08:04 - INFO - Sueddeutsche4: Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche4_28122021_10_08_04.html
+28-Dec-21 10:08:04 - INFO - Sueddeutsche4: Check if html already created
+28-Dec-21 10:08:04 - INFO - Sueddeutsche4: Sueddeutsche4_28122021_10_08_04.html doesnt exist yet
+28-Dec-21 10:08:04 - INFO - Sueddeutsche4: Successfully saved file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche4_28122021_10_08_04.html
+28-Dec-21 10:08:04 - INFO - _______________________________________________________________________

@@ -1,0 +1,17 @@
+28-Dec-21 09:15:52 - INFO - Log file /Users/jan/Documents/Python_Projects/Bachelorthesis/log/28-Dec-21_09:15:52.log created
+28-Dec-21 09:15:52 - INFO - Spiegel: Start scraping Spiegel news page...
+28-Dec-21 09:15:52 - INFO - Spiegel: Scraping Spiegel @ https://www.spiegel.de/schlagzeilen/
+28-Dec-21 09:15:52 - INFO - Starting Chromedriver with @ https://www.spiegel.de/schlagzeilen/ and loadingTime 10s
+28-Dec-21 09:16:11 - INFO - Spiegel: Switching to Spiegel CookieWindow with XPATH: //*[@id="sp_message_iframe_541484"]
+28-Dec-21 09:16:11 - ERROR - Spiegel: Can't find cookie window for Spiegel news page
+28-Dec-21 09:16:11 - ERROR - name 'By' is not defined
+28-Dec-21 09:16:16 - ERROR - Spiegel: Can't find cookie window for Spiegel news page
+28-Dec-21 09:16:16 - ERROR - name 'By' is not defined
+28-Dec-21 09:16:21 - ERROR - Spiegel: Can't find cookie window for Spiegel news page
+28-Dec-21 09:16:21 - ERROR - name 'By' is not defined
+28-Dec-21 09:16:26 - ERROR - Spiegel:  Error while switching to frame and accepting cookies...
+28-Dec-21 09:16:26 - ERROR - name 'driver' is not defined
+28-Dec-21 09:16:31 - ERROR - Spiegel:  Error while switching to frame and accepting cookies...
+28-Dec-21 09:16:31 - ERROR - name 'driver' is not defined
+28-Dec-21 09:16:36 - ERROR - Spiegel:  Error while switching to frame and accepting cookies...
+28-Dec-21 09:16:36 - ERROR - name 'driver' is not defined

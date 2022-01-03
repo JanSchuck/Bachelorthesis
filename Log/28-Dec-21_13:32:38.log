@@ -1,0 +1,674 @@
+28-Dec-21 13:32:38 - INFO - Log file /Users/jan/Documents/Python_Projects/Bachelorthesis/log/28-Dec-21_13:32:38.log created
+28-Dec-21 13:32:38 - INFO - *** Starting Scraper ***
+28-Dec-21 13:32:38 - INFO - get list of csv Backlog
+28-Dec-21 13:32:38 - INFO - 0 files in csv Backlog...
+28-Dec-21 13:32:38 - INFO - get list of html Backlog
+28-Dec-21 13:32:38 - INFO - 5 files in html Backlog...
+28-Dec-21 13:32:38 - INFO - 5 Html files are not scraped yet
+28-Dec-21 13:32:38 - INFO - Start scraping files...
+28-Dec-21 13:32:38 - INFO - Scraping: Bild_28122021_10_19_07.html
+28-Dec-21 13:32:38 - INFO - Scraping: Spiegel_28122021_09_35_41.html
+28-Dec-21 13:32:38 - INFO - Starting to Scrape Spiegel file Spiegel_28122021_09_35_41.html
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Verfall der Lira: Türkische Bankenaufsicht stellt Strafanzeige gegen Ökonomen und Journalisten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Weißer Ring zu Gewalt an Frauen: »Wenn Annäherungsverbote nicht kontrolliert werden, bringen sie nichts«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Vom schwierigen Umgang mit Flüchtlingsschicksalen: Taghrid und ich
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Schnelle Internetanschlüsse: Schweden ist Europas Glasfasernation Nummer eins
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Vierschanzentournee 2021/22: Zeitplan, Schanzen, Ergebnisse
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ermittler veröffentlichen Videoaufnahmen: 14-Jährige in Los Angeles durch Querschläger aus Polizeiwaffe getötet
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ehemaliger Uno-Botschafter Heusgen: Putin strebt »Wiederherstellung eines russischen Reiches an«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Prognose des Städtetags: Deutschland fehlen Hunderttausende Erzieher und Pfleger
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Bundesverfassungsgericht entscheidet über Triage: »Es geht um die Verteilung von Lebenschancen«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: +++ Corona-News +++: Bundesjustizminister Buschmann gegen nationales Impfregister
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wahlen, Krisen und die WM: Diese Themen werden 2022 die Welt bewegen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Die Lage am Morgen: Professor Lauterbachs Problem mit dem Karneval
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Spannungen an der Grenze: USA und Russland sprechen am 10. Januar über Ukrainekrise
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Zahlen des RKI: Bundesweite Sieben-Tage-Inzidenz fällt deutlich ab
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Im Jahr 2021: Nato-Jets absolvierten rund 290 Alarmstarts wegen russischer Flugzeuge
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Andorra: 82-Jähriger kracht mit Ferrari in Einkaufszentrum
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Deutschlandweit: Tausende protestieren gegen Coronamaßnahmen – Krawalle in Bautzen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Tipps von Coaching-Experten: Passt mein Job zu mir? Und was, wenn nicht?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Geschichte-Podcast: Als die »Halbstarken« Krawall machten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Regierungsarbeit von Annalena Baerbock: Was ist feministische Außenpolitik, Herr Staatsminister?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Folgen der Olympischen Spiele: Tokios Milliarden-Albtraum
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Weihnachtsaktion in Duisburg: 81-Stunden-Impfmarathon beendet
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ein Leserbrief, der mich zum Nachdenken brachte: Werden Politiker vom SPIEGEL »niedergeschrieben«?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Havarie im Jahr 2020: Kapitän für Ölpest vor Mauritius verurteilt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nach diplomatischem Bruch: Nicaragua übergibt Ex-Botschaft Taiwans an China
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Rückkehr des »Islamischen Staats«: Die Gespenster von Rakka
+28-Dec-21 13:32:39 - INFO - Trying to scrape: US-Bundesstaat Michigan: Vogelsammler hielt 836 Wellensittiche – in einem Zimmer
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Termiten in England: Die Invasion von Devon
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Der Video-Jahresrückblick: 2021 – Haben Sie das gesehen?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Drohung gegen die Nato: Russland warnt vor bewaffnetem Konflikt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: 21-Jährige über ihre Inobhutnahme: »Aus mir ist was geworden, weil ich im Heim aufgewachsen bin«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ausblick aufs Börsenjahr 2022: Achtung, Störfeuer
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Luxusanlagen in Schottland: Trumps Golfresorts sollen Coronahilfe in Millionenhöhe beantragt haben
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nachrufe – Januar bis April: Diese Persönlichkeiten sind 2021 gestorben
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nichte von König Philippe: Belgische Prinzessin Maria Laura hat sich verlobt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Deutsche Landwirte in der Düngerpreiskrise: »Der Markt läuft im Moment wahnsinnig heiß«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Großes Aufräumen auf La Palma: Der Kampf gegen die Ascheberge
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Studien zu Inklusion: Schwierige Schüler werden offenbar vermehrt als »geistig behindert« etikettiert
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Neuer Podcast »Im Verhör«: Tausend Rammos
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Interview mit einer Ärztin aus Myanmar: »Das Verlangen nach Demokratie ist größer als jemals zuvor«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ausschreitungen in Schweinfurt: Vier Angeklagte nach Coronademo verurteilt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Darts-WM: Hempels Traum vom Achtelfinale ist geplatzt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ab sofort halte ich alles für möglich: Die irren Thesen des Markus F.
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Die Lage am Abend: Selbst im Kofferraum nie ohne Mund-Nasen-Schutz
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Weniger Ferienfahrer durch Corona: ADAC erwartet nur wenige Staus zum Jahreswechsel
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Französischer Fußball: Verband greift nach Krawallen durch und schließt Lyon und FC Paris vom Pokal aus
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Zweite Amtszeit des Bundespräsidenten: Haben die Grünen ein Steinmeier-Problem?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Schneemassen im Wüstenstaat Nevada: Heftige Schneefälle legen Südwesten der USA teilweise lahm
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Coronadaten aus Großbritannien: Risiko von Ungeimpften für Intensivstation 60-fach erhöht
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kiel: 8000 Euro in Secondhand-Jacke gefunden – Geld wird gespendet
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Congress des Chaos Computer Clubs: Kreativer als alles, was sich Zuckerberg je ausdenken könnte
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Wat wellste maache, et es wie et es«: Kölner Stunksitzung sagt alle Termine ab, Rosenmontagszug vor dem Aus
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Worauf ich bei einer Recherche gestoßen bin: Ralf Stegner und mein ganz persönlicher »Watergate«-Moment
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Darts-Star van Gerwen: »Mighty Mike« will es allen zeigen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Aus Liebe wurde Leben«: YouTuberin Dagi Bee bringt Sohn zur Welt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Alt und schlecht informiert«: Impfgegner kritisieren Trump für Äußerungen zur Coronaimpfung
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Scholz und sein Umgang mit Impfgegnern: Kanzlers »Cancel Culture«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Essen: Polizei sucht nach Attacke auf Schwangere nach Zeugen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nach Kritik von Kretschmann: Kubicki verteidigt Äußerungen zur Impfpflicht
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Fünf Jahre nach brutalem Einsatz: Britische Polizei bittet für Tötung von Ex-Fußballer Atkinson um Verzeihung
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Leben in der Ostukraine: »Provokationen gibt es ständig, deswegen verfalle ich nicht in Panik«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Tierwohl-Debatte: Sozialverband fordert Ausgleich bei steigenden Lebensmittelpreisen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: New England Patriots in der NFL: Der beste Spieler der Geschichte ist weg. Na und?!
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Technische Innovation aus Japan: Der Leck- und Schmeckfernseher
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Sanktionen gegen Belarus: Lasche Strafen für Lukaschenko
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Trotz Omikron-Warnungen: Bahn zählt über Weihnachten wieder mehr Fahrgäste in Fernzügen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nach Plastiktüten-Verbot: Umwelthilfe will auch Obstbeutel abschaffen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Zu wenig Lebensmittel: Polizisten kaufen an Heiligabend für Paar in Quarantäne ein
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Lira-Verfall: Bulgaren und Griechen nutzen Türkei als Schnäppchenparadies
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Berliner Zoo: Eisbärin Katjuscha im Alter von 37 Jahren gestorben
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nie dagewesene Preisdynamik: Energiekosten steigen 2022 weiter
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Naziopfer Heinz Dietrich Feldheim: »Marlene hat mir das Leben gerettet!«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Pressefreiheit in Polen: Präsident Duda legt Veto gegen umstrittenes Mediengesetz ein
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Lorenz Caffier: Gericht erlässt Strafbefehl gegen Mecklenburg-Vorpommerns Ex-Innenminister
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Österreichischer Baulöwe: Richard »Mörtel« Lugner trennt sich von seiner Verlobten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Freizeitstress, Überstunden, Pandemie: Warum sehe ich meine Freundinnen und Freunde kaum noch?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Coronademonstrationen: GdP-Vorsitzender kritisiert Eltern, die Kinder »als Schutzschilde« einsetzen würden
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Sucht: So haben sich Alkohol- und Zigarettenkonsum in der Pandemie verändert
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Big Little Lies«: Regisseur Jean-Marc Vallée ist tot
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Glinde bei Hamburg: Mann und zwei Kinder tot aufgefunden – Frau schwer verletzt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Bayern-Star: Hoeneß traut Lewandowski auch eine politische Karriere zu
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Regen und Minusgrade: Glatteis führt zu zahlreichen Unfällen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Neuer Klimabericht: Naturkatastrophen verursachen deutlich mehr Schäden als im Vorjahr
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Tier macht Sachen 2021: Wels verschluckt sich an Schildkröte
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Spannung zwischen Nato und Kreml: Russische Soldaten proben Abwehr von Luftangriff
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Noch vor der Qualifikation: Italiens Trainer weiß schon, wer Weltmeister wird
+28-Dec-21 13:32:39 - INFO - Trying to scrape: 2G-Regelungen für Läden: Handelsverband beklagt »dramatisch schlechtes« Weihnachtsgeschäft
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Regierungskrise: Somalischer Präsident entlässt Premierminister
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Todesfall: Frau in Bremervörde offenbar erfroren
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Scholz, Lauterbach, Wüst und Co.: Die politischen Aufsteiger des Jahres
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Polizei prüft Clip: Bewaffneter Eindringling soll in Video gedroht haben, die Queen zu ermorden
+28-Dec-21 13:32:39 - INFO - Trying to scrape: US-Vorkämpferin für Abtreibungsrecht: »Roe v. Wade«-Anwältin Sarah Weddington ist tot
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nach Gerichtsentscheidung: Boulevardblatt räumt Niederlage gegen Herzogin Meghan ein – und zahlt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kino in der Pandemie: »Spider-Man« stellt Kassenrekord auf – binnen zwölf Tagen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Abfahrt im Selbstbau-Renner: Die Spaßmacher von der »Formel Holz«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Keine ausreichende Nachhaltigkeit«: Vettel wird zum Chefkritiker der Formel 1
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Streit über Präsenz- und Distanzunterricht: Pisa-Chef warnt vor neuen Schulschließungen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Tuchel-Kritik am Umgang des Fußballs mit Corona: »Vielleicht machen wir hier einen großen Fehler«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Sorge um Arbeitsmarkt: Außenhandelschef fordert Steuervorteile für ausländische Fachkräfte
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Rückholaktion zu Beginn der Coronapandemie: Tausende Passagiere haben Rechnungen noch nicht bezahlt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Verkehrsbehinderungen möglich: Deutscher Wetterdienst warnt vor eisglatten Straßen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Tipps vom Karrierecoach: Was ist mein Talent?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Widerstand gegen Militärregime: Uno-Vizegeneralsekretär »entsetzt« über Leichenfund in Myanmar
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Bei konkreten Gefährdungen«: Städtetag fordert Polizeischutz für Kommunalpolitikerinnen und -politiker
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kretschmann über Kubickis Aussagen zur Impfpflicht: »Schlichtweg verantwortungslos«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: +++ Corona-News am Montag +++: Tausende Menschen protestieren gegen Coronabeschränkungen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: 2G im Einzelhandel: Chef des Weltärztebunds kritisiert Richter wegen Coronaurteilen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Emotionen regulieren (2/8): Finden Sie Gefühle peinlich?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Emotionen regulieren (1/8): Mache ich mir Sorgen, oder bin ich nur müde?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nächster CDU-Chef: Wie Friedrich Merz das Hardliner-Image ablegt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Die Lage am Morgen: Verspricht Olaf Scholz zu viel?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Krimi-Vote: Wie gefiel Ihnen das Lindholm-Lindenberg-Treffen im »Tatort«?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Neue Bestimmungen im Straßenverkehr: Das ändert sich 2022 für Autofahrer
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Zahlen des RKI: Bundesweite Sieben-Tage-Inzidenz steigt wieder
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Eskalation in Schweinfurt: Kind bei Impfgegner-Demo verletzt – Anzeige gegen die Mutter
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Laut Erhebung: Wirtschaftliche Lage von Kliniken so schlecht wie seit 20 Jahren nicht
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Rund um die Feiertage: Iran gewährt christlichen Gefängnisinsassen zehn Tage Hafturlaub
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kampf gegen Omikron: Israel testet vierte Impfung an Klinikmitarbeitern
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Mord an Heiligabend: Frau tötet Freund mit Schwert
+28-Dec-21 13:32:39 - INFO - Trying to scrape: 15 Geschichten aus der Kryptoblase: Pffffffft...
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Sex-Podcasterinnen in der Türkei: Wenn das Wort »Vulva« bereits ein Tabubruch ist
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Umfrage unter Autorinnen und Autoren: Wenn Sie einen Roman über 2021 schreiben müssten…
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Als Reporterin im Flutgebiet: Ich stand an der Straßenecke und habe geheult
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Spektakuläre Flucht aus der Nähe von Paris: Ausgebrochener Häftling aus Frankreich in Düsseldorf festgenommen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nach wochenlangem Regen: Zwei Staudämme in Brasilien gebrochen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nach tödlichem Angriff der Huthi-Rebellen: Saudi-Arabien verstärkt Luftangriffe im Jemen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: 30 Millionen Impfungen: Ist das Impfziel nun erreicht?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Covid-Überlebender warnt ungeimpfte Sachsen: Felice Perani, der glückliche Italiener
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Tod des südafrikanischen Friedensnobelpreisträgers: Politiker weltweit trauern um Desmond Tutu
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Dorf der Zukunft im Wendland: Stadt, Land, Uff
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Verschobene Premieren: Diese Highlights bringt das Kinojahr 2022
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Zum Tode Desmond Tutus: Hamba kahle, Arch – Adieu, großer alter Mann!
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Mild – und nass: So soll das Wetter an Silvester werden
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Recherche zu »Project Veritas«: US-Richter weist »New York Times« zur Zerstörung vertraulicher Dokumente an
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wunderglaube in Westfalen: Wie Karolines Blut zum politischen Zeichen wurde
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Düngerkrise: Der Welt drohen wieder Hungersnöte
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Lappland: Klimawandel treibt Rentiere gen Süden
+28-Dec-21 13:32:39 - INFO - Trying to scrape: 4:0 nach 30 Minuten, 4:3 nach 60: Manchester City und Leicester liefern sich Spektakel am Boxing Day
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Flucht nach Europa: Dutzende Menschen sterben bei Bootsunglücken auf dem Mittelmeer
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ministerinnen der Bundesregierung: Die gibt’s ja auch noch!
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Großeinsatz mit fünf Festnahmen und vier verletzten Polizisten: Beziehungsstreit in Fürth eskaliert
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Fußballer–Posts zum Fest: Heiße Weihnacht!
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Langfristige Entwicklung: Warum wir mehr Optimismus wagen können
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Dein SPIEGEL Podcast: Ein Flamingo als Lehrer
+28-Dec-21 13:32:39 - INFO - Trying to scrape: ARD-Feiertagskrimi mit Lindenberg-Gastauftritt: Der Lindholm-»Tatort« im Schnellcheck
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Auch Zugvögel betroffen: Vogelgrippe breitet sich in Israel aus
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Lord Alfred Dubs, vom Flüchtling zum Retter: »Uns drohte der Tod. Aber das verstand ich damals noch nicht«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Handball-Bundesliga: Nach 16 Siegen – Magdeburg verliert zum ersten Mal
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wegen ausgefallener Flüge gestrandet: Briten feiern Weihnachten am Bondi Beach in Sydney
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Spätere Sperrstunde zu Ehren der Queen geplant: Cheers, my dears!
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Schutz vor Omikron-Variante: Rundfunk Berlin-Brandenburg führt 2G-Regel ein
+28-Dec-21 13:32:39 - INFO - Trying to scrape: #metoo: Die Akte Mockridge
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Besetztes Territorium Syriens: Israel will Besiedlung der Golanhöhen massiv vorantreiben
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Spionieren und Schmuggelversuche: Drohnen über Gefängnissen rufen Justizbehörden auf den Plan
+28-Dec-21 13:32:39 - INFO - Trying to scrape: 30 Millionen Dosen seit Mitte November: Bundesregierung erreicht selbst gesetztes Impfziel
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Endlich Zeit?: Diese Serien müssen Sie 2021 unbedingt noch sehen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Eine rätselhafte Patientin: Weshalb dreht sich bei der Schwangeren alles im Kreis?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Verschenken, reparieren, recyceln: So bekommen alte Smartphones ein zweites Leben
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Gefrierender Regen: Wetterdienst warnt vor Glatteis
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Gewalttat in Dortmund: 30-Jähriger soll seine Mutter erstochen haben
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Durchbrüche und Wachstum 2021: Fünf hervorragende Nachrichten aus diesem Jahr
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Viele Feiertage an Wochenenden: 2022 wird ein arbeitnehmerunfreundliches Jahr
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Neue Regeln der Taliban: Frauen in Afghanistan dürfen nur noch mit Hidschab im Auto mitfahren
+28-Dec-21 13:32:39 - INFO - Trying to scrape: He-Man und »Teenage Mutant Hero Turtles«: Spielzeugdesigner Mark Taylor ist tot
+28-Dec-21 13:32:39 - INFO - Trying to scrape: CDU-Politikerin Serap Güler im Interview: »Ohne Quote werden wir es nicht schaffen, mehr Frauen für die CDU zu begeistern«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Fußball in England: Online-Hetze soll künftig Stadionverbot nach sich ziehen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Impfstoffe in ärmeren Ländern: AstraZeneca könnte im Kampf gegen Omikron entscheidend sein
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Zum Tod von Trainer Willibert Kremer: Durch ihn wurde Bayer Leverkusen, was es ist
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Waffenausfuhren auf Rekordniveau: Baerbock dringt auf schärfere Regeln für Rüstungsexporte
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Schöne Bescherung: Verona Pooth an Heiligabend bestohlen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Cartoons der Woche: »Tut mir leid. Versuchen Sie es nächstes Jahr noch mal!«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wintertransfers des FC Bayern: »Unser Kader ist top besetzt«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Bayerns Gesundheitsminister: Holetschek bringt höhere Kassenbeiträge bei Impfpflicht-Verstößen ins Spiel
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Peter Tschentscher über Corona-Protest in Hamburg: »Wir können nicht erwarten, dass 100 Prozent der Menschen überzeugt sind«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Vierschanzentournee: Geiger führt deutsches Aufgebot an
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Zum Tod Desmond Tutus: Das Lachen des Siegers
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Alles auf null gestellt»: Harting-Brüder haben sich versöhnt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Pläne von Agrarminister Özdemir: Weniger Tiere, mehr Hanf
+28-Dec-21 13:32:39 - INFO - Trying to scrape: NFL: Rodgers schnappt sich Favres Touchdown-Rekord
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Boxing Day ohne den Trainer: Steven Gerrard fehlt Aston Villa wegen Coronainfektion
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Freundschaft statt Liebe: Yvonne Catterfeld und Oliver Wnuk verkünden Trennung an Weihnachten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Jugendschutz im Internet: Pornoportal xHamster droht Netzsperre
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Im Alter von 90 Jahren gestorben: Friedensnobelpreisträger Desmond Tutu ist tot
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Auf Rügen: Bus stößt mit Wasserbüffel zusammen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ende statt Anfang Januar: Regierung verschiebt Termin für 80-Prozent-Impfziel
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Günstiger Oldtimer – Citroën BX: Göttin auf Diät
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Rätsel der Woche: Flüchtige Begegnung am Bahnsteig
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Der Bergdoktor«-Darsteller Hans Sigl: »Was stimmt mit Jan Josef Liefers nicht?«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Corona-News am 26. Dezember: Israel testet vierte Impfung
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Drei SPD-Abgeordnete ziehen zusammen: Wer putzt in der roten Abgeordneten-WG?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Fußball-Profi Jimémez in England: Er brach sich den Schädel, rang um sein Leben – jetzt trifft er in der Premier League
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Umfrage ein Jahr nach dem endgültigen Austritt: Mehr als 60 Prozent der Briten sehen Brexit negativ
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Bei mutmaßlichem Selbstmordanschlag: Tote und Verletzte bei Bombenexplosion in der Demokratischen Republik Kongo
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ehemaliger Spieler und Trainer in der Fußball-Bundesliga: Willibert Kremer ist tot
+28-Dec-21 13:32:39 - INFO - Trying to scrape: "Merry Christmas": Sehr unterschiedliche Weihnachtsgrüße von Biden, Obama und Trump
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Aus Afghanistan evakuierte Deutsche: »Ich fühle mich ein bisschen schuldig«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Weihnachtsansprache des Bundespräsidenten: »Wir müssen uns auch nach der Pandemie noch in die Augen schauen können«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Leichenfund: Militär in Myanmar soll mehr als 30 Zivilisten getötet haben
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Während die Queen Weihnachten feiert: Bewaffneter Eindringling auf Gelände von Schloss Windsor festgenommen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Hubble«-Nachfolger: Weltraumteleskop »James Webb« ist ins All gestartet
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Geschenke gerettet: Fahrzeug brennt auf Weg zur Bescherung aus
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Hotline gegen häusliche Gewalt in Lateinamerika: Hilfe, ich will meine Frau schlagen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Taxifahren in der Weihnachtsnacht: Er hat immer abgeliefert
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wichtige Einstellungen für neue Geräte: Elf Tipps für iPhone-Anfänger
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wichtige Einstellungen für neue Geräte: Tipps für Android-Anfänger
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Animationsfilm »Encanto«: Ist das noch die alte Disney-Magie?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Extrembergsteiger Jost Kobusch: »Die Angst macht den Reiz aus«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Australiens Außenposten im Indischen Ozean: Weihnachtsinsel – das klingt nur so einladend
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Man gehört nicht richtig dazu«: Warum Chefs Arbeiterkinder fördern sollten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Geschichte des Afghanistan-Konflikts: Wie die Gewaltspirale begann
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Syrienkonflikt: Wasser als Waffe
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Hartz-IV-Berater über das neue Bürgergeld: »Wie soll sich jemand sozial stabilisieren, wenn er nicht mal genug Geld zum Essen hat?«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Weihnachtsgeschenk für La Palma: Vulkanausbruch nach Monaten beendet
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Klopp über Pflegekräfte in der Pandemie: »Diese Leute sind die wahren Helden«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nach Putsch: Neue Massenproteste gegen das Militär im Sudan
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Tipps vom Raritätenhändler: 900 Euro für eine Flasche Wein? Unter diesen Umständen lohnt es sich
+28-Dec-21 13:32:39 - INFO - Trying to scrape: In Südfrankreich: Spaziergänger finden enthauptete Leiche am Weihnachtsmorgen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Neue Fraktionschefinnen der Grünen: Warum druckst die Ampel so herum, Frau Dröge und Frau Haßelmann?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ex-Liverpool-Spieler: Daniel Sturridge muss 30.000 Dollar zahlen - für seinen eigenen Hund
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Basketball-Wunder: Jubelsturm auf dem Schulhof
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Drogenfund: Fahnder in Hongkong beschlagnahmen 1,3 Tonnen Ketamin
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Bei Reise zur Tante: Kinder verlieren sich bei Zugfahrt an Heiligabend – und werden wieder vereint
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Weltraumteleskop: »James Webb« startet seine Mission
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Österreichs Ex-Kanzler: Sebastian Kurz geht laut Medienberichten in die USA
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nur 67.119 Impfungen am Freitag: Weihnachtsfeiertage bremsen Impfkampagne offenbar aus
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kates und Leonardos emotionales Wiedersehen: »Ich konnte nicht aufhören zu weinen«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: BER im Coronajahr 2021: Ein Flughafen, der nur dann funktioniert, wenn niemand fliegen möchte
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Jahrzehnt mit niedrigerer Rendite«: Norwegens Staatsfonds erwartet Inflation und Kursverluste
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Royale Weihnachtsgala: Kate spielt zum ersten Mal öffentlich Klavier
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Forderung nach »Sommerkarneval«: Kölner Karnevalisten hadern mit Landsmann Lauterbach
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Plus von etwa zehn Prozent«: Weißer Ring sieht deutliche Zunahme häuslicher Gewalt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Von Weihnachtskeksen, dreckiger Wäsche und Wutanfällen: Wie sieht eine erwachsene Beziehung zu den Eltern aus, Frau Buhl?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Omikron-Variante: Tausende Flüge fallen zu Weihnachten aus
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Erneute Pause: Corona verlängert die Weihnachtspause in der NHL
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Weihnachtsfrust: Acht Lösungen für unmögliche Geschenke
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wegen hoher Immobilienpreise: Australier kaufen sich Inseln statt Häuser
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Tausende Erdstöße: Neue Erdbebenserie in Vulkangebiet auf Island
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kunstausstellung in den USA: »Oh, ich liebe brasilianische Frauen« – ist das wirklich ein Kompliment?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Untergang der Sowjetunion 1991: »Das Steuer entgleitet den Händen«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Bildband »Ferrari 75«: Das Auge fährt mit
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Winterfront: OSZE beobachtet Verstöße gegen Waffenstillstand in Ostukraine
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nahe der französischen Grenze: In der Schweiz bebt die Erde
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wegen hoher Lebenshaltungskosten: Tafeln rechnen mit mehr Zulauf
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Boote gekentert: Mindestens 27 Menschen sterben vor Weihnachten in der Ägäis
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Bei San Luis Obispo: Weißer Hai tötet Surfer vor Kaliforniens Küste
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Atemnot, Fieber, Müdigkeit: Van Barneveld bei Darts-WM an Corona erkrankt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nach europäischer Kritik am Krisenstaat: Mali bestreitet Kampfeinsatz russischer Söldner
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Last-Minute-Genehmigungen der GroKo: Deutschlands Rüstungsexporte steigen auf Rekordwert
+28-Dec-21 13:32:39 - INFO - Trying to scrape: +++ Corona-News +++: Söder: »Impfpflicht wird Spaltung der Gesellschaft überwinden«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Die Woche: Die Omikron-Gefahr, der Fall Peng Shuai und gute Nachrichten aus 2021
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Glück unterm Christbaum: Eurojackpot an Heiligabend geknackt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Let's go Brandon, I agree«: US-Präsident Biden wird öffentlich verunglimpft – und stimmt zu
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Papst ruft an Weihnachten zu Bescheidenheit auf: »Hören wir auf zu jammern«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: American Football: NFL-Profi bei Autounfall schwer verletzt, Beifahrerin tot
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Private Seenotrettung: Fast 200 Migranten im Mittelmeer gerettet
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Notoperation: Bahnrad-Weltmeisterin Pieters liegt nach Sturz im künstlichen Koma
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Predigt an Heiligabend: Die Weihnachtsbotschaft kommt genau zur richtigen Zeit
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Baden-Württemberg: 27-Jähriger feuert tödliche Schüsse auf seinen Vater ab
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Autos erreichen Altersgrenze: Jahrgang 1992 – das sind die neuen Oldtimer
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Rheinland-Pfalz: 50-Jähriger zersticht 1500 Reifen an über 380 Autos
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Auktion im Januar: Südafrika protestiert gegen Versteigerung von Mandelas Zellenschlüssel
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Neue Staffel »Emily in Paris«: Überall Champagner, nirgends Gelbwesten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Fehlende Corona-Meldungen an Feiertagen: »Die Daten dürften unterschiedlichsten Interpretationen Tür und Tor öffnen«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »James-Webb«-Multimediaspezial: Ein Blick in die tiefste Tiefe von Raum und Zeit
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Tagebuch aus Syrien: Wände, Dach, Wärme – was ein eigenes Zuhause mit der Psyche macht
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Impfaktion am Kölner Dom: »Das ist ja was ganz Besonderes als Kölsch Mädche«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Weihnachtswetter: Im Norden frostig, im Süden unbeständig
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Lwiw: Russland berichtet von angeblichem Angriff auf Konsulat in der Ukraine
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Debatte über Schulschließungen: Kinderschutzbund fordert offene Schulen und Kitas im Jahr 2022
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Bayern: Auto mit Weihnachtsbeleuchtung – Bußgeld für Fahrer
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wegen »bedrohlicher Vorfälle«: Polizei verstärkt Schutz für niederländischen Gesundheitsminister
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Besinnlich sein in der Coronapandemie: Früher war mehr Weihnachten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Australien: Seltener Pinker Handfisch erstmals nach 22 Jahren wieder gesichtet
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Griechenland: Mindestens elf Tote bei Untergang von Flüchtlingsboot in der Ägäis
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Skurrile Brexit-Folge: Die Rückkehr der Pint-großen Sektflaschen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Reisen in der Pandemie: »Ich verlasse einen Hort der Sicherheit«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Rekordstrafe wegen nicht gelöschter Inhalte: Google soll in Russland 87 Millionen Euro zahlen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Proteste gegen Coronaregeln: Bayerns Innenminister ermutigt Kommunen, »Querdenker«-Spaziergänge zu verbieten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Thüringen: Verlängerte Ferien und dann erst mal Distanzunterricht
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Die bescheidene Bleibe des Pontifex: »Wie ein x-beliebiger Gast«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Friedensaktivistin und Literaturwissenschaftlerin: Inge Jens stirbt im Alter von 94 Jahren
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ozeanriesen der Urzeit: Forscher finden Überreste eines riesigen Fischsauriers
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nach Wahlniederlage: Laschet wäre gern NRW-Ministerpräsident geblieben
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Bayern-Boss Kahn über umstrittenes Sponsoring: »Katar boykottieren? Dort keine WM spielen? Und dann?«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Verbalattacke aus Polen: Kaczyński wirft Berlin vor, EU in ein »Viertes Deutsches Reich« zu verwandeln
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nach Lieferdienst-Aus: Gorillas übernimmt 800 Fahrradkuriere von Foodpanda
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Smartphones verschenken: »Viele überschätzen den Kenntnisstand ihrer Eltern oder Großeltern«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Lauterbach dankt Pflegekräften mit Video: »Ich weiß ganz genau, wie schwer Ihre Arbeit ist«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ehemaliges »Segelmädchen« Laura Dekker: »Ich würde nicht mehr allein um die Welt segeln«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ministerpräsidentin Dreyer zur Impfpflicht: »Zehn Millionen Ungeimpfte sind ein zu großes Risiko für die gesamte Gesellschaft«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Sex and the City«-Schauspieler: Weitere Frau beschuldigt Serienstar Chris Noth wegen sexueller Belästigung
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Robert Koch-Institut: Omikron jetzt in allen Bundesländern nachgewiesen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Unfall bei Erfurt: Laster prallt gegen Mast und verteilt Waschmaschinen auf A4
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Unangemessenes Sicherheitsrisiko«: Tesla sperrt Spiele-App in fahrenden Autos
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kinder und Dinosaurier: Eine unaussterbliche Liebe
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Reform des Familienrechts: Es geht nicht mehr um Geld oder Liebe – es geht um Verantwortung
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Marokko ohne Chelsea-Star zum Afrika-Cup: »Störender Einfluss« – Ziyech nicht nominiert
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Weihnachtsschmuck, mathematisch gesehen: »Für mich ist der schönste Stern eine Kugel«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Olympia-Aus für Eishockey-Superstar Leon Draisaitl: »Schöne Bescherung«, doch die Medaillenchancen steigen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Einfluss aus China: Hongkonger Universitäten entfernen weitere Tiananmen-Mahnmale
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Risikofaktor Festtage: Wie gefährlich ist Weihnachten? Sehr!
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Verpackungs- und Geschenkmüll: »Wenn ich sehe, was alles verschickt wird, schlägt mir das aufs Gemüt«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kurzfilm in Schwarz-Weiß: Weihnachtsklassiker »River« bekommt nach 50 Jahren ein Musikvideo
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Erfolglose Flucht vor Haftantritt: Verurteilter Mörder in den Niederlanden gefasst
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Katholische Kirche und Missbrauchsaufklärung: Urteil ohne Richter
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Feuerunglück in Bangladesch: Mehr als 30 Tote bei Brand auf Fähre
+28-Dec-21 13:32:39 - INFO - Trying to scrape: NBA: Franz Wagner erzielt 17 Punkte in sieben Minuten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wintereinbruch am Vorweihnachtstag: Hunderte Verkehrsunfälle wegen Glatteis
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Darts-WM in London: Clemens folgt Hempel in Runde drei – Cross schlägt van Barneveld
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Vater der inhaftierten Maria Kalesnikava: »Sie ist mir ein Vorbild, ich bin sehr stolz auf sie«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Opernstar Cecilia Bartoli: »Das Schwierigste ist nicht das Singen, sondern auf hohen Schuhen zu laufen«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Korruption: Südkoreas Ex-Präsidentin Park wird begnadigt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kältehilfe: Am Alex steht ein Hofbräuhaus (Obdachlosen offen)
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Corona-News am Heiligabend: Weltweit mehr als 2000 Weihnachtsflüge wegen erkrankten Personals ausgefallen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Jürgen Trittin zum Tod des Verlegers Klaus Wagenbach: Er hat Deutschland geöffnet
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Gesägt, getan: Ho-Ho-Holzbaum
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ausgrenzung: Lassen Sie mich durch – ich habe einen Assistenten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Weihnachtsansprache: Steinmeier dankt der »großen, oft stillen Mehrheit«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Sekt zu Weihnachten: Knallen die Korken, freut sich der Finanzminister
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Von der lokalen Polizei ausgezeichnet: Elfjähriger aus Oklahoma rettete zwei Menschen am selben Tag das Leben
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nach Tumorbehandlung: Pelé wieder aus Krankenhaus entlassen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nach schweren Kopfverletzungen: 18-jähriger Eishockeyspieler stirbt nach Unfall bei Ligaspiel
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Weihnachtsstimmung statt Radarkontrolle: Stadt verkleidet Blitzer als Rentierschlitten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Coronagespräche an Weihnachten: Mit diesem Wissen können Sie kontern
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Polizeigewalt in den USA: Ex-Polizistin im Fall Daunte Wright für schuldig befunden
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Rechtsstreit um Kapitol-Attacke: Trump zieht vor den Supreme Court
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Posse um eine CD: Eric Clapton lenkt bei Rechtsstreit gegen Frau aus NRW ein
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Jahrespressekonferenz von Wladimir Putin: »Alle reden von Krieg, Krieg, Krieg«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Ihre Prosa hat Millionen Menschen beeinflusst«: US-Schriftstellerin Joan Didion ist tot
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Berlin: Kaufhof scheitert mit Eilantrag gegen 2G-Regel
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Omikron-Verläufe wohl milder: Medizinisch vorteilhaft, epidemiologisch trotzdem gefährlich
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Corona-Übersicht: Welches Bundesland seine Regeln sofort verschärft – und welches erst nach Weihnachten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Bin keine Impfgegnerin«: Lisa Fitz äußert sich nach Falschaussagen zu Impftoten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Hilfe für Schutzbedürftige: Baerbock will Evakuierung aus Afghanistan beschleunigen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Russlands Drohungen und der Westen: Will Putin wirklich die Ukraine angreifen? Und wenn ja – was dann?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Sea-Watch 3«: Italienische Justiz lässt letzte Anschuldigung gegen Carola Rackete fallen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kurioses Video: Sprengt ein Finne seinen Tesla
+28-Dec-21 13:32:39 - INFO - Trying to scrape: James-Webb-Weltraum-Teleskop: Griff nach den Sternen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Unsere Filme der Woche: Selbst »My Heart Will Go On« wird erstaunlich beiläufig behandelt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Download-Tipps: Diese Indie-Games retten das Spielejahr 2021
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Umstrittene Züri City Card: Warum Zürich einen Ersatzausweis für Illegale einführen will
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Maskenpflicht im Freien in Spanien: »Ich will einfach nicht, dass alles geschlossen wird«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Coronavirus in Nigeria : Eine Million Impfdosen für die Müllhalde
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Start des »James Webb«-Teleskops: »Es gibt 59 Momente, in denen etwas schiefgehen könnte«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Die Lage am Abend: Merz und Merkel: Tatsächlich… Liebe?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Omikron-Ausbreitung: Spanien und Portugal werden Corona-Hochrisikogebiete
+28-Dec-21 13:32:39 - INFO - Trying to scrape: CNN-Bericht: Saudi-Arabien soll an eigenen Raketen bauen – mit chinesischer Hilfe
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Erstes Foto der Tochter von Harry und Meghan: Lilibet lacht
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Millionen-Steuerhinterziehung: »Batman« zu mehr als drei Jahren Haft verurteilt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Gefesselt und geschlagen: Trio soll 91-Jährigen in dessen Haus überfallen haben
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Verhandlungen mit Herstellern: Bundesregierung will neu entwickelte Corona-Medikamente beschaffen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kampf um aufständische Region: Regierung meldet Stopp des Vormarschs auf Tigray
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Weihnachtsohrwurm von Wham!: »Last Christmas« nach 37 Jahren erstmals an der Spitze der Charts
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Schmackhaftes TV-Gerät: Leck mich!
+28-Dec-21 13:32:39 - INFO - Trying to scrape: 3. Liga: Nach Rassismus-Vorfall – abgebrochene Fußballpartie wird wiederholt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Überarbeitung der Maastricht-Kriterien: Macron und Draghi wollen EU-Haushaltsregeln grundlegend reformieren
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Britische Band: Coldplay-Sänger kündigt letztes Album für 2025 an
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Coronapandemie: Kann ich Weihnachten mit Oma und Opa feiern?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Österreich: Eltern bei den Nachbarn – Zweijähriger verlässt das Haus und erfriert
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Mecklenburg-Vorpommern: Linke Justizministerin lässt Interview-Passagen über DDR streichen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Formel 1: Ferraris Pläne mit Mick Schumacher
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Paketboom im Advent: Rushhour in Glinde
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nordrhein-Westfalen: Fahndung nach verurteiltem Mörder – Polizei veröffentlicht Fotos von Fluchtwagen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wirtschaftskrise in der Türkei: »Wir waren noch nie so verzweifelt wie jetzt«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Interne Untersuchungen: TikTok Deutschland stellt offenbar Cheflobbyisten kalt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Sprachkompetenz der Außenministerin: Baerbock reagiert auf Kritik an vermeintlich unsauberem Englisch
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Verächtlichmachung des Staates«: Verfassungsschützer sehen AfD als Treiber radikaler Coronaproteste
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Die Toten der Juliflut: Wie viele grausame Details gehören in einen Text?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Coronavirus: RKI meldet ersten Omikron-Todesfall in Deutschland
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Konflikt mit Russland: Merz signalisiert Unterstützung für Defensivwaffen-Lieferungen an die Ukraine
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Designierter FDP-Generalsekretär Djir-Sarai: »Ich bin kein Exot, ich bin Teil der Realität dieses Landes«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Überladenes Auto: Polizei stoppt Mann mit drei Weihnachtsbäumen im Gepäck
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Bibi's Last Act: A Look Back at Israel’s Longest-Serving Prime Minister
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kurz vor Handball-EM: DHB verlängert mit Bundestrainer Gíslason
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Explodierende Preise, drohende Knappheit: »Russland hat Europas Energiemärkte gerade in der Hand«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Sachsen: Betrunkener ruft Polizei – die entdeckt Waffen und Nazidevotionalien
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kranke Fürstin von Monaco: Charlènes Genesung kann noch Monate dauern
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nato und Ukrainekonflikt: Putin fordert vom Westen sofortige Sicherheitsgarantien
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Geboren 2021: So aufregend wird die Zukunft unserer Kinder
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wie die Menschen im Ahrtal Weihnachten feiern: Heiligabend in Trümmern
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Mutmaßlicher Millionenschaden: Verteidigungsministerium will gegen frühere Chefs der »Gorch Fock«-Werft klagen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Umfragen: Lauterbach steigt auf Platz drei der SPIEGEL-Politikertreppe ein
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Seuchenexperte über die Entwicklung der Pandemie: »Das Virus steht selbst vor einer tödlichen Bedrohung«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Britischer Schriftsteller appelliert an die Ampel: Deutschland darf sich nicht länger unter der Kuscheldecke verstecken
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Im Restaurant mit Reiner Calmund: »Nur ein kleines Rösti dabei, dann ist Schluss. Ja?«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Historikerin über das Leben in Umbruchzeiten: »Es gibt immer mehr als einen Weg in die Zukunft«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Carsten Breuer leitet den Corona-Krisenstab: Kommt ein General ins Kanzleramt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Fragwürdige Szenen in einem Thüringer Gericht: Die Corona-Tiraden des Richter Kuba
+28-Dec-21 13:32:39 - INFO - Trying to scrape: 40 Jahre »Traumschiff«: Kurs auf die Seichtchellen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Psychiater über Corona und Weihnachten: »Wenn Kränkungen tief sitzen, helfen selten Argumente«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Mordaufträge übers Darknet: Bitcoin für den Killer
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Entdecker, Selfmade-Millionär, Aufschneider: Wie Heinrich Schliemann fast das sagenumwobene Troja zerstört hätte
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Pyrotechnik in der Pandemie: Was macht die letzte deutsche Raketenfabrik, wenn Silvester ausfällt?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Großbritannien in der Krise: Die Brexit-Hauptstadt hat genug von Boris Johnson
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Feuerfontänen und Lavaströme auf La Palma: Das Rätsel um den Cumbre Vieja
+28-Dec-21 13:32:39 - INFO - Trying to scrape: DDR-Moderne, Stummeltürme, Brachflächen: Fühlen Sie sich in Berlin wohl, Frau Baudirektorin?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Afghanistan-Tagebuch eines Bundeswehrsoldaten: »Ich zittere leicht. Verdammte Scheiße, ich kann hier nichts machen«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Aufgenommene Nachrichten per Handy: »Sprachis« haben radikal verändert, wie ich mit Freunden rede
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Olympiasieger Mihambo und Wellbrock: »Noch nie so fertig wie nach diesen Spielen«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Netflix-Satire »Don't Look Up«: Wenn Meryl Streep regiert wie Donald Trump
+28-Dec-21 13:32:39 - INFO - Trying to scrape: ARD-Serie »Eldorado KaDeWe«: Rauschhaus des Westens
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Der Trend geht zum Reparieren: Gebraucht ist das neue Geil
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Mecklenburg-Vorpommern: CDU-Landesvize Ott zeigt sich »dankbar« für Coronaproteste
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Fußballnationaltorhüterin: Almuth Schult erwägt Karriereende mit 31 – auch aus finanziellen Gründen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wegen Omikron-Variante: Ryanair rechnet mit verdoppeltem Verlust
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Mehr Stromer als Benziner zugelassen: Behörde meldet Rekord bei Elektroauto-Kaufprämie
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Auto und Diensthandy weg: US-Abgeordnete am helllichten Tag ausgeraubt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Inflation in Deutschland: Importpreise steigen so stark wie seit der Ölkrise 1974 nicht mehr
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Neue Bildungsministerin über Omikron-Welle: »Schulschließungen könnten notwendig werden«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Coronapandemie: Topjuristin empfiehlt Berücksichtigung des Impfstatus bei Triage-Entscheidungen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Vom konservativen Hardliner zum Karma-Beauftragten der CDU: Die wundersame Wandlung des Friedrich Merz
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Pläne von Biontech, Moderna und Co.: Wann kommt der Omikron-Impfstoff?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Patisserie-Paradies Schweiz: Letzter Gang, erste Sahne
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Virologin Ciesek: »Viele haben keine Motivation mehr, sich mit der Pandemie zu beschäftigen«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Krieg in der Ostukraine: Moskau und Kiew einigen sich erneut auf Waffenruhe
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Indien: Hündin soll sich um Menschenbaby gekümmert haben
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Comeback als Superheldenfigur: Michael Keaton soll Batman in »Batgirl«-Verfilmung spielen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Krippenspiele: Herr Hausy rettet den Weihnachtsmann
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ex-BVB-Profi Kagawa löst Vertrag in Griechenland auf: »Entschuldigung, dass ich eure Erwartungen nicht erfüllen konnte«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Neonazigrab in Dortmund: Streit über die Asche von »SS-Siggi«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Coronakrise in Köln: Grundschulen hissen weiße Flaggen – als Hilferuf
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Bilder von Rettung aus Trümmern: Zwei Babys überleben Tornado – in der Badewanne
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kampf gegen die fünfte Coronawelle: Warum Israel dem Rest der Welt einen Schritt voraus ist
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Renditehatz: Bundesbank-Vizechefin warnt Geldhäuser vor allzu sorgloser Kreditvergabe
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Missglücktes Klassiker-Remake: Ziemlich taube Nüsse
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Appell an Polizei und Staatsanwaltschaft: Antisemitismusbeauftragter Klein drängt Justiz zu hartnäckigeren Ermittlungen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Großmachtpläne des russischen Präsidenten: Die Putin-Doktrin
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Fahrerinnen von Riesentrucks: Frauen erobern eine Männerbastion
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Zu viele Piloten erkrankt: Lufthansa streicht Fernflüge
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Dynamische Null-Covid-Strategie«: China verhängt Lockdown für Millionenstadt Xi'an
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Zögerliche Maßnahmen der Ampelkoalition: Ein Fest für das Virus
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Nichts ist gut genug«: Biden räumt Fehler bei Beschaffung von Schnelltests ein
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Unter Bürgerkriegs-Statue: 130 Jahre alte Zeitkapsel lässt US-Historiker rätseln
+28-Dec-21 13:32:39 - INFO - Trying to scrape: SPD-Fraktionschef Mützenich zu Corona und Ukrainekrise: »Wir müssen aus dem Teufelskreis herauskommen«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Fußball in Spanien: Guardiola bestätigt Torres-Transfer zu hochverschuldetem FC Barcelona
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Säule der Schande«: Hongkong entfernt Tiananmen-Mahnmal von Universitätsgelände
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Sieben Tote in einer Familie: US-Polizei ermittelt nach Vergiftung durch Kohlenmonoxid
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Vorschlag von Friedrich Merz: Klöckner soll offenbar neue CDU-Schatzmeisterin werden
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Sozialer Wohnungsbau: Bund und Länder einigen sich auf Fortsetzung der Milliardenförderung
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Autohandel: Neuwagen sind so teuer wie nie
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wege aus der Pandemie: Stimmen nach Impfpflicht mehren sich – FDP stellt sich quer
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Berufseinstieg als Kirchenmusiker: »Ich habe eine Versicherung für meine Hände abgeschlossen«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Truppenaufmarsch in der Grenzregion: Moskaus EU-Botschafter: Russland bereitet keine Invasion in der Ukraine vor
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Alles außer Corona: Die guten Nachrichten des Jahres 2021
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Die Lage am Morgen: Die schizophrene FDP
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Mögliches Duell mit Donald Trump: Zweite Amtszeit? Joe Biden wird konkreter
+28-Dec-21 13:32:39 - INFO - Trying to scrape: +++ Corona-News +++: Mann soll 150 Impftermine gebucht haben – System lahmgelegt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Sturm auf Kapitol: Früherer Trump-Berater Flynn scheitert mit Klage gegen US-Kongress
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nordrhein-Westfalen: Raubüberfall auf Dönerimbiss – Polizei schießt Mann an
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Coronavariante: Britische Studien bestätigen offenbar mildere Verläufe bei Omikron-Erkrankungen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Nicht klar im Kopf«: James Franco spricht über Sucht nach Alkohol, Ruhm und Sex
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Jahrelange Fehde: Merz geht auf Merkel zu
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Tornado-Katastrophe in Kentucky: Katze nach neun Tagen lebend unter Trümmern gefunden
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kokain und Crystal Meth: Mann mit um den Penis gewickelten Drogen bestreitet, dass diese ihm gehören
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Loriots »Weihnachten bei Hoppenstedts«: »Vielen Dank, jetzt ist es komisch«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Blackstone-Investor beim FC Augsburg: Wenn »Blitz« in die Bundesliga einschlägt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Gründer der 25h-Hotels: »Ich habe für dieses Jahr die Nase voll von Hotels«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Trauriger Rekord: Mehr als eine Million Coronatote in Russland
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Angriffe auf Medienvertreter: 5000 Menschen bei Coronademo in München – Zusammenstöße mit Polizei
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Coronamaßnahmen der Ampelparteien: Union erhöht Druck auf Bundesregierung
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Gründer von »The Trade Desk«: Tech-Milliardär verlässt Mormonen und spendet 600.000 Dollar an LGBTQ-Aktivisten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nach Unfall mit vier Toten: US-Trucker zu 110 Jahren Haft verurteilt – Kritik an Strafe
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Pflegerin wegen vier Morden verurteilt: »Die Tötungsfantasien sind weiterhin vorhanden«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wie die SPD: Auch FDP unterstützt zweite Amtszeit von Bundespräsident Steinmeier
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Karl Lauterbach und Lothar Wieler: »Hier kam die Frage, ob ich noch zu Herrn Wieler stehe...«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Neue Enthüllung in Österreich: »Du bist die Hure für die Reichen!«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Der Brüssel-Effekt«: Die Europäer machen die Regeln – und die anderen das Geschäft
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Benachteiligte Kinder in der Pandemie: »Der emotionale Stau ist schon jetzt riesig«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Eltern in der ersten Impfwoche bei Kindern ab fünf Jahren: »Sehr impffreudig, top informiert«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: SPIEGEL-Anfrage: Niedrige Coronaimpfquote bei sächsischer Polizei
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Fünf Millionen Dollar pro Monat: Sri Lanka darf Schulden mit Tee bezahlen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Negativzinsen 2021: Bund verdient beim Schuldenmachen fast sechs Milliarden Euro
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nordrhein-Westfalen: Verurteilter Mörder legt Fußfessel ab und flüchtet vor der Haft
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Coronapandemie: Eine UV-Licht-Wand gegen das Virus
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Neuer »Matrix«-Film mit Keanu Reeves: Umwerfend intelligent und sagenhaft blöd
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kreuzfahrten über die Feiertage: Geimpft, geboostert, getestet? Gefrustet!
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Pressekonferenz von Lauterbach und Wieler: »Keine Aussagen, die Freude machen«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kabul Diary: »Aus hungernden Kindern können keine gesunden Erwachsenen werden«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Niederländer kommen über die grüne Grenze: Lockdown? Ab nach Deutschland
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Urteil gegen prominenten Regimekritiker: Wie Ägypten Menschenrechte für PR benutzt und weiter Dissidenten inhaftiert
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Die Lage am Abend: Lauterbach & Wieler, die Chaos-Show
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Coronamaßnahmen nach Weihnachten: Zynisches Zögern
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Brasilien: Gigantische Brände töteten Millionen Wirbeltiere
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Russischer Staatssender: Medienaufsicht schränkt Ausstrahlung von deutschsprachigem RT-Angebot ein
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Hamburg: Vergewaltigung einer 15-Jährigen – Anklage gegen elf Männer
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Verschwörungstheorien: Brigitte Macron geht juristisch gegen Behauptungen vor, sie sei als Mann geboren worden
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Brief an Länder: Habeck fordert Aufschub für Rückzahlung von Corona-Soforthilfen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Bundespräsident regt erneute Prüfung an: Steinmeier zweifelt an Gesetz zur Wiederaufnahme von Mordverfahren
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Rajvinder Singh ist tot: Er sprach Raj in »The Big Bang Theory« – und sah mit sechs Augen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Peking 2022: Eishockeystar Draisaitl wieder nicht bei Olympia dabei
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Weihnachten aus Sicht einer Hebamme: Happy Birthday, Jesus!
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Einschätzungen zu MPK-Beschlüssen: »2G bei Omikron ist im Grunde null G«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Griechenland: Boot sinkt nahe Santorin – ein Mensch ertrunken, Dutzende vermisst
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Trotz Coronapandemie: Hunderte feiern Wintersonnenwende in Stonehenge
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Claus Kleber über den Abspann vom »heute journal«: »Jetzt werden sich wieder alle fragen, worüber wir sprechen«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Erfahrungen eines Studienteilnehmers: Geimpft – und ausgesperrt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Außenministerin Baerbock zum Ukrainekonflikt: »Ja, meine Sorge ist groß«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Lieferprobleme: McDonald's verkleinert Pommesportionen in Japan
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Riesenslalom in Courchevel: Sara Hector überrascht sogar den Superstar
+28-Dec-21 13:32:39 - INFO - Trying to scrape: "Mama, Pray for Us": A Chronicle of Refugee Deaths along the Border Between Poland and Belarus
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Sì sì sì sì sì vax, vacciniamoci«: Italienisches Virologentrio singt Impfaufruf
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wetter in Deutschland: Der Norden darf auf weiße Weihnachten hoffen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Fußballquiz: Wie gut wissen Sie über die Bundesliga-Hinrunde Bescheid?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Darts-Profi Florian Hempel: Vom Feierabendspieler zur WM-Sensation
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Selbstständige: Angeschmiert im Angestelltenland
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Weihnachtsessen-Index des IW: Wo Kartoffelsalat mit Würstchen am teuersten ist
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ende für Foodpanda: Delivery Hero gibt Liefergeschäft in Deutschland wieder auf
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Vorschlag der Bundesnetzagentur: So schnell sollte Ihr Internet mindestens sein
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Baby-Dinosaurier in Ei entdeckt: »Eines der schönsten Fossilien, die ich je sah«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Pressekonferenz zur Coronalage: Lauterbach und Wieler spielen Differenzen herunter
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Justizstreit: EU-Kommission leitet weiteres Vertragsverletzungsverfahren gegen Polen ein
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Inuyama in Japan: Affentreff am Lagerfeuer
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Monitoringbericht: Große regionale Unterschiede bei Kitaqualität
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nach Show-Niederlage: Joko und Klaas führen an Silvester »Dinner for One« auf
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Streit in den USA: Flugzeughersteller und Airlines warnen vor neuer 5G-Mobilfunktechnik
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Abschuss von MH17 mit 298 Toten: Anklage fordert lebenslange Haft für vier prorussische Rebellenoffiziere
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Verkehrspolitik der FDP: Die Pläne der Porsche-Partei
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Trotz Schokolade-Boom: Kakaobauern leiden unter fallenden Preisen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Mister Big« aus »Sex and the City«: Ex-Freundin erstritt Kontaktverbot gegen Chris Noth
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Geplante Bafög-Reform: Zum Studienstart notfalls einen Laptop
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Geldentwertung: EZB-Direktorin Schnabel warnt vor »Aufwärtsrisiko«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Pressekonferenz: So läuft der gemeinsame Auftritt von Lauterbach und Wieler
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Der Bundesländer-Überblick: Hier können Sie sich während der Feiertage impfen lassen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Was Schmuckanalysen aus Afrika verraten: Das Social Media der Steinzeitmenschen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Corona-Modellland Südkorea: Doch nicht so locker durch die Krise
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Corona in Deutschland: Omikron-Variante im Bundestag nachgewiesen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kommt ein Syrer nach Rotenburg (Wümme): Aus weniger wird mehr
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Jemen: Uno reduziert Hilfslieferungen wegen fehlender Gelder
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Verwendung von Nazisymbolen: Hitlergruß aus Protest gegen AfD – Mann muss Geldstrafe zahlen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Werbung« für Schwangerschaftsabbrüche: Minister Buschmann und Spiegel wollen Paragraf 219a im Januar abschaffen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Fragiler Waffenstillstand: Libysches Parlament hält Präsidentschaftswahl am Freitag für unmöglich
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Statistisches Bundesamt: Wohnimmobilien verteuern sich rasant
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Republikaner umwerben Demokraten Manchin: »Wir hätten ihn natürlich liebend gern im Team«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Niedrigster Bestand seit 25 Jahren: In Deutschland werden immer weniger Schweine gehalten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Landgericht Potsdam: Bluttat im Oberlinhaus – 15 Jahre Haft
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Bundesverfassungsgericht: Xavier Naidoo durfte Antisemit genannt werden
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ryan Reynolds: »Sie glauben, dass ich Ben Affleck bin – und ich habe sie nie korrigiert«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nach Ministerpräsidentenkonferenz: Lehrergewerkschaft fordert Klarheit für Schulen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wirtschaftskrise: »Astronomische Inflation« auf Kuba liegt bei 70 Prozent – mindestens
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wetter in Französisch-Guayana ungünstig: Start für James-Webb-Weltraumteleskop verzögert sich erneut
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Debatte über mutmaßliches Da-Vinci-Bild: »Leonardo hat ja meistens interessantere Sachen gemalt«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Abitreffen nach zehn Jahren: Schön, dich wieder kennenzulernen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Auswertungen der Netzbetreiber: Mobilfunk-Datenverkehr nimmt stark zu – vor allem auf dem Land
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Academy Awards: »Ich bin dein Mensch« auf Shortlist für den besten ausländischen Film
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ifo-Umfrage zum Einzelhandel: Lieferprobleme verschärfen sich im Weihnachtsgeschäft
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Trotz Omikron: Kein Lockdown mehr in Down Under
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Spähsoftware: Polnische Oppositionelle sollen mit Pegasus gehackt worden sein
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Finanzkriminalität: Wie Hessen Kryptogeld im Wert von 100 Millionen Euro loswurde
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Omikron-Welle in den USA: Bidens bittere Weihnacht
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Arztdarsteller Hans Sigl: »Der Bergdoktor würde rund um die Uhr impfen«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Geplanter »Väterurlaub«: Arbeitgeber werfen Familienministerin Spiegel Aktionismus vor
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Formel 1: Mick Schumacher wird Ersatzfahrer bei Ferrari
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Darts-WM in London: Debütant Hempel wirft Mitfavorit raus
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Treffen auf Schloss Elmau: Absicherung des G7-Gipfels soll 166 Millionen Euro kosten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ostbeauftragter Schneider zu Coronaleugnern: »Drohungen oder Einschüchterungsversuche sind völlig inakzeptabel«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Judith Holofernes über Wir-sind-Helden-Song: Who the fuck is Aurélie?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Die aktuelle Stellenanzeige: Insel sucht König
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wirtschaft in Großbritannien: Deutsche Unternehmen spüren Brexitauswirkungen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Myanmar: Tote und Verletzte nach Erdrutsch in Jademine
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kritische Infrastruktur in Gefahr: Fachleute erwarten Millionen Arbeitsausfälle durch Omikron
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kritik an Coronamaßnahmen: »Das alles ist der Bevölkerung nicht zu erklären«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Corona-News am Mittwoch: In Spanien gilt wieder Maskenpflicht im Freien
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Fünfte Coronawelle: Was wir über Omikron wissen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Die Lage am Morgen: Das rebellische Robert Koch-Institut
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Coronavirus in Deutschland: RKI meldet 45.659 Neuinfektionen – Sieben-Tage-Inzidenz sinkt erneut
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Madagaskar: Minister schwimmt nach Hubschrauberabsturz zwölf Stunden zur Küste
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Hobbit-Häuser im Harz: Wo Deutschlands letzte Höhlenmenschen wohnten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wegen Omikron: Israel will Menschen über 60 Jahren vierte Impfung geben
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Fauci über »Todesschuss«-Bemerkung von Fox-News-Moderator: »Der Mann sollte an Ort und Stelle gefeuert werden«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Lidl-Gründer Schwarz: Ein Multimilliardär baut sich eine Stadt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Pandemie und Konjunktur: Im tiefen Omikron-Tal
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ukrainekonflikt: Bulgarien gegen Stationierung von Nato-Truppen auf Staatsgebiet
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nach Bund-Länder-Runde: Lauterbach schließt Diskussion über harten Lockdown nicht aus
+28-Dec-21 13:32:39 - INFO - Trying to scrape: IT-Schwachstelle: Belgisches Militär von Angriff über Sicherheitslücke Log4j betroffen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Vorläufige Dienstenthebung«: Virologe Kekulé darf offenbar vorerst nicht mehr an Uni Halle lehren
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Corona-Krisengipfel vor Weihnachten: Kein bisschen Frieden
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Richter sprachen von »Gaunerstück«: Inszenierter Banküberfall – Ex-Filialleiter verurteilt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nach Flutkatastrophe im Juli: NRW-Regierung lehnte Einberufung eines Krisenstabs ab
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Risikofaktor Mensch: Warum selbstfahrende Autos noch lange nicht selbst fahren können
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Zu Besuch bei den Sullivans und den Seymours: Zwei britische Großfamilien und ihr turbulenter Alltag
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Eltern am Limit: Ich will doch nur arbeiten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: US-Bundesstaat Idaho: Mutmaßlicher Kannibale soll Körperteile von Mordopfer verspeist haben
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Scholz nach Bund-Länder-Runde: »Ich hätte Ihnen gerne erfreulichere Nachrichten mitgeteilt«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Videokonferenz zu Omikron-Variante: Kontaktbeschränkungen, Großveranstaltungen ohne Publikum – das haben Bund und Länder beschlossen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Neue Coronamaßnahmen: Scholz verkündet schärfere Einschränkungen nach Weihnachten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Pipeline Jamal: Russland stoppt erneut Gaslieferungen nach Europa
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Gaming-Highlights: Das sind die zehn besten Videospiele des Jahres
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Gelsenkirchen: 70-Jähriger braust mit E-Bike Marke Eigenbau an Streife vorbei
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Pressekonferenz: Das sind die neuen Coronamaßnahmen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: So sieht das Alter aus: Warum Lemmy Kilmister mein bester Kumpel wurde
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Offenbar Neutralitätspflicht verletzt: Polizist soll Teilnehmern von Coronademo applaudiert haben
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Die Lage am Abend: Schon wieder einsame Weihnachten?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Omikron-Welle: In kritischen Berufen sollen womöglich auch Infizierte arbeiten dürfen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Höhere Preise und Vorteile für Geimpfte: So könnte das Reisejahr 2022 werden
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Zufallsfund am Strand: Fossil von gigantischem Tausendfüßer entdeckt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Marktanteile 2021: Das ZDF ist der stärkste Sender
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Auktion in Frankreich: Ur-SMS für 107.000 Euro versteigert
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Prozess gegen Bundeswehroffizier: »Antisemitischer Blödsinn« – Richter entzieht Franco A. das Wort
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Tödliche Ausschreitungen am 6. Januar: Trump plant Pressekonferenz zum Jahrestag der Kapitol-Krawalle
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Patientenversorgung akut gefährdet: Krebszentren warnen vor Triage
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kurzbahn-WM: Wellbrock schwimmt zu 1500-Meter-Weltrekord – und 80.000 Dollar Prämien
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Treffen mit Bundesregierung: Länder drängen bei allgemeiner Corona-Impfpflicht zur Eile
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Bund-Länder-Runde: Scholz und Lauterbach verärgert über Coronavorstoß des RKI
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Spanien: Drogendealer wollten Korb mit Kokain, Haschisch und Schinken verlosen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Telefonat mit Kanzler Scholz: Xi setzt Spitze gegen Außenministerin Baerbock
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Rekordumsatz 2020: Immobilien werden teurer, teurer – und teurer
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Maskenpflicht und Impfnachweise: Das Kontrolldilemma
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Russland veröffentlicht Video: Kampfdrohne über der Krim
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Coronaregeln im neuen Jahr: Wie Kitas in Bayern die Testpflicht umsetzen wollen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Der neue Siegeszug der Linken in Lateinamerika: Rote Welle
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ranking von Hauptstadtmagazin »Tip«: Volker Bruch zum peinlichsten Berliner gekürt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Teure Scheidung: Emir von Dubai muss halbe Milliarde Pfund an Ex-Frau zahlen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Flüchtlingskrise: Belarus und Polen verweigern Uno-Experten Zugang zur Grenze
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Restaurierung kurz vor Abschluss: Big Ben soll zu Neujahr läuten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Militärübung am Persischen Golf: Irans Revolutionswächter testen mehrere Raketen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Britische Studie: Kontakt zur Natur hilft gegen Einsamkeit
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ab Januar: Handel will auch Milchprodukte mit Haltungsform kennzeichnen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Protest gegen Coronamaßnahmen: Rechtsradikale stürmen Parlamentsgelände in Bukarest
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Trotz Omikron: RTL will an Dschungelcamp in Südafrika festhalten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Schätzung: 2020 ist die Zahl der Obdachlosen gestiegen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Juristischer Streit: AfD scheitert vor Verfassungsgericht
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Neue US-Emissionsstandards: Biden-Regierung verschärft CO₂-Normen für Autos
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Stromerzeugung in Deutschland: Weniger Wind, mehr Kohle
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Düsseldorf: 24-Jähriger wird in Polizeigewahrsam bewusstlos – und stirbt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Schutz vor Corona: Stiko empfiehlt Auffrischimpfungen bereits nach drei Monaten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Verstößt gegen die Grundrechte«: Bundesjustizminister will Vorratsdatenspeicherung kippen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Fall Leonie: Mutter von getöteter Sechsjähriger zu Freiheitsstrafe verurteilt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wassermangel und Dürren: Die Wüste wächst
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Coronademos in Nürnberg: Polizei ermittelt wegen Verdachts der Volksverhetzung
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Weihnachtsgeschenke: Welche Kinderwünsche soll man erfüllen – und welche nicht?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Streit über Fifa-Pläne zur WM im Zweijahrestakt: Das Gefühl für Geld
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Satire-Businessnetzwerk ShlinkedIn: Bullshit-Bingo mit Beff Jezos
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Coronachaos auf der Insel: Englands Profifußball will gegen ungeimpfte Spieler vorgehen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Von Februar an: EU-Impfnachweise ohne Booster nur noch neun Monate gültig
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wegen Chatnachrichten über Umsturzpläne: Ermittler durchsuchen Wohnungen bayerischer AfD-Politiker
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Truppenaufmarsch nahe der Ukraine: Putin droht mit »militärisch-technischen Vergeltungsmaßnahmen«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Wegen Omikron: RKI drängt auf »maximale Kontaktbeschränkungen«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ausbreitung von Omikron: Hamburg führt Kontaktbeschränkungen bereits zu Heiligabend ein
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Handball-Nationalmannschaft: AOK beendet umstrittenes Trikot-Sponsoring
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kader für Handball-EM: Ungeimpfter Knorr steht nicht im deutschen Aufgebot
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Cold Case im Saarland: Wegen Mordes vor 30 Jahren – zwei Männer zu lebenslanger Haft verurteilt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ankündigung auf Twitter: Zahlt Elon Musk wirklich elf Milliarden Dollar Steuern?
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Opfer der Trierer Amokfahrt: »Ich kam mir vor wie bei einer Treibjagd«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Nach Luftschlag: Frankreich meldet Tötung von afrikanischem IS-Anführer
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Die Lage: Inside Austria: Auch ohne Sebastian Kurz geht's weiter mit den Skandalen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Datenverkehrsanalyse: 2021 war ein TikTok-Jahr
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Auftritt in US-Show: Trump wegen Booster-Beichte ausgebuht
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Ausbreitung von Omikron: WHO warnt vor Treffen an Weihnachten
+28-Dec-21 13:32:39 - INFO - Trying to scrape: WM-Gastgeber Katar: Regenbogenfarbenes Spielzeug? Absolut verboten!
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Urteil des Europäischen Gerichtshofs: Vorverlegte Flüge gelten als annulliert
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Uiguren-Streit: China verhängt neue Sanktionen gegen US-Vertreter
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Frühwarnsystem Kläranlage: Omikron im Münchner Abwasser nachgewiesen
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Abstimmung im Abgeordnetenhaus: Franziska Giffey zur Bürgermeisterin in Berlin gewählt
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Geldregen in Oberbayern: Zweijährige wirft Tüte mit Geldscheinen aus Auto – Karambolage
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Darts-WM: Vor zwei Jahren schmiss er hin, jetzt ist Ex-Weltmeister van Barneveld wieder da
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Weltraumteleskop »James Webb«: Ein Klappspiegel im All
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Traditionslinie des Terrors«: Ramelow entsetzt über Aufruf zu Demo vor Haus des Innenministers
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Flugzeugstreit: Qatar Airways verklagt Airbus – wegen Mängeln am Lack
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Bund-Länder-Treffen zu Omikron: »Es kann uns härter treffen als andere Länder«
+28-Dec-21 13:32:39 - INFO - Trying to scrape: »Wer wird Millionär?«: 21 Jahre lang beworben – Kandidat gewinnt nur 500 Euro
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Verkehrsüberwachung im Saarland: Asterix und die Blitzer
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Neuer Rekord: Der Nikolaus bekommt so viel Post wie nie
+28-Dec-21 13:32:39 - INFO - Trying to scrape: Kochen ohne Kohle: Vegetarisches Weihnachts-Wellington mit Pilzcreme und Grünkohl – für 2,50 Euro

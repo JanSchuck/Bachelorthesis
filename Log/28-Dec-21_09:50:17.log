@@ -1,0 +1,15 @@
+28-Dec-21 09:50:17 - INFO - Log file /Users/jan/Documents/Python_Projects/Bachelorthesis/log/28-Dec-21_09:50:17.log created
+28-Dec-21 09:50:17 - INFO - Spiegel: Start scraping Spiegel news page...
+28-Dec-21 09:50:17 - INFO - Spiegel: Scraping Spiegel @ https://www.spiegel.de/schlagzeilen/
+28-Dec-21 09:50:17 - INFO - Starting Chromedriver with @ https://www.spiegel.de/schlagzeilen/ and loadingTime 10s
+28-Dec-21 09:50:36 - INFO - Spiegel: Switching to Spiegel CookieWindow with XPATH: //iframe[contains(@id,'sp_message_iframe_541484')]
+28-Dec-21 09:50:36 - INFO - Spiegel: Found cookie window...
+28-Dec-21 09:50:36 - INFO - Spiegel: Accepting Cookies with XPATH: //*[@id="notice"]/div[3]/div[1]/button
+28-Dec-21 09:50:36 - INFO - Spiegel: Accepting cookies successfull
+28-Dec-21 09:50:36 - INFO - Spiegel:  Scrolling down to bottom of page
+28-Dec-21 09:50:37 - INFO - Spiegel Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog/
+28-Dec-21 09:50:37 - INFO - Spiegel: Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Spiegel_28122021_09_50_37.html
+28-Dec-21 09:50:37 - INFO - Spiegel: Check if html already created
+28-Dec-21 09:50:37 - INFO - Spiegel: Spiegel_28122021_09_50_37.html doesnt exist yet
+28-Dec-21 09:50:37 - INFO - Spiegel: Successfully saved file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Spiegel_28122021_09_50_37.html
+28-Dec-21 09:50:37 - INFO - _______________________________________________________________________

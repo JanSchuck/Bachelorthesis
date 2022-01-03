@@ -1,0 +1,12 @@
+28-Dec-21 13:24:48 - INFO - Log file /Users/jan/Documents/Python_Projects/Bachelorthesis/log/28-Dec-21_13:24:48.log created
+28-Dec-21 13:24:48 - INFO - *** Starting Scraper ***
+28-Dec-21 13:24:48 - INFO - get list of csv Backlog
+28-Dec-21 13:24:48 - INFO - 0 files in csv Backlog...
+28-Dec-21 13:24:48 - INFO - get list of html Backlog
+28-Dec-21 13:24:48 - INFO - 5 files in html Backlog...
+28-Dec-21 13:24:48 - INFO - 5 Html files are not scraped yet
+28-Dec-21 13:24:48 - INFO - Start scraping files...
+28-Dec-21 13:24:48 - INFO - Scraping: Bild_28122021_10_19_07.html
+28-Dec-21 13:24:48 - INFO - Scraping: Spiegel_28122021_09_35_41.html
+28-Dec-21 13:24:48 - INFO - Starting to Scrape Spiegel file Spiegel_28122021_09_35_41.html
+28-Dec-21 13:24:49 - INFO - Trying to scrape: Verfall der Lira: Türkische Bankenaufsicht stellt Strafanzeige gegen Ökonomen und Journalisten

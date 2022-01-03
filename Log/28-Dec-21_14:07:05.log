@@ -1,0 +1,57 @@
+28-Dec-21 14:07:05 - INFO - Log file /Users/jan/Documents/Python_Projects/Bachelorthesis/log/28-Dec-21_14:07:05.log created
+28-Dec-21 14:07:05 - INFO - Spiegel: Start scraping Spiegel news page...
+28-Dec-21 14:07:05 - INFO - Spiegel: Scraping Spiegel @ https://www.spiegel.de/schlagzeilen/
+28-Dec-21 14:07:05 - INFO - Starting Chromedriver with @ https://www.spiegel.de/schlagzeilen/ and loadingTime 10s
+28-Dec-21 14:07:23 - INFO - Spiegel: Switching to Spiegel CookieWindow with XPATH: //iframe[contains(@id,'sp_message_iframe_541484')]
+28-Dec-21 14:07:23 - INFO - Spiegel: Found cookie window...
+28-Dec-21 14:07:23 - INFO - Spiegel: Accepting Cookies with XPATH: //*[@id="notice"]/div[3]/div[1]/button
+28-Dec-21 14:07:23 - INFO - Spiegel: Accepting cookies successfull
+28-Dec-21 14:07:23 - INFO - Spiegel: Scrolling down to bottom of page
+28-Dec-21 14:07:23 - INFO - Spiegel Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog/
+28-Dec-21 14:07:23 - INFO - Spiegel: Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Spiegel_28122021_14_07_23.html
+28-Dec-21 14:07:23 - INFO - Spiegel: Check if html already created
+28-Dec-21 14:07:23 - INFO - Spiegel: Spiegel_28122021_14_07_23.html doesnt exist yet
+28-Dec-21 14:07:23 - INFO - Spiegel: Successfully saved file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Spiegel_28122021_14_07_23.html
+28-Dec-21 14:07:23 - INFO - _______________________________________________________________________
+28-Dec-21 14:07:23 - INFO - Sueddeutsche: Start scraping Sueddeutsche news page...
+28-Dec-21 14:07:23 - INFO - Sueddeutsche: Scraping Sueddeutsche @ https://www.sueddeutsche.de/news
+28-Dec-21 14:07:23 - INFO - Starting Chromedriver with @ https://www.sueddeutsche.de/news and loadingTime 10s
+28-Dec-21 14:07:46 - INFO - Sueddeutsche: Switching to Sueddeutsche CookieWindow with XPATH: //iframe[contains(@id,'sp_message_iframe_585922')]
+28-Dec-21 14:07:47 - INFO - Sueddeutsche: Found cookie window...
+28-Dec-21 14:07:47 - INFO - Sueddeutsche: Accepting Cookies with XPATH: //*[@id="notice"]/div[3]/div/div/button[1]
+28-Dec-21 14:07:47 - INFO - Sueddeutsche: Accepting cookies successfull
+28-Dec-21 14:07:47 - INFO - Sueddeutsche: Starting to get Sueddeutsche0
+28-Dec-21 14:07:47 - INFO - Sueddeutsche0 Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog/
+28-Dec-21 14:07:47 - INFO - Sueddeutsche0: Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche0_28122021_14_07_47.html
+28-Dec-21 14:07:47 - INFO - Sueddeutsche0: Check if html already created
+28-Dec-21 14:07:47 - INFO - Sueddeutsche0: Sueddeutsche0_28122021_14_07_47.html doesnt exist yet
+28-Dec-21 14:07:47 - INFO - Sueddeutsche0: Successfully saved file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche0_28122021_14_07_47.html
+28-Dec-21 14:07:47 - INFO - _______________________________________________________________________
+28-Dec-21 14:07:53 - INFO - Sueddeutsche: Starting to get Sueddeutsche1
+28-Dec-21 14:07:53 - INFO - Sueddeutsche1 Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog/
+28-Dec-21 14:07:53 - INFO - Sueddeutsche1: Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche1_28122021_14_07_53.html
+28-Dec-21 14:07:53 - INFO - Sueddeutsche1: Check if html already created
+28-Dec-21 14:07:53 - INFO - Sueddeutsche1: Sueddeutsche1_28122021_14_07_53.html doesnt exist yet
+28-Dec-21 14:07:53 - INFO - Sueddeutsche1: Successfully saved file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche1_28122021_14_07_53.html
+28-Dec-21 14:07:53 - INFO - _______________________________________________________________________
+28-Dec-21 14:07:59 - INFO - Sueddeutsche: Starting to get Sueddeutsche2
+28-Dec-21 14:07:59 - INFO - Sueddeutsche2 Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog/
+28-Dec-21 14:07:59 - INFO - Sueddeutsche2: Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche2_28122021_14_07_59.html
+28-Dec-21 14:07:59 - INFO - Sueddeutsche2: Check if html already created
+28-Dec-21 14:07:59 - INFO - Sueddeutsche2: Sueddeutsche2_28122021_14_07_59.html doesnt exist yet
+28-Dec-21 14:07:59 - INFO - Sueddeutsche2: Successfully saved file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche2_28122021_14_07_59.html
+28-Dec-21 14:07:59 - INFO - _______________________________________________________________________
+28-Dec-21 14:08:04 - INFO - Bild: Start scraping Bild news page...
+28-Dec-21 14:08:04 - INFO - Bild: Scraping Bild @ https://www.bild.de/home/newsticker/news/alle-news-54190636.bild.html
+28-Dec-21 14:08:04 - INFO - Starting Chromedriver with @ https://www.bild.de/home/newsticker/news/alle-news-54190636.bild.html and loadingTime 10s
+28-Dec-21 14:08:25 - INFO - Bild: Switching to Bild CookieWindow with XPATH: //iframe[contains(@id,'sp_message_iframe_585666')]
+28-Dec-21 14:08:25 - INFO - Bild: Found cookie window...
+28-Dec-21 14:08:25 - INFO - Bild: Accepting Cookies with XPATH: //*[@id="notice"]/div[3]/div[2]/button
+28-Dec-21 14:08:26 - INFO - Bild: Accepting cookies successfull
+28-Dec-21 14:08:26 - INFO - Bild: Scrolling down to bottom of page
+28-Dec-21 14:08:26 - INFO - Bild Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog/
+28-Dec-21 14:08:26 - INFO - Bild: Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Bild_28122021_14_08_26.html
+28-Dec-21 14:08:26 - INFO - Bild: Check if html already created
+28-Dec-21 14:08:26 - INFO - Bild: Bild_28122021_14_08_26.html doesnt exist yet
+28-Dec-21 14:08:26 - INFO - Bild: Successfully saved file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Bild_28122021_14_08_26.html
+28-Dec-21 14:08:26 - INFO - _______________________________________________________________________

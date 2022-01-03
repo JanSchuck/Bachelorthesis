@@ -1,0 +1,48 @@
+28-Dec-21 20:02:58 - INFO - Log file /Users/jan/Documents/Python_Projects/Bachelorthesis/log/28-Dec-21_20:02:58.log created
+28-Dec-21 20:02:58 - INFO - *** Starting Scraper ***
+28-Dec-21 20:02:58 - INFO - get list of csv Backlog
+28-Dec-21 20:02:58 - INFO - 34 files in csv Backlog...
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_21112021_08_51_39.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_04122021_12_44_45.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_23122021_18_09_15.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_28112021_17_50_38.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_18122021_12_02_20.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_26122021_12_20_42.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_01122021_11_39_00.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: .DS_Store
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_02122021_12_17_53.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_23112021_15_17_19.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_07122021_12_01_24.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_22122021_12_01_50.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_03122021_12_02_30.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_14112021_13_30_51.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_18112021_14_12_40.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_17112021_12_02_49.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_25112021_15_42_11.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_27112021_12_01_18.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_28122021_14_18_13.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_13122021_12_25_50.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_27122021_12_13_02.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_12122021_12_52_28.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_09122021_16_31_37.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_20122021_14_48_57.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_16112021_15_39_14.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_15112021_12_10_20.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_10122021_13_36_39.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_29112021_14_12_39.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_25122021_13_54_08.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_11122021_12_18_30.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_26112021_17_26_38.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_22112021_13_45_11.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_03122021_12_06_04.csv
+28-Dec-21 20:02:58 - INFO - FILENAME: from csv Files: Spiegel_19122021_13_03_02.csv
+28-Dec-21 20:02:58 - INFO - get list of html Backlog
+28-Dec-21 20:02:58 - INFO - 230 files in html Backlog...
+28-Dec-21 20:02:58 - INFO - 199 Html files are not scraped yet
+28-Dec-21 20:02:58 - INFO - Start scraping files...
+28-Dec-21 20:02:58 - INFO - Scraping: Sueddeutsche12_28122021_14_19_35.html
+28-Dec-21 20:02:58 - INFO - Starting to Scrape Sueddeutsche file Sueddeutsche12_28122021_14_19_35.html
+28-Dec-21 20:02:58 - INFO - <time class="entrylist__time">
+    27.12.2021 | 15:49
+</time>
+28-Dec-21 20:02:58 - INFO - breadcrumb-List__Item not found

@@ -1,0 +1,8 @@
+28-Dec-21 10:03:35 - INFO - Log file /Users/jan/Documents/Python_Projects/Bachelorthesis/log/28-Dec-21_10:03:35.log created
+28-Dec-21 10:03:35 - INFO - Sueddeutsche: Start scraping Sueddeutsche news page...
+28-Dec-21 10:03:35 - INFO - Sueddeutsche: Scraping Sueddeutsche @ https://www.sueddeutsche.de/news
+28-Dec-21 10:03:35 - INFO - Starting Chromedriver with @ https://www.sueddeutsche.de/news and loadingTime 10s
+28-Dec-21 10:03:55 - INFO - Sueddeutsche: Switching to Sueddeutsche CookieWindow with XPATH: //iframe[contains(@id,'sp_message_iframe_585922')]
+28-Dec-21 10:03:55 - INFO - Sueddeutsche: Found cookie window...
+28-Dec-21 10:03:55 - INFO - Sueddeutsche: Accepting Cookies with XPATH: //*[@id="notice"]/div[3]/div/div/button[1]
+28-Dec-21 10:03:55 - INFO - Sueddeutsche: Accepting cookies successfull

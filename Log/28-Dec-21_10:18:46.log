@@ -1,0 +1,15 @@
+28-Dec-21 10:18:46 - INFO - Log file /Users/jan/Documents/Python_Projects/Bachelorthesis/log/28-Dec-21_10:18:46.log created
+28-Dec-21 10:18:46 - INFO - Bild: Start scraping Bild news page...
+28-Dec-21 10:18:46 - INFO - Bild: Scraping Bild @ https://www.bild.de/home/newsticker/news/alle-news-54190636.bild.html
+28-Dec-21 10:18:46 - INFO - Starting Chromedriver with @ https://www.bild.de/home/newsticker/news/alle-news-54190636.bild.html and loadingTime 10s
+28-Dec-21 10:19:06 - INFO - Bild: Switching to Bild CookieWindow with XPATH: //iframe[contains(@id,'sp_message_iframe_585666')]
+28-Dec-21 10:19:06 - INFO - Bild: Found cookie window...
+28-Dec-21 10:19:06 - INFO - Bild: Accepting Cookies with XPATH: //*[@id="notice"]/div[3]/div[2]/button
+28-Dec-21 10:19:07 - INFO - Bild: Accepting cookies successfull
+28-Dec-21 10:19:07 - INFO - Bild: Scrolling down to bottom of page
+28-Dec-21 10:19:07 - INFO - Bild Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog/
+28-Dec-21 10:19:07 - INFO - Bild: Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Bild_28122021_10_19_07.html
+28-Dec-21 10:19:07 - INFO - Bild: Check if html already created
+28-Dec-21 10:19:07 - INFO - Bild: Bild_28122021_10_19_07.html doesnt exist yet
+28-Dec-21 10:19:07 - INFO - Bild: Successfully saved file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Bild_28122021_10_19_07.html
+28-Dec-21 10:19:07 - INFO - _______________________________________________________________________

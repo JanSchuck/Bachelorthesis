@@ -1,0 +1,6 @@
+28-Dec-21 09:05:42 - INFO - Log file /Users/jan/Documents/Python_Projects/Bachelorthesis/log/28-Dec-21_09:05:42.log created
+28-Dec-21 09:05:42 - INFO - Spiegel: Start scraping Spiegel news page...
+28-Dec-21 09:05:42 - INFO - Spiegel: Scraping Spiegel @ https://www.spiegel.de/schlagzeilen/
+28-Dec-21 09:05:42 - INFO - Starting Chromedriver with @ https://www.spiegel.de/schlagzeilen/ and loadingTime 10s
+28-Dec-21 09:05:59 - INFO - Spiegel: Switching to Spiegel CookieWindow with XPATH: //*[@id="sp_message_iframe_541484"]
+28-Dec-21 09:05:59 - ERROR - Spiegel: Can't find cookie window for Spiegel news page

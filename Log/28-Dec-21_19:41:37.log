@@ -1,0 +1,78 @@
+28-Dec-21 19:41:37 - INFO - Log file /Users/jan/Documents/Python_Projects/Bachelorthesis/log/28-Dec-21_19:41:37.log created
+28-Dec-21 19:41:37 - INFO - Spiegel: Start scraping Spiegel news page...
+28-Dec-21 19:41:37 - INFO - Spiegel: Scraping Spiegel @ https://www.spiegel.de/schlagzeilen/
+28-Dec-21 19:41:37 - INFO - Starting Chromedriver with @ https://www.spiegel.de/schlagzeilen/ and loadingTime 10s
+28-Dec-21 19:41:55 - INFO - Spiegel: Switching to Spiegel CookieWindow with XPATH: //iframe[contains(@id,'sp_message_iframe_541484')]
+28-Dec-21 19:41:55 - ERROR - Spiegel: Can't find cookie window for Spiegel news page
+28-Dec-21 19:41:55 - ERROR - Message: no such window: window was already closed
+  (Session info: chrome=96.0.4664.110)
+Stacktrace:
+0   chromedriver                        0x000000010489b89c __gxx_personality_v0 + 538736
+1   chromedriver                        0x0000000104831b64 __gxx_personality_v0 + 105272
+2   chromedriver                        0x000000010443aad0 chromedriver + 158416
+3   chromedriver                        0x000000010442ba24 chromedriver + 96804
+4   chromedriver                        0x00000001044263ec chromedriver + 74732
+5   chromedriver                        0x0000000104492b90 chromedriver + 519056
+6   chromedriver                        0x000000010445f4d8 chromedriver + 308440
+7   chromedriver                        0x000000010485eca0 __gxx_personality_v0 + 289908
+8   chromedriver                        0x0000000104872dc8 __gxx_personality_v0 + 372124
+9   chromedriver                        0x000000010487794c __gxx_personality_v0 + 391456
+10  chromedriver                        0x0000000104873d04 __gxx_personality_v0 + 376024
+11  chromedriver                        0x0000000104854c88 __gxx_personality_v0 + 248924
+12  chromedriver                        0x000000010488cbd0 __gxx_personality_v0 + 478116
+13  chromedriver                        0x000000010488cd44 __gxx_personality_v0 + 478488
+14  chromedriver                        0x00000001048a2458 __gxx_personality_v0 + 566316
+15  libsystem_pthread.dylib             0x000000018d3414ec _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018d33c2d0 thread_start + 8
+
+28-Dec-21 19:42:00 - ERROR - Spiegel: Can't find cookie window for Spiegel news page
+28-Dec-21 19:42:00 - ERROR - Message: no such window: window was already closed
+  (Session info: chrome=96.0.4664.110)
+Stacktrace:
+0   chromedriver                        0x000000010489b89c __gxx_personality_v0 + 538736
+1   chromedriver                        0x0000000104831b64 __gxx_personality_v0 + 105272
+2   chromedriver                        0x000000010443aad0 chromedriver + 158416
+3   chromedriver                        0x000000010442ba24 chromedriver + 96804
+4   chromedriver                        0x00000001044263ec chromedriver + 74732
+5   chromedriver                        0x0000000104492b90 chromedriver + 519056
+6   chromedriver                        0x000000010445f4d8 chromedriver + 308440
+7   chromedriver                        0x000000010485eca0 __gxx_personality_v0 + 289908
+8   chromedriver                        0x0000000104872dc8 __gxx_personality_v0 + 372124
+9   chromedriver                        0x000000010487794c __gxx_personality_v0 + 391456
+10  chromedriver                        0x0000000104873d04 __gxx_personality_v0 + 376024
+11  chromedriver                        0x0000000104854c88 __gxx_personality_v0 + 248924
+12  chromedriver                        0x000000010488cbd0 __gxx_personality_v0 + 478116
+13  chromedriver                        0x000000010488cd44 __gxx_personality_v0 + 478488
+14  chromedriver                        0x00000001048a2458 __gxx_personality_v0 + 566316
+15  libsystem_pthread.dylib             0x000000018d3414ec _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018d33c2d0 thread_start + 8
+
+28-Dec-21 19:42:05 - ERROR - Spiegel: Can't find cookie window for Spiegel news page
+28-Dec-21 19:42:05 - ERROR - Message: no such window: window was already closed
+  (Session info: chrome=96.0.4664.110)
+Stacktrace:
+0   chromedriver                        0x000000010489b89c __gxx_personality_v0 + 538736
+1   chromedriver                        0x0000000104831b64 __gxx_personality_v0 + 105272
+2   chromedriver                        0x000000010443aad0 chromedriver + 158416
+3   chromedriver                        0x000000010442ba24 chromedriver + 96804
+4   chromedriver                        0x00000001044263ec chromedriver + 74732
+5   chromedriver                        0x0000000104492b90 chromedriver + 519056
+6   chromedriver                        0x000000010445f4d8 chromedriver + 308440
+7   chromedriver                        0x000000010485eca0 __gxx_personality_v0 + 289908
+8   chromedriver                        0x0000000104872dc8 __gxx_personality_v0 + 372124
+9   chromedriver                        0x000000010487794c __gxx_personality_v0 + 391456
+10  chromedriver                        0x0000000104873d04 __gxx_personality_v0 + 376024
+11  chromedriver                        0x0000000104854c88 __gxx_personality_v0 + 248924
+12  chromedriver                        0x000000010488cbd0 __gxx_personality_v0 + 478116
+13  chromedriver                        0x000000010488cd44 __gxx_personality_v0 + 478488
+14  chromedriver                        0x00000001048a2458 __gxx_personality_v0 + 566316
+15  libsystem_pthread.dylib             0x000000018d3414ec _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018d33c2d0 thread_start + 8
+
+28-Dec-21 19:42:10 - ERROR - Spiegel:  Error while switching to frame and accepting cookies...
+28-Dec-21 19:42:10 - ERROR - local variable 'iframe' referenced before assignment
+28-Dec-21 19:42:15 - ERROR - Spiegel:  Error while switching to frame and accepting cookies...
+28-Dec-21 19:42:15 - ERROR - local variable 'iframe' referenced before assignment
+28-Dec-21 19:42:20 - ERROR - Spiegel:  Error while switching to frame and accepting cookies...
+28-Dec-21 19:42:20 - ERROR - local variable 'iframe' referenced before assignment
+28-Dec-21 19:42:25 - INFO - Spiegel: Scrolling down to bottom of page
