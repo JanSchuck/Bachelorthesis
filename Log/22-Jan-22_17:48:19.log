@@ -1,0 +1,161 @@
+22-Jan-22 17:48:19 - INFO - Log file /Users/jan/Documents/Python_Projects/Bachelorthesis/log/22-Jan-22_17:48:19.log created
+22-Jan-22 17:48:19 - INFO - Spiegel: Start scraping Spiegel news page...
+22-Jan-22 17:48:19 - INFO - Spiegel: Scraping Spiegel @ https://www.spiegel.de/schlagzeilen/
+22-Jan-22 17:48:19 - INFO - Starting Chromedriver with @ https://www.spiegel.de/schlagzeilen/ and loadingTime 10s
+22-Jan-22 17:48:36 - INFO - Spiegel: Switching to Spiegel CookieWindow with XPATH: //iframe[contains(@id,'sp_message_iframe_541484')]
+22-Jan-22 17:48:37 - ERROR - Spiegel: Can't find cookie window for Spiegel news page
+22-Jan-22 17:48:37 - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[contains(@id,'sp_message_iframe_541484')]"}
+  (Session info: chrome=97.0.4692.71)
+Stacktrace:
+0   chromedriver                        0x0000000103250280 chromedriver + 4833920
+1   chromedriver                        0x00000001031e4bf8 chromedriver + 4393976
+2   chromedriver                        0x0000000102ddac84 chromedriver + 158852
+3   chromedriver                        0x0000000102e0a950 chromedriver + 354640
+4   chromedriver                        0x0000000102e34114 chromedriver + 524564
+5   chromedriver                        0x0000000102dff7e0 chromedriver + 309216
+6   chromedriver                        0x0000000103212828 chromedriver + 4581416
+7   chromedriver                        0x0000000103227450 chromedriver + 4666448
+8   chromedriver                        0x000000010322bd1c chromedriver + 4685084
+9   chromedriver                        0x0000000103227c28 chromedriver + 4668456
+10  chromedriver                        0x0000000103208610 chromedriver + 4539920
+11  chromedriver                        0x000000010324182c chromedriver + 4773932
+12  chromedriver                        0x00000001032419a0 chromedriver + 4774304
+13  chromedriver                        0x0000000103256e44 chromedriver + 4861508
+14  libsystem_pthread.dylib             0x00000001b474d240 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001b4748024 thread_start + 8
+
+22-Jan-22 17:48:42 - ERROR - Spiegel: Can't find cookie window for Spiegel news page
+22-Jan-22 17:48:42 - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[contains(@id,'sp_message_iframe_541484')]"}
+  (Session info: chrome=97.0.4692.71)
+Stacktrace:
+0   chromedriver                        0x0000000103250280 chromedriver + 4833920
+1   chromedriver                        0x00000001031e4bf8 chromedriver + 4393976
+2   chromedriver                        0x0000000102ddac84 chromedriver + 158852
+3   chromedriver                        0x0000000102e0a950 chromedriver + 354640
+4   chromedriver                        0x0000000102e34114 chromedriver + 524564
+5   chromedriver                        0x0000000102dff7e0 chromedriver + 309216
+6   chromedriver                        0x0000000103212828 chromedriver + 4581416
+7   chromedriver                        0x0000000103227450 chromedriver + 4666448
+8   chromedriver                        0x000000010322bd1c chromedriver + 4685084
+9   chromedriver                        0x0000000103227c28 chromedriver + 4668456
+10  chromedriver                        0x0000000103208610 chromedriver + 4539920
+11  chromedriver                        0x000000010324182c chromedriver + 4773932
+12  chromedriver                        0x00000001032419a0 chromedriver + 4774304
+13  chromedriver                        0x0000000103256e44 chromedriver + 4861508
+14  libsystem_pthread.dylib             0x00000001b474d240 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001b4748024 thread_start + 8
+
+22-Jan-22 17:48:47 - ERROR - Spiegel: Can't find cookie window for Spiegel news page
+22-Jan-22 17:48:47 - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[contains(@id,'sp_message_iframe_541484')]"}
+  (Session info: chrome=97.0.4692.71)
+Stacktrace:
+0   chromedriver                        0x0000000103250280 chromedriver + 4833920
+1   chromedriver                        0x00000001031e4bf8 chromedriver + 4393976
+2   chromedriver                        0x0000000102ddac84 chromedriver + 158852
+3   chromedriver                        0x0000000102e0a950 chromedriver + 354640
+4   chromedriver                        0x0000000102e34114 chromedriver + 524564
+5   chromedriver                        0x0000000102dff7e0 chromedriver + 309216
+6   chromedriver                        0x0000000103212828 chromedriver + 4581416
+7   chromedriver                        0x0000000103227450 chromedriver + 4666448
+8   chromedriver                        0x000000010322bd1c chromedriver + 4685084
+9   chromedriver                        0x0000000103227c28 chromedriver + 4668456
+10  chromedriver                        0x0000000103208610 chromedriver + 4539920
+11  chromedriver                        0x000000010324182c chromedriver + 4773932
+12  chromedriver                        0x00000001032419a0 chromedriver + 4774304
+13  chromedriver                        0x0000000103256e44 chromedriver + 4861508
+14  libsystem_pthread.dylib             0x00000001b474d240 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001b4748024 thread_start + 8
+
+22-Jan-22 17:48:52 - ERROR - Spiegel:  Error while switching to frame and accepting cookies...
+22-Jan-22 17:48:52 - ERROR - local variable 'iframe' referenced before assignment
+22-Jan-22 17:48:57 - ERROR - Spiegel:  Error while switching to frame and accepting cookies...
+22-Jan-22 17:48:57 - ERROR - local variable 'iframe' referenced before assignment
+22-Jan-22 17:49:02 - ERROR - Spiegel:  Error while switching to frame and accepting cookies...
+22-Jan-22 17:49:02 - ERROR - local variable 'iframe' referenced before assignment
+22-Jan-22 17:49:07 - INFO - Spiegel: Scrolling down to bottom of page
+22-Jan-22 17:49:08 - INFO - Spiegel Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog/
+22-Jan-22 17:49:08 - INFO - Spiegel: Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Spiegel_22012022_17_49_08.html
+22-Jan-22 17:49:08 - INFO - Spiegel: Check if html already created
+22-Jan-22 17:49:08 - INFO - Spiegel: Spiegel_22012022_17_49_08.html doesnt exist yet
+22-Jan-22 17:49:08 - INFO - Spiegel: Successfully saved file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Spiegel_22012022_17_49_08.html
+22-Jan-22 17:49:08 - INFO - _______________________________________________________________________
+22-Jan-22 17:49:08 - INFO - Sueddeutsche: Start scraping Sueddeutsche news page...
+22-Jan-22 17:49:08 - INFO - Sueddeutsche: Scraping Sueddeutsche @ https://www.sueddeutsche.de/news
+22-Jan-22 17:49:08 - INFO - Starting Chromedriver with @ https://www.sueddeutsche.de/news and loadingTime 10s
+22-Jan-22 17:49:25 - INFO - Sueddeutsche: Switching to Sueddeutsche CookieWindow with XPATH: //iframe[contains(@id,'sp_message_iframe_585922')]
+22-Jan-22 17:49:25 - ERROR - Sueddeutsche: Can't find cookie window for Sueddeutsche news page
+22-Jan-22 17:49:25 - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[contains(@id,'sp_message_iframe_585922')]"}
+  (Session info: chrome=97.0.4692.71)
+Stacktrace:
+0   chromedriver                        0x0000000100e3c280 chromedriver + 4833920
+1   chromedriver                        0x0000000100dd0bf8 chromedriver + 4393976
+2   chromedriver                        0x00000001009c6c84 chromedriver + 158852
+3   chromedriver                        0x00000001009f6950 chromedriver + 354640
+4   chromedriver                        0x0000000100a20114 chromedriver + 524564
+5   chromedriver                        0x00000001009eb7e0 chromedriver + 309216
+6   chromedriver                        0x0000000100dfe828 chromedriver + 4581416
+7   chromedriver                        0x0000000100e13450 chromedriver + 4666448
+8   chromedriver                        0x0000000100e17d1c chromedriver + 4685084
+9   chromedriver                        0x0000000100e13c28 chromedriver + 4668456
+10  chromedriver                        0x0000000100df4610 chromedriver + 4539920
+11  chromedriver                        0x0000000100e2d82c chromedriver + 4773932
+12  chromedriver                        0x0000000100e2d9a0 chromedriver + 4774304
+13  chromedriver                        0x0000000100e42e44 chromedriver + 4861508
+14  libsystem_pthread.dylib             0x00000001b474d240 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001b4748024 thread_start + 8
+
+22-Jan-22 17:49:30 - ERROR - Sueddeutsche: Can't find cookie window for Sueddeutsche news page
+22-Jan-22 17:49:30 - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[contains(@id,'sp_message_iframe_585922')]"}
+  (Session info: chrome=97.0.4692.71)
+Stacktrace:
+0   chromedriver                        0x0000000100e3c280 chromedriver + 4833920
+1   chromedriver                        0x0000000100dd0bf8 chromedriver + 4393976
+2   chromedriver                        0x00000001009c6c84 chromedriver + 158852
+3   chromedriver                        0x00000001009f6950 chromedriver + 354640
+4   chromedriver                        0x0000000100a20114 chromedriver + 524564
+5   chromedriver                        0x00000001009eb7e0 chromedriver + 309216
+6   chromedriver                        0x0000000100dfe828 chromedriver + 4581416
+7   chromedriver                        0x0000000100e13450 chromedriver + 4666448
+8   chromedriver                        0x0000000100e17d1c chromedriver + 4685084
+9   chromedriver                        0x0000000100e13c28 chromedriver + 4668456
+10  chromedriver                        0x0000000100df4610 chromedriver + 4539920
+11  chromedriver                        0x0000000100e2d82c chromedriver + 4773932
+12  chromedriver                        0x0000000100e2d9a0 chromedriver + 4774304
+13  chromedriver                        0x0000000100e42e44 chromedriver + 4861508
+14  libsystem_pthread.dylib             0x00000001b474d240 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001b4748024 thread_start + 8
+
+22-Jan-22 17:49:35 - ERROR - Sueddeutsche: Can't find cookie window for Sueddeutsche news page
+22-Jan-22 17:49:35 - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[contains(@id,'sp_message_iframe_585922')]"}
+  (Session info: chrome=97.0.4692.71)
+Stacktrace:
+0   chromedriver                        0x0000000100e3c280 chromedriver + 4833920
+1   chromedriver                        0x0000000100dd0bf8 chromedriver + 4393976
+2   chromedriver                        0x00000001009c6c84 chromedriver + 158852
+3   chromedriver                        0x00000001009f6950 chromedriver + 354640
+4   chromedriver                        0x0000000100a20114 chromedriver + 524564
+5   chromedriver                        0x00000001009eb7e0 chromedriver + 309216
+6   chromedriver                        0x0000000100dfe828 chromedriver + 4581416
+7   chromedriver                        0x0000000100e13450 chromedriver + 4666448
+8   chromedriver                        0x0000000100e17d1c chromedriver + 4685084
+9   chromedriver                        0x0000000100e13c28 chromedriver + 4668456
+10  chromedriver                        0x0000000100df4610 chromedriver + 4539920
+11  chromedriver                        0x0000000100e2d82c chromedriver + 4773932
+12  chromedriver                        0x0000000100e2d9a0 chromedriver + 4774304
+13  chromedriver                        0x0000000100e42e44 chromedriver + 4861508
+14  libsystem_pthread.dylib             0x00000001b474d240 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001b4748024 thread_start + 8
+
+22-Jan-22 17:49:40 - ERROR - Sueddeutsche:  Error while switching to frame and accepting cookies...
+22-Jan-22 17:49:40 - ERROR - local variable 'iframe' referenced before assignment
+22-Jan-22 17:49:45 - ERROR - Sueddeutsche:  Error while switching to frame and accepting cookies...
+22-Jan-22 17:49:45 - ERROR - local variable 'iframe' referenced before assignment
+22-Jan-22 17:49:50 - ERROR - Sueddeutsche:  Error while switching to frame and accepting cookies...
+22-Jan-22 17:49:50 - ERROR - local variable 'iframe' referenced before assignment
+22-Jan-22 17:49:55 - INFO - Sueddeutsche: Starting to get Sueddeutsche0
+22-Jan-22 17:49:55 - INFO - Sueddeutsche0 Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog/
+22-Jan-22 17:49:55 - INFO - Sueddeutsche0: Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche0_22012022_17_49_55.html
+22-Jan-22 17:49:55 - INFO - Sueddeutsche0: Check if html already created
+22-Jan-22 17:49:55 - INFO - Sueddeutsche0: Sueddeutsche0_22012022_17_49_55.html doesnt exist yet
+22-Jan-22 17:49:55 - INFO - Sueddeutsche0: Successfully saved file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche0_22012022_17_49_55.html
+22-Jan-22 17:49:55 - INFO - _______________________________________________________________________

@@ -1,0 +1,78 @@
+15-Feb-22 10:12:01 - INFO - Log file /Users/jan/Documents/Python_Projects/Bachelorthesis/log/15-Feb-22_10:12:01.log created
+15-Feb-22 10:12:01 - INFO - Spiegel: Start scraping Spiegel news page...
+15-Feb-22 10:12:01 - INFO - Spiegel: Scraping Spiegel @ https://www.spiegel.de/schlagzeilen/
+15-Feb-22 10:12:01 - INFO - Starting Chromedriver with @ https://www.spiegel.de/schlagzeilen/ and loadingTime 10s
+15-Feb-22 10:12:15 - INFO - Spiegel: Switching to Spiegel CookieWindow with XPATH: //iframe[contains(@id,'sp_message_iframe_541484')]
+15-Feb-22 10:12:15 - ERROR - Spiegel: Can't find cookie window for Spiegel news page
+15-Feb-22 10:12:15 - ERROR - Message: no such window: window was already closed
+  (Session info: chrome=98.0.4758.80)
+Stacktrace:
+0   chromedriver                        0x000000010505c280 chromedriver + 4833920
+1   chromedriver                        0x0000000104ff0bf8 chromedriver + 4393976
+2   chromedriver                        0x0000000104be6c84 chromedriver + 158852
+3   chromedriver                        0x0000000104bd7b28 chromedriver + 97064
+4   chromedriver                        0x0000000104bd24fc chromedriver + 75004
+5   chromedriver                        0x0000000104c3f918 chromedriver + 522520
+6   chromedriver                        0x0000000104c0b7e0 chromedriver + 309216
+7   chromedriver                        0x000000010501e828 chromedriver + 4581416
+8   chromedriver                        0x0000000105033450 chromedriver + 4666448
+9   chromedriver                        0x0000000105037d1c chromedriver + 4685084
+10  chromedriver                        0x0000000105033c28 chromedriver + 4668456
+11  chromedriver                        0x0000000105014610 chromedriver + 4539920
+12  chromedriver                        0x000000010504d82c chromedriver + 4773932
+13  chromedriver                        0x000000010504d9a0 chromedriver + 4774304
+14  chromedriver                        0x0000000105062e44 chromedriver + 4861508
+15  libsystem_pthread.dylib             0x00000001b474d240 _pthread_start + 148
+16  libsystem_pthread.dylib             0x00000001b4748024 thread_start + 8
+
+15-Feb-22 10:12:20 - ERROR - Spiegel: Can't find cookie window for Spiegel news page
+15-Feb-22 10:12:20 - ERROR - Message: no such window: window was already closed
+  (Session info: chrome=98.0.4758.80)
+Stacktrace:
+0   chromedriver                        0x000000010505c280 chromedriver + 4833920
+1   chromedriver                        0x0000000104ff0bf8 chromedriver + 4393976
+2   chromedriver                        0x0000000104be6c84 chromedriver + 158852
+3   chromedriver                        0x0000000104bd7b28 chromedriver + 97064
+4   chromedriver                        0x0000000104bd24fc chromedriver + 75004
+5   chromedriver                        0x0000000104c3f918 chromedriver + 522520
+6   chromedriver                        0x0000000104c0b7e0 chromedriver + 309216
+7   chromedriver                        0x000000010501e828 chromedriver + 4581416
+8   chromedriver                        0x0000000105033450 chromedriver + 4666448
+9   chromedriver                        0x0000000105037d1c chromedriver + 4685084
+10  chromedriver                        0x0000000105033c28 chromedriver + 4668456
+11  chromedriver                        0x0000000105014610 chromedriver + 4539920
+12  chromedriver                        0x000000010504d82c chromedriver + 4773932
+13  chromedriver                        0x000000010504d9a0 chromedriver + 4774304
+14  chromedriver                        0x0000000105062e44 chromedriver + 4861508
+15  libsystem_pthread.dylib             0x00000001b474d240 _pthread_start + 148
+16  libsystem_pthread.dylib             0x00000001b4748024 thread_start + 8
+
+15-Feb-22 10:12:25 - ERROR - Spiegel: Can't find cookie window for Spiegel news page
+15-Feb-22 10:12:25 - ERROR - Message: no such window: window was already closed
+  (Session info: chrome=98.0.4758.80)
+Stacktrace:
+0   chromedriver                        0x000000010505c280 chromedriver + 4833920
+1   chromedriver                        0x0000000104ff0bf8 chromedriver + 4393976
+2   chromedriver                        0x0000000104be6c84 chromedriver + 158852
+3   chromedriver                        0x0000000104bd7b28 chromedriver + 97064
+4   chromedriver                        0x0000000104bd24fc chromedriver + 75004
+5   chromedriver                        0x0000000104c3f918 chromedriver + 522520
+6   chromedriver                        0x0000000104c0b7e0 chromedriver + 309216
+7   chromedriver                        0x000000010501e828 chromedriver + 4581416
+8   chromedriver                        0x0000000105033450 chromedriver + 4666448
+9   chromedriver                        0x0000000105037d1c chromedriver + 4685084
+10  chromedriver                        0x0000000105033c28 chromedriver + 4668456
+11  chromedriver                        0x0000000105014610 chromedriver + 4539920
+12  chromedriver                        0x000000010504d82c chromedriver + 4773932
+13  chromedriver                        0x000000010504d9a0 chromedriver + 4774304
+14  chromedriver                        0x0000000105062e44 chromedriver + 4861508
+15  libsystem_pthread.dylib             0x00000001b474d240 _pthread_start + 148
+16  libsystem_pthread.dylib             0x00000001b4748024 thread_start + 8
+
+15-Feb-22 10:12:30 - ERROR - Spiegel:  Error while switching to frame and accepting cookies...
+15-Feb-22 10:12:30 - ERROR - local variable 'iframe' referenced before assignment
+15-Feb-22 10:27:56 - ERROR - Spiegel:  Error while switching to frame and accepting cookies...
+15-Feb-22 10:27:56 - ERROR - local variable 'iframe' referenced before assignment
+15-Feb-22 10:28:01 - ERROR - Spiegel:  Error while switching to frame and accepting cookies...
+15-Feb-22 10:28:01 - ERROR - local variable 'iframe' referenced before assignment
+15-Feb-22 10:44:07 - INFO - Spiegel: Scrolling down to bottom of page
