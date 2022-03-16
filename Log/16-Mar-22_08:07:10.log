@@ -1,0 +1,84 @@
+16-Mar-22 08:07:10 - INFO - Log file /Users/jan/Documents/Python_Projects/Bachelorthesis/log/16-Mar-22_08:07:10.log created
+16-Mar-22 08:07:10 - INFO - Spiegel: Start scraping Spiegel news page...
+16-Mar-22 08:07:10 - INFO - Spiegel: Scraping Spiegel @ https://www.spiegel.de/schlagzeilen/
+16-Mar-22 08:07:10 - INFO - Starting Chromedriver with @ https://www.spiegel.de/schlagzeilen/ and loadingTime 10s
+16-Mar-22 08:07:44 - INFO - Spiegel: Switching to Spiegel CookieWindow with XPATH: //iframe[contains(@id,'sp_message_iframe_541484')]
+16-Mar-22 08:07:45 - ERROR - Spiegel: Can't find cookie window for Spiegel news page
+16-Mar-22 08:07:45 - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[contains(@id,'sp_message_iframe_541484')]"}
+  (Session info: chrome=99.0.4844.51)
+Stacktrace:
+0   chromedriver                        0x0000000104bbf370 chromedriver + 4420464
+1   chromedriver                        0x0000000104b56940 chromedriver + 3991872
+2   chromedriver                        0x00000001047b6548 chromedriver + 189768
+3   chromedriver                        0x00000001047e4ef8 chromedriver + 380664
+4   chromedriver                        0x000000010480dbfc chromedriver + 547836
+5   chromedriver                        0x00000001047da248 chromedriver + 336456
+6   chromedriver                        0x0000000104b83548 chromedriver + 4175176
+7   chromedriver                        0x0000000104b9995c chromedriver + 4266332
+8   chromedriver                        0x0000000104b9e660 chromedriver + 4286048
+9   chromedriver                        0x0000000104b9a124 chromedriver + 4268324
+10  chromedriver                        0x0000000104b7953c chromedriver + 4134204
+11  chromedriver                        0x0000000104bb1eb0 chromedriver + 4366000
+12  chromedriver                        0x0000000104bb2014 chromedriver + 4366356
+13  chromedriver                        0x0000000104bc5a6c chromedriver + 4446828
+14  libsystem_pthread.dylib             0x00000001b474d240 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001b4748024 thread_start + 8
+
+16-Mar-22 08:07:50 - ERROR - Spiegel: Can't find cookie window for Spiegel news page
+16-Mar-22 08:07:50 - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[contains(@id,'sp_message_iframe_541484')]"}
+  (Session info: chrome=99.0.4844.51)
+Stacktrace:
+0   chromedriver                        0x0000000104bbf370 chromedriver + 4420464
+1   chromedriver                        0x0000000104b56940 chromedriver + 3991872
+2   chromedriver                        0x00000001047b6548 chromedriver + 189768
+3   chromedriver                        0x00000001047e4ef8 chromedriver + 380664
+4   chromedriver                        0x000000010480dbfc chromedriver + 547836
+5   chromedriver                        0x00000001047da248 chromedriver + 336456
+6   chromedriver                        0x0000000104b83548 chromedriver + 4175176
+7   chromedriver                        0x0000000104b9995c chromedriver + 4266332
+8   chromedriver                        0x0000000104b9e660 chromedriver + 4286048
+9   chromedriver                        0x0000000104b9a124 chromedriver + 4268324
+10  chromedriver                        0x0000000104b7953c chromedriver + 4134204
+11  chromedriver                        0x0000000104bb1eb0 chromedriver + 4366000
+12  chromedriver                        0x0000000104bb2014 chromedriver + 4366356
+13  chromedriver                        0x0000000104bc5a6c chromedriver + 4446828
+14  libsystem_pthread.dylib             0x00000001b474d240 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001b4748024 thread_start + 8
+
+16-Mar-22 08:07:55 - ERROR - Spiegel: Can't find cookie window for Spiegel news page
+16-Mar-22 08:07:55 - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[contains(@id,'sp_message_iframe_541484')]"}
+  (Session info: chrome=99.0.4844.51)
+Stacktrace:
+0   chromedriver                        0x0000000104bbf370 chromedriver + 4420464
+1   chromedriver                        0x0000000104b56940 chromedriver + 3991872
+2   chromedriver                        0x00000001047b6548 chromedriver + 189768
+3   chromedriver                        0x00000001047e4ef8 chromedriver + 380664
+4   chromedriver                        0x000000010480dbfc chromedriver + 547836
+5   chromedriver                        0x00000001047da248 chromedriver + 336456
+6   chromedriver                        0x0000000104b83548 chromedriver + 4175176
+7   chromedriver                        0x0000000104b9995c chromedriver + 4266332
+8   chromedriver                        0x0000000104b9e660 chromedriver + 4286048
+9   chromedriver                        0x0000000104b9a124 chromedriver + 4268324
+10  chromedriver                        0x0000000104b7953c chromedriver + 4134204
+11  chromedriver                        0x0000000104bb1eb0 chromedriver + 4366000
+12  chromedriver                        0x0000000104bb2014 chromedriver + 4366356
+13  chromedriver                        0x0000000104bc5a6c chromedriver + 4446828
+14  libsystem_pthread.dylib             0x00000001b474d240 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001b4748024 thread_start + 8
+
+16-Mar-22 08:08:00 - ERROR - Spiegel:  Error while switching to frame and accepting cookies...
+16-Mar-22 08:08:00 - ERROR - local variable 'iframe' referenced before assignment
+16-Mar-22 08:08:05 - ERROR - Spiegel:  Error while switching to frame and accepting cookies...
+16-Mar-22 08:08:05 - ERROR - local variable 'iframe' referenced before assignment
+16-Mar-22 08:08:10 - ERROR - Spiegel:  Error while switching to frame and accepting cookies...
+16-Mar-22 08:08:10 - ERROR - local variable 'iframe' referenced before assignment
+16-Mar-22 08:08:15 - INFO - Spiegel: Scrolling down to bottom of page
+16-Mar-22 08:08:16 - INFO - Spiegel Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog/
+16-Mar-22 08:08:16 - INFO - Spiegel: Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Spiegel_16032022_08_08_16.html
+16-Mar-22 08:08:16 - INFO - Spiegel: Check if html already created
+16-Mar-22 08:08:16 - INFO - Spiegel: Spiegel_16032022_08_08_16.html doesnt exist yet
+16-Mar-22 08:08:16 - INFO - Spiegel: Successfully saved file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Spiegel_16032022_08_08_16.html
+16-Mar-22 08:08:16 - INFO - _______________________________________________________________________
+16-Mar-22 08:08:16 - INFO - Sueddeutsche: Start scraping Sueddeutsche news page...
+16-Mar-22 08:08:16 - INFO - Sueddeutsche: Scraping Sueddeutsche @ https://www.sueddeutsche.de/news
+16-Mar-22 08:08:16 - INFO - Starting Chromedriver with @ https://www.sueddeutsche.de/news and loadingTime 10s

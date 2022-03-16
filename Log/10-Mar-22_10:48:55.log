@@ -1,0 +1,131 @@
+10-Mar-22 10:48:55 - INFO - Log file /Users/jan/Documents/Python_Projects/Bachelorthesis/log/10-Mar-22_10:48:55.log created
+10-Mar-22 10:48:55 - INFO - Spiegel: Start scraping Spiegel news page...
+10-Mar-22 10:48:55 - INFO - Spiegel: Scraping Spiegel @ https://www.spiegel.de/schlagzeilen/
+10-Mar-22 10:48:55 - INFO - Starting Chromedriver with @ https://www.spiegel.de/schlagzeilen/ and loadingTime 10s
+10-Mar-22 10:49:59 - INFO - Spiegel: Switching to Spiegel CookieWindow with XPATH: //iframe[contains(@id,'sp_message_iframe_541484')]
+10-Mar-22 10:49:59 - ERROR - Spiegel: Can't find cookie window for Spiegel news page
+10-Mar-22 10:49:59 - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[contains(@id,'sp_message_iframe_541484')]"}
+  (Session info: chrome=99.0.4844.51)
+Stacktrace:
+0   chromedriver                        0x0000000102567370 chromedriver + 4420464
+1   chromedriver                        0x00000001024fe940 chromedriver + 3991872
+2   chromedriver                        0x000000010215e548 chromedriver + 189768
+3   chromedriver                        0x000000010218cef8 chromedriver + 380664
+4   chromedriver                        0x00000001021b5bfc chromedriver + 547836
+5   chromedriver                        0x0000000102182248 chromedriver + 336456
+6   chromedriver                        0x000000010252b548 chromedriver + 4175176
+7   chromedriver                        0x000000010254195c chromedriver + 4266332
+8   chromedriver                        0x0000000102546660 chromedriver + 4286048
+9   chromedriver                        0x0000000102542124 chromedriver + 4268324
+10  chromedriver                        0x000000010252153c chromedriver + 4134204
+11  chromedriver                        0x0000000102559eb0 chromedriver + 4366000
+12  chromedriver                        0x000000010255a014 chromedriver + 4366356
+13  chromedriver                        0x000000010256da6c chromedriver + 4446828
+14  libsystem_pthread.dylib             0x00000001b474d240 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001b4748024 thread_start + 8
+
+10-Mar-22 10:50:04 - ERROR - Spiegel: Can't find cookie window for Spiegel news page
+10-Mar-22 10:50:04 - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[contains(@id,'sp_message_iframe_541484')]"}
+  (Session info: chrome=99.0.4844.51)
+Stacktrace:
+0   chromedriver                        0x0000000102567370 chromedriver + 4420464
+1   chromedriver                        0x00000001024fe940 chromedriver + 3991872
+2   chromedriver                        0x000000010215e548 chromedriver + 189768
+3   chromedriver                        0x000000010218cef8 chromedriver + 380664
+4   chromedriver                        0x00000001021b5bfc chromedriver + 547836
+5   chromedriver                        0x0000000102182248 chromedriver + 336456
+6   chromedriver                        0x000000010252b548 chromedriver + 4175176
+7   chromedriver                        0x000000010254195c chromedriver + 4266332
+8   chromedriver                        0x0000000102546660 chromedriver + 4286048
+9   chromedriver                        0x0000000102542124 chromedriver + 4268324
+10  chromedriver                        0x000000010252153c chromedriver + 4134204
+11  chromedriver                        0x0000000102559eb0 chromedriver + 4366000
+12  chromedriver                        0x000000010255a014 chromedriver + 4366356
+13  chromedriver                        0x000000010256da6c chromedriver + 4446828
+14  libsystem_pthread.dylib             0x00000001b474d240 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001b4748024 thread_start + 8
+
+10-Mar-22 10:50:10 - ERROR - Spiegel: Can't find cookie window for Spiegel news page
+10-Mar-22 10:50:10 - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[contains(@id,'sp_message_iframe_541484')]"}
+  (Session info: chrome=99.0.4844.51)
+Stacktrace:
+0   chromedriver                        0x0000000102567370 chromedriver + 4420464
+1   chromedriver                        0x00000001024fe940 chromedriver + 3991872
+2   chromedriver                        0x000000010215e548 chromedriver + 189768
+3   chromedriver                        0x000000010218cef8 chromedriver + 380664
+4   chromedriver                        0x00000001021b5bfc chromedriver + 547836
+5   chromedriver                        0x0000000102182248 chromedriver + 336456
+6   chromedriver                        0x000000010252b548 chromedriver + 4175176
+7   chromedriver                        0x000000010254195c chromedriver + 4266332
+8   chromedriver                        0x0000000102546660 chromedriver + 4286048
+9   chromedriver                        0x0000000102542124 chromedriver + 4268324
+10  chromedriver                        0x000000010252153c chromedriver + 4134204
+11  chromedriver                        0x0000000102559eb0 chromedriver + 4366000
+12  chromedriver                        0x000000010255a014 chromedriver + 4366356
+13  chromedriver                        0x000000010256da6c chromedriver + 4446828
+14  libsystem_pthread.dylib             0x00000001b474d240 _pthread_start + 148
+15  libsystem_pthread.dylib             0x00000001b4748024 thread_start + 8
+
+10-Mar-22 10:50:15 - ERROR - Spiegel:  Error while switching to frame and accepting cookies...
+10-Mar-22 10:50:15 - ERROR - local variable 'iframe' referenced before assignment
+10-Mar-22 10:50:20 - ERROR - Spiegel:  Error while switching to frame and accepting cookies...
+10-Mar-22 10:50:20 - ERROR - local variable 'iframe' referenced before assignment
+10-Mar-22 10:50:25 - ERROR - Spiegel:  Error while switching to frame and accepting cookies...
+10-Mar-22 10:50:25 - ERROR - local variable 'iframe' referenced before assignment
+10-Mar-22 10:50:30 - INFO - Spiegel: Scrolling down to bottom of page
+10-Mar-22 10:50:30 - INFO - Spiegel Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog/
+10-Mar-22 10:50:30 - INFO - Spiegel: Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Spiegel_10032022_10_50_30.html
+10-Mar-22 10:50:30 - INFO - Spiegel: Check if html already created
+10-Mar-22 10:50:30 - INFO - Spiegel: Spiegel_10032022_10_50_30.html doesnt exist yet
+10-Mar-22 10:50:30 - INFO - Spiegel: Successfully saved file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Spiegel_10032022_10_50_30.html
+10-Mar-22 10:50:30 - INFO - _______________________________________________________________________
+10-Mar-22 10:50:30 - INFO - Sueddeutsche: Start scraping Sueddeutsche news page...
+10-Mar-22 10:50:30 - INFO - Sueddeutsche: Scraping Sueddeutsche @ https://www.sueddeutsche.de/news
+10-Mar-22 10:50:30 - INFO - Starting Chromedriver with @ https://www.sueddeutsche.de/news and loadingTime 10s
+10-Mar-22 10:51:02 - INFO - Sueddeutsche: Switching to Sueddeutsche CookieWindow with XPATH: //iframe[contains(@id,'sp_message_iframe_596049')]
+10-Mar-22 10:51:02 - INFO - Sueddeutsche: Found cookie window...
+10-Mar-22 10:51:02 - INFO - Sueddeutsche: Accepting Cookies with XPATH: //*[@id="notice"]/div[3]/div/div/button[1]
+10-Mar-22 10:51:02 - INFO - Sueddeutsche: Accepting cookies successfull
+10-Mar-22 10:51:02 - INFO - Sueddeutsche: Starting to get Sueddeutsche0
+10-Mar-22 10:51:02 - INFO - Sueddeutsche0 Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog/
+10-Mar-22 10:51:02 - INFO - Sueddeutsche0: Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche0_10032022_10_51_02.html
+10-Mar-22 10:51:02 - INFO - Sueddeutsche0: Check if html already created
+10-Mar-22 10:51:02 - INFO - Sueddeutsche0: Sueddeutsche0_10032022_10_51_02.html doesnt exist yet
+10-Mar-22 10:51:02 - INFO - Sueddeutsche0: Successfully saved file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche0_10032022_10_51_02.html
+10-Mar-22 10:51:02 - INFO - _______________________________________________________________________
+10-Mar-22 10:51:08 - INFO - Sueddeutsche: Starting to get Sueddeutsche1
+10-Mar-22 10:51:08 - INFO - Sueddeutsche1 Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog/
+10-Mar-22 10:51:08 - INFO - Sueddeutsche1: Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche1_10032022_10_51_08.html
+10-Mar-22 10:51:08 - INFO - Sueddeutsche1: Check if html already created
+10-Mar-22 10:51:08 - INFO - Sueddeutsche1: Sueddeutsche1_10032022_10_51_08.html doesnt exist yet
+10-Mar-22 10:51:08 - INFO - Sueddeutsche1: Successfully saved file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche1_10032022_10_51_08.html
+10-Mar-22 10:51:08 - INFO - _______________________________________________________________________
+10-Mar-22 10:51:13 - INFO - Sueddeutsche: Starting to get Sueddeutsche2
+10-Mar-22 10:51:13 - INFO - Sueddeutsche2 Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog/
+10-Mar-22 10:51:13 - INFO - Sueddeutsche2: Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche2_10032022_10_51_13.html
+10-Mar-22 10:51:13 - INFO - Sueddeutsche2: Check if html already created
+10-Mar-22 10:51:13 - INFO - Sueddeutsche2: Sueddeutsche2_10032022_10_51_13.html doesnt exist yet
+10-Mar-22 10:51:13 - INFO - Sueddeutsche2: Successfully saved file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche2_10032022_10_51_13.html
+10-Mar-22 10:51:13 - INFO - _______________________________________________________________________
+10-Mar-22 10:51:18 - INFO - Sueddeutsche: Starting to get Sueddeutsche3
+10-Mar-22 10:51:18 - INFO - Sueddeutsche3 Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog/
+10-Mar-22 10:51:18 - INFO - Sueddeutsche3: Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche3_10032022_10_51_18.html
+10-Mar-22 10:51:18 - INFO - Sueddeutsche3: Check if html already created
+10-Mar-22 10:51:18 - INFO - Sueddeutsche3: Sueddeutsche3_10032022_10_51_18.html doesnt exist yet
+10-Mar-22 10:51:18 - INFO - Sueddeutsche3: Successfully saved file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche3_10032022_10_51_18.html
+10-Mar-22 10:51:18 - INFO - _______________________________________________________________________
+10-Mar-22 10:51:23 - INFO - Sueddeutsche: Starting to get Sueddeutsche4
+10-Mar-22 10:51:24 - INFO - Sueddeutsche4 Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog/
+10-Mar-22 10:51:24 - INFO - Sueddeutsche4: Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche4_10032022_10_51_24.html
+10-Mar-22 10:51:24 - INFO - Sueddeutsche4: Check if html already created
+10-Mar-22 10:51:24 - INFO - Sueddeutsche4: Sueddeutsche4_10032022_10_51_24.html doesnt exist yet
+10-Mar-22 10:51:24 - INFO - Sueddeutsche4: Successfully saved file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche4_10032022_10_51_24.html
+10-Mar-22 10:51:24 - INFO - _______________________________________________________________________
+10-Mar-22 10:51:29 - INFO - Sueddeutsche: Starting to get Sueddeutsche5
+10-Mar-22 10:51:30 - INFO - Sueddeutsche5 Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog/
+10-Mar-22 10:51:30 - INFO - Sueddeutsche5: Creating html file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche5_10032022_10_51_30.html
+10-Mar-22 10:51:30 - INFO - Sueddeutsche5: Check if html already created
+10-Mar-22 10:51:30 - INFO - Sueddeutsche5: Sueddeutsche5_10032022_10_51_30.html doesnt exist yet
+10-Mar-22 10:51:30 - INFO - Sueddeutsche5: Successfully saved file @ /Users/jan/Documents/Python_Projects/Bachelorthesis/HTML_Backlog//Sueddeutsche5_10032022_10_51_30.html
+10-Mar-22 10:51:30 - INFO - _______________________________________________________________________
+10-Mar-22 10:51:35 - INFO - Sueddeutsche: Starting to get Sueddeutsche6
