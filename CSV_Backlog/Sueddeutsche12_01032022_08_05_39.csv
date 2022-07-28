@@ -1,95 +1,95 @@
-Titel,Date_Info,URL,Overline,Breadcrumb,author,detailed_informations,Zugriff_Datum,News_page
-Bilder des Tages,28022022_21:13,https://www.sueddeutsche.de/kultur/fotografie-bilder-des-tages-dpa.urn-newsml-dpa-com-20090101-220227-99-314703,Fotografie,dpa,,,01032022,Sueddeutsche
-Hallo kleiner Markt Schwabener,28022022_21:02,https://www.sueddeutsche.de/muenchen/ebersberg/landkreis-ebersberg-markt-schwaben-1.5538366,Familienpolitik im Landkreis,,,,01032022,Sueddeutsche
-Autoscheibe mit Schild eingeschlagen,28022022_21:02,https://www.sueddeutsche.de/muenchen/ebersberg/landkreis-ebersberg-vaterstetten-polizei-vandalismus-1.5538463,Vor der alten Grundschule in Baldham,,,,01032022,Sueddeutsche
+Titel,Date_Info,URL,Overline,Breadcrumb,author,detailed_informations,Zugriff_Datum,News_page,Kategorie
+Bilder des Tages,28022022_21:13,https://www.sueddeutsche.de/kultur/fotografie-bilder-des-tages-dpa.urn-newsml-dpa-com-20090101-220227-99-314703,Fotografie,dpa,,,01032022,Sueddeutsche,kultur
+Hallo kleiner Markt Schwabener,28022022_21:02,https://www.sueddeutsche.de/muenchen/ebersberg/landkreis-ebersberg-markt-schwaben-1.5538366,Familienpolitik im Landkreis,,,,01032022,Sueddeutsche,muenchen
+Autoscheibe mit Schild eingeschlagen,28022022_21:02,https://www.sueddeutsche.de/muenchen/ebersberg/landkreis-ebersberg-vaterstetten-polizei-vandalismus-1.5538463,Vor der alten Grundschule in Baldham,,,,01032022,Sueddeutsche,muenchen
 """Demokratie ist nicht nur in Berlin, sondern auch in deiner Gaststätte""",28022022_21:02,https://www.sueddeutsche.de/muenchen/ebersberg/partnerschaft-fuer-demokratie-ebersberg-hier-lebt-demokratie-1.5538524,Neues Projekt,,"Von Merle Hubert, Ebersberg","Die Partnerschaft für Demokratie im Landkreis Ebersberg startet die Kampagne ""Hier lebt Demokratie"". Ziel ist, zivilgesellschaftliches und politisches Engagement zu fördern. 
                         
-                            Von Merle Hubert, Ebersberg",01032022,Sueddeutsche
-Fahrplan normalisiert sich wieder,28022022_21:02,https://www.sueddeutsche.de/muenchen/ebersberg/landkreis-ebersberg-poing-busverkehr-linie-452-linie-459-1.5538236,Busverkehr im Landkreis Ebersberg,,,"Die Linie 452 von Vaterstetten nach Grub fährt wieder öfter, bis der Regelfahrplan wieder komplett gilt, wird es aber wohl noch etwas dauern.",01032022,Sueddeutsche
-Nach wie vor viele neue Fälle,28022022_21:02,https://www.sueddeutsche.de/muenchen/ebersberg/corona-ebersberg-kreisklinik-ebersberg-1.5538615,Corona im Landkreis Ebersberg,,,,01032022,Sueddeutsche
-Staffler und Schrodi reagieren auf Brief von Löwl,28022022_21:02,https://www.sueddeutsche.de/muenchen/dachau/landkreis-dachau-katrin-staffler-gymnasien-michael-schrodi-1.5537582,Landkreis Dachau,,,Die CSU-Bundestagsabgeordnete kritisiert wie der Landrat das Ende der Förderung von Neubauten. Ihr SPD-Kollege hält dagegen.,01032022,Sueddeutsche
-Frauen im Fokus,28022022_21:02,https://www.sueddeutsche.de/muenchen/dachau/stadt-dachau-buecherei-weltfrauentag-land-1.5538261,Dachau,,,Die Dachauer Bücherei widmet den Monat März Geschlechterrollen.,01032022,Sueddeutsche
-Zwei Verletzte bei Verkehrsunfall,28022022_21:02,https://www.sueddeutsche.de/muenchen/dachau/verkehrsunfall-roehrmoos-1.5538233,Röhrmoos,,,,01032022,Sueddeutsche
-Korrektur,28022022_21:02,https://www.sueddeutsche.de/muenchen/dachau/landkreis-dachau-korrektur-1.5538390,Landkreis Dachau,,,,01032022,Sueddeutsche
-Schlägerei bei Feldstadl-Party in Bichl,28022022_21:02,https://www.sueddeutsche.de/muenchen/wolfratshausen/polizei-corona-verstoesse-bichl-stadl-party-1.5538555,Aus dem Polizeibericht,,,,01032022,Sueddeutsche
+                            Von Merle Hubert, Ebersberg",01032022,Sueddeutsche,muenchen
+Fahrplan normalisiert sich wieder,28022022_21:02,https://www.sueddeutsche.de/muenchen/ebersberg/landkreis-ebersberg-poing-busverkehr-linie-452-linie-459-1.5538236,Busverkehr im Landkreis Ebersberg,,,"Die Linie 452 von Vaterstetten nach Grub fährt wieder öfter, bis der Regelfahrplan wieder komplett gilt, wird es aber wohl noch etwas dauern.",01032022,Sueddeutsche,muenchen
+Nach wie vor viele neue Fälle,28022022_21:02,https://www.sueddeutsche.de/muenchen/ebersberg/corona-ebersberg-kreisklinik-ebersberg-1.5538615,Corona im Landkreis Ebersberg,,,,01032022,Sueddeutsche,muenchen
+Staffler und Schrodi reagieren auf Brief von Löwl,28022022_21:02,https://www.sueddeutsche.de/muenchen/dachau/landkreis-dachau-katrin-staffler-gymnasien-michael-schrodi-1.5537582,Landkreis Dachau,,,Die CSU-Bundestagsabgeordnete kritisiert wie der Landrat das Ende der Förderung von Neubauten. Ihr SPD-Kollege hält dagegen.,01032022,Sueddeutsche,muenchen
+Frauen im Fokus,28022022_21:02,https://www.sueddeutsche.de/muenchen/dachau/stadt-dachau-buecherei-weltfrauentag-land-1.5538261,Dachau,,,Die Dachauer Bücherei widmet den Monat März Geschlechterrollen.,01032022,Sueddeutsche,muenchen
+Zwei Verletzte bei Verkehrsunfall,28022022_21:02,https://www.sueddeutsche.de/muenchen/dachau/verkehrsunfall-roehrmoos-1.5538233,Röhrmoos,,,,01032022,Sueddeutsche,muenchen
+Korrektur,28022022_21:02,https://www.sueddeutsche.de/muenchen/dachau/landkreis-dachau-korrektur-1.5538390,Landkreis Dachau,,,,01032022,Sueddeutsche,muenchen
+Schlägerei bei Feldstadl-Party in Bichl,28022022_21:02,https://www.sueddeutsche.de/muenchen/wolfratshausen/polizei-corona-verstoesse-bichl-stadl-party-1.5538555,Aus dem Polizeibericht,,,,01032022,Sueddeutsche,muenchen
 """Wir sehen das als Notstand""",28022022_21:02,https://www.sueddeutsche.de/muenchen/wolfratshausen/ukraine-schaeftlarn-osteuropahilfe-kiew-1.5538592,Osteuropahilfe,,"Von Felicitas Amler, Schäftlarn","Schäftlarner nehmen Flüchtende auf und schicken Hilfsgüter in die Ukraine.
                         
-                            Von Felicitas Amler, Schäftlarn",01032022,Sueddeutsche
+                            Von Felicitas Amler, Schäftlarn",01032022,Sueddeutsche,muenchen
 Kommunalpolitiker fordern definitives Nein zur Impfpflicht,28022022_21:02,https://www.sueddeutsche.de/muenchen/wolfratshausen/coronavirus-kommunalpolitik-spaziergaenge-impfpflicht-bad-toelz-wolfratshausen-1.5538724,Coronavirus,,Von Benjamin Engel,"In einem offenen Brief verlangen 15 Mandatsträger einen Dialog mit den Gegnern der Corona-Maßnahmen. 
                         
-                            Von Benjamin Engel",01032022,Sueddeutsche
-Neue Chefin der Landkreis-SZ,28022022_21:02,https://www.sueddeutsche.de/muenchen/wolfratshausen/in-eigener-sache-neue-chefin-der-landkreis-sz-1.5538151,In eigener Sache,,,Claudia Koestler übernimmt Leitung der Lokalredaktion,01032022,Sueddeutsche
-Friedenskonzert und Mahnwache,28022022_21:02,https://www.sueddeutsche.de/muenchen/wolfratshausen/aktionen-in-geretsried-und-toelz-friedenskonzert-und-mahnwache-1.5538419,Aktionen in Geretsried und Tölz,,,,01032022,Sueddeutsche
+                            Von Benjamin Engel",01032022,Sueddeutsche,muenchen
+Neue Chefin der Landkreis-SZ,28022022_21:02,https://www.sueddeutsche.de/muenchen/wolfratshausen/in-eigener-sache-neue-chefin-der-landkreis-sz-1.5538151,In eigener Sache,,,Claudia Koestler übernimmt Leitung der Lokalredaktion,01032022,Sueddeutsche,muenchen
+Friedenskonzert und Mahnwache,28022022_21:02,https://www.sueddeutsche.de/muenchen/wolfratshausen/aktionen-in-geretsried-und-toelz-friedenskonzert-und-mahnwache-1.5538419,Aktionen in Geretsried und Tölz,,,,01032022,Sueddeutsche,muenchen
 Empathie und Solidarität statt Doppelmoral,28022022_21:02,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/fuerstenfeldbruck-corona-ukraine-florian-weber-1.5538662,Kommentar,,"Von Peter Bierl, Fürstenfeldbruck","Meinung
                     
                     
                         In Fürstenfeldbruck gibt es ähnlich viel Hilfsbereitschaft wie 2015. Wieder zeigen einzelne Personen, wie schnell sie Flüchtlingen beistehen können.
                         
-                            Von Peter Bierl, Fürstenfeldbruck",01032022,Sueddeutsche
-Schrodi verurteilt Invasion in der Ukraine,28022022_21:01,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/olching-ukraine-krieg-invasion-1.5538651,Reaktionen,,,Olchinger SPD-Bundestagsabgeordneter weist auf Putins krudes Geschichtsbild hin.,01032022,Sueddeutsche
+                            Von Peter Bierl, Fürstenfeldbruck",01032022,Sueddeutsche,muenchen
+Schrodi verurteilt Invasion in der Ukraine,28022022_21:01,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/olching-ukraine-krieg-invasion-1.5538651,Reaktionen,,,Olchinger SPD-Bundestagsabgeordneter weist auf Putins krudes Geschichtsbild hin.,01032022,Sueddeutsche,muenchen
 Landratsamt sucht nach Unterkünften für Geflüchtete,28022022_21:01,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/fuerstenfeldbruck-fluechtlinge-gefluechtete-asyl-unterkunft-fliegerhorst-fehlbelegung-1.5538258,Asyl,,"Von Gerhard Eisenkolb, Fürstenfeldbruck","Weil Wohnraum knapp und teuer ist, finden viele anerkannte Asylbewerber kein neues Zuhause. Zudem soll das Ankerzentrum am Fliegerhorst geschlossen werden.
                         
-                            Von Gerhard Eisenkolb, Fürstenfeldbruck",01032022,Sueddeutsche
+                            Von Gerhard Eisenkolb, Fürstenfeldbruck",01032022,Sueddeutsche,muenchen
 Bauunternehmer kritisiert SPD,28022022_21:01,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/germering-kreuzlinger-feld-buergerentscheid-spd-bauunternehmer-1.5538319,Kreuzlinger Feld,,"Von  Karl-Wilhelm Götte , Germering","Thomas Vilgertshofer wirft den Germeringer Sozialdemokraten vor, Versprechungen zu machen, die nicht eingehalten werden können.
                         
-                            Von  Karl-Wilhelm Götte , Germering",01032022,Sueddeutsche
+                            Von  Karl-Wilhelm Götte , Germering",01032022,Sueddeutsche,muenchen
 Drei Jahre Haft für Ehemann,28022022_21:01,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/olching-schwurgericht-versuchter-mord-geliebte-rentner-1.5538416,Urteil,,"Von Andreas Salch, Olching","Ein Rentner, der eine Affäre mit einer jüngeren Frau hatte, wollte deshalb seine Ehefrau aus dem Weg räumen. Das Schwurgericht am Landgericht München II verurteilt ihn dafür wegen gefährlicher Körperverletzung. 
                         
-                            Von Andreas Salch, Olching",01032022,Sueddeutsche
-Die Pandemie fordert in Fürstenfeldbruck zwei weitere Opfer,28022022_21:01,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/fuerstenfeldbruck-corona-todesopfer-inzidenz-1.5538625,Corona-Update,,,Zwei Frauen im Alter von 80 und 83 Jahren sterben mit einem positiven Covid-Befund. Inzidenz ist wieder leicht gestiegen.,01032022,Sueddeutsche
+                            Von Andreas Salch, Olching",01032022,Sueddeutsche,muenchen
+Die Pandemie fordert in Fürstenfeldbruck zwei weitere Opfer,28022022_21:01,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/fuerstenfeldbruck-corona-todesopfer-inzidenz-1.5538625,Corona-Update,,,Zwei Frauen im Alter von 80 und 83 Jahren sterben mit einem positiven Covid-Befund. Inzidenz ist wieder leicht gestiegen.,01032022,Sueddeutsche,muenchen
 Roßhaupterplatz in Olching wird zum Lernort,28022022_21:01,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/olching-albert-rosshaupter-sozialdemokrat-landtagsabgeordneter-bayerischer-minister-1.5538501,Gedenken,,"Von Karl-Wilhelm Götte , Olching","Die Stadt erinnert mit einer Neugestaltung an den prominenten Sozialdemokraten, mehrmaligen bayerischen Minister und Gegner des Nationalsozialismus.
                         
-                            Von Karl-Wilhelm Götte , Olching",01032022,Sueddeutsche
-Prinzenpaare tanzen,28022022_21:01,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/fuerstenfeldbruck-gardetreffen-fasching-prinzenpaare-showtanzgruppen-1.5538293,Gardetreffen,,,Elf Faschingsgruppen zeigen Choreografien und erfreuen mehr als 400 Zuschauer.,01032022,Sueddeutsche
-Musikalische Weltreise,28022022_21:01,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/konzert-musikalische-weltreise-1.5538705,Konzert,,,Das Duo Paseo spielt Filmmusik und eigene Kompositionen.,01032022,Sueddeutsche
-OP-Verbot wird verlängert,28022022_21:01,https://www.sueddeutsche.de/muenchen/starnberg/corona-op-verbot-klinikum-starnberg-schindlbeck-benedictus-krankenhaus-asklepios-1.5538394,Wegen Corona,,,,01032022,Sueddeutsche
+                            Von Karl-Wilhelm Götte , Olching",01032022,Sueddeutsche,muenchen
+Prinzenpaare tanzen,28022022_21:01,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/fuerstenfeldbruck-gardetreffen-fasching-prinzenpaare-showtanzgruppen-1.5538293,Gardetreffen,,,Elf Faschingsgruppen zeigen Choreografien und erfreuen mehr als 400 Zuschauer.,01032022,Sueddeutsche,muenchen
+Musikalische Weltreise,28022022_21:01,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/konzert-musikalische-weltreise-1.5538705,Konzert,,,Das Duo Paseo spielt Filmmusik und eigene Kompositionen.,01032022,Sueddeutsche,muenchen
+OP-Verbot wird verlängert,28022022_21:01,https://www.sueddeutsche.de/muenchen/starnberg/corona-op-verbot-klinikum-starnberg-schindlbeck-benedictus-krankenhaus-asklepios-1.5538394,Wegen Corona,,,,01032022,Sueddeutsche,muenchen
 Mister Tourismus verabschiedet sich langsam,28022022_21:01,https://www.sueddeutsche.de/muenchen/starnberg/tourismus-starnberg-goetzl-1.5538558,Tourismus,,Von Christina Rebhahn-Roither,"Darauf achten, dass sich Urlauber und Ausflügler wohlfühlen - was könnte es in Starnberg für einen schöneren Job geben? Und trotzdem geht Klaus Götzl nach fast 35 Jahren nun in den Ruhestand. Zumindest teilweise.
                         
-                            Von Christina Rebhahn-Roither",01032022,Sueddeutsche
+                            Von Christina Rebhahn-Roither",01032022,Sueddeutsche,muenchen
 Das Zeug zum Monster,28022022_21:01,https://www.sueddeutsche.de/muenchen/starnberg/mitten-in-der-region-das-zeug-zum-monster-1.5538178,Mitten in der Region,,Glosse von Michael Morosow,"Wie aus der Geschichte um den Riesenwaller von der Regatta-Anlage im Münchner Norden fast ein Thriller hätte werden können.
                         
-                            Glosse von Michael Morosow",01032022,Sueddeutsche
-Einbruch in Wochenendhaus: Täter finden nur Modeschmuck,28022022_21:01,https://www.sueddeutsche.de/muenchen/starnberg/inning-einbruch-modeschmuck-ferienhaus-ammersee-1.5538489,Inning am Ammersee,,,,01032022,Sueddeutsche
+                            Glosse von Michael Morosow",01032022,Sueddeutsche,muenchen
+Einbruch in Wochenendhaus: Täter finden nur Modeschmuck,28022022_21:01,https://www.sueddeutsche.de/muenchen/starnberg/inning-einbruch-modeschmuck-ferienhaus-ammersee-1.5538489,Inning am Ammersee,,,,01032022,Sueddeutsche,muenchen
 Herrschinger attackiert und beleidigt Polizisten,28022022_21:01,https://www.sueddeutsche.de/muenchen/starnberg/herrsching-polizisten-prozess-urteil-1.5538434,Amtsgericht Starnberg,,"Von Christian Deussing, Herrsching","55-Jähriger zu sechsmonatiger Bewährungsstrafe und 2000 Euro Geldauflage verurteilt 
                         
-                            Von Christian Deussing, Herrsching",01032022,Sueddeutsche
+                            Von Christian Deussing, Herrsching",01032022,Sueddeutsche,muenchen
 "Zwei Gleise, viele Fragen",28022022_21:01,https://www.sueddeutsche.de/muenchen/starnberg/seefeld-hechendorf-steinebach-s-bahn-ausbau-zweigleisig-1.5538376,Nach dem Unglück von Schäftlarn,,Von Linus Freymark,"Zwischen Seefeld-Hechendorf und Steinebach soll die S-Bahn von 2025 an zweigleisig verkehren. Doch kann der Zeitplan gehalten werden? 
                         
-                            Von Linus Freymark",01032022,Sueddeutsche
-Falscher Alarm auf dem Starnberger See,28022022_21:01,https://www.sueddeutsche.de/muenchen/starnberg/wasserwacht-polizei-notruf-starnberger-see-1.5538709,Per Notruf-App,,,,01032022,Sueddeutsche
-Erneuerung der Ortsdurchfahrt geht weiter,28022022_21:01,https://www.sueddeutsche.de/muenchen/starnberg/herrsching-ortsdurchfahrt-baustelle-muehlfelder-strasse-1.5538450,Herrsching,,,Bis Mai ist die Mühlfelder Straße im Ortskern nur einspurig befahrbar,01032022,Sueddeutsche
+                            Von Linus Freymark",01032022,Sueddeutsche,muenchen
+Falscher Alarm auf dem Starnberger See,28022022_21:01,https://www.sueddeutsche.de/muenchen/starnberg/wasserwacht-polizei-notruf-starnberger-see-1.5538709,Per Notruf-App,,,,01032022,Sueddeutsche,muenchen
+Erneuerung der Ortsdurchfahrt geht weiter,28022022_21:01,https://www.sueddeutsche.de/muenchen/starnberg/herrsching-ortsdurchfahrt-baustelle-muehlfelder-strasse-1.5538450,Herrsching,,,Bis Mai ist die Mühlfelder Straße im Ortskern nur einspurig befahrbar,01032022,Sueddeutsche,muenchen
 Juwel in freier Natur,28022022_21:01,https://www.sueddeutsche.de/muenchen/freising/attraktion-bei-attenkirchen-juwel-in-freier-natur-1.5538377,Attraktion bei Attenkirchen,,"Von Peter Becker, Attenkirchen","Bockerlradweg soll eine neue  Begegnungsstätte werden.
                         
-                            Von Peter Becker, Attenkirchen",01032022,Sueddeutsche
-Schlägerei in Sünzhausen,28022022_21:01,https://www.sueddeutsche.de/muenchen/freising/freising-polizeieinsatz-schlaegerei-1.5538712,Freising,,,Ein Streit zwischen drei Männern endet am Sonntagabend handgreiflich.,01032022,Sueddeutsche
-Abbrucharbeiten auf dem Domberg,28022022_21:01,https://www.sueddeutsche.de/muenchen/freising/freising-domberg-erzbistum-kardinal-doepfner-haus-1.5538562,Freising,,,,01032022,Sueddeutsche
-Tödlicher Unfall,28022022_21:01,https://www.sueddeutsche.de/muenchen/freising/eching-unfall-reanimation-rettungskraefte-1.5538556,Eching,,,Auto prallt gegen einen Straßenbaum. Der Fahrer stirbt noch an der Unfallstelle.,01032022,Sueddeutsche
+                            Von Peter Becker, Attenkirchen",01032022,Sueddeutsche,muenchen
+Schlägerei in Sünzhausen,28022022_21:01,https://www.sueddeutsche.de/muenchen/freising/freising-polizeieinsatz-schlaegerei-1.5538712,Freising,,,Ein Streit zwischen drei Männern endet am Sonntagabend handgreiflich.,01032022,Sueddeutsche,muenchen
+Abbrucharbeiten auf dem Domberg,28022022_21:01,https://www.sueddeutsche.de/muenchen/freising/freising-domberg-erzbistum-kardinal-doepfner-haus-1.5538562,Freising,,,,01032022,Sueddeutsche,muenchen
+Tödlicher Unfall,28022022_21:01,https://www.sueddeutsche.de/muenchen/freising/eching-unfall-reanimation-rettungskraefte-1.5538556,Eching,,,Auto prallt gegen einen Straßenbaum. Der Fahrer stirbt noch an der Unfallstelle.,01032022,Sueddeutsche,muenchen
 Krieg ist durch nichts zu rechtfertigen,28022022_21:01,https://www.sueddeutsche.de/muenchen/freising/entsetzen-im-landkreis-freising-krieg-ist-durch-nichts-zu-rechtfertigen-1.5538447,Entsetzen im Landkreis Freising,,"Von Kerstin Vogel, Freising","Mehr als 600 Menschen zeigen bei einer Mahnwache auf dem Freisinger Marienplatz ihre große Solidarität mit dem ukrainischen Volk. Redner aus allen Parteien verurteilen Putin und rufen zur Unterstützung von Flüchtlingen auf.
                         
-                            Von Kerstin Vogel, Freising",01032022,Sueddeutsche
-Schnelle Hilfe für die Ukraine,28022022_21:01,https://www.sueddeutsche.de/muenchen/freising/ukraine-hilfsgueter-1.5538718,Landkreis Freising,,,Vereine sammeln Medikamente und Verbandskästen,01032022,Sueddeutsche
-Gelockerte Besuchsregeln,28022022_21:01,https://www.sueddeutsche.de/muenchen/freising/freising-klinikum-corona-besuch-coronavirus-im-landkreis-freising-1.5538266,Klinikum Freising,,,Zum Schutz der Patienten und Mitarbeiter vor Corona wird die Öffnung schrittweise umgesetzt. Weiterhin gelten Auflagen.,01032022,Sueddeutsche
-Drogenfund bei Rettungseinsatz,28022022_21:01,https://www.sueddeutsche.de/muenchen/erding/polizei-drogen-marihuna-strafanzeige-rettungseinsatz-taufkirchen-1.5538640,Taufkirchen,,Von Gerhard Wilhelm,Von Gerhard Wilhelm,01032022,Sueddeutsche
+                            Von Kerstin Vogel, Freising",01032022,Sueddeutsche,muenchen
+Schnelle Hilfe für die Ukraine,28022022_21:01,https://www.sueddeutsche.de/muenchen/freising/ukraine-hilfsgueter-1.5538718,Landkreis Freising,,,Vereine sammeln Medikamente und Verbandskästen,01032022,Sueddeutsche,muenchen
+Gelockerte Besuchsregeln,28022022_21:01,https://www.sueddeutsche.de/muenchen/freising/freising-klinikum-corona-besuch-coronavirus-im-landkreis-freising-1.5538266,Klinikum Freising,,,Zum Schutz der Patienten und Mitarbeiter vor Corona wird die Öffnung schrittweise umgesetzt. Weiterhin gelten Auflagen.,01032022,Sueddeutsche,muenchen
+Drogenfund bei Rettungseinsatz,28022022_21:01,https://www.sueddeutsche.de/muenchen/erding/polizei-drogen-marihuna-strafanzeige-rettungseinsatz-taufkirchen-1.5538640,Taufkirchen,,Von Gerhard Wilhelm,Von Gerhard Wilhelm,01032022,Sueddeutsche,muenchen
 Hubschrauber landet auf der Autobahn,28022022_21:01,https://www.sueddeutsche.de/muenchen/erding/dorfen-autobahn-unfall-hubschrauber-a94-1.5538500,Unfall auf A 94,,"Von Antonia Steiger, Dorfen","Bei Dorfen übersieht junge Frau Gefahrenstelle und fährt auf anderen Wagen auf. Vier Menschen werden verletzt.
                         
-                            Von Antonia Steiger, Dorfen",01032022,Sueddeutsche
-Und der Frühling kommt doch bald,28022022_21:01,https://www.sueddeutsche.de/muenchen/erding/eis-erding-lange-zeile-1.5538638,Erding,,,,01032022,Sueddeutsche
+                            Von Antonia Steiger, Dorfen",01032022,Sueddeutsche,muenchen
+Und der Frühling kommt doch bald,28022022_21:01,https://www.sueddeutsche.de/muenchen/erding/eis-erding-lange-zeile-1.5538638,Erding,,,,01032022,Sueddeutsche,muenchen
 AWO setzt auf Neustart,28022022_21:01,https://www.sueddeutsche.de/muenchen/erding/erding-awo-neuwahl-vorstand-gertrud-eichinger-1.5538687,Erding,,"Von Regina Bluhme, Erding","Der Kreisverband will mit der neuen Präsidentin Gertrud Eichinger einen Schlussstrich ziehen unter zwei turbulente Jahre. Ob das so einfach gelingt? Noch ermittelt die Staatsanwaltschaft gegen ihren Vorgänger sowie den ehemaligen Vorstand.
                         
-                            Von Regina Bluhme, Erding",01032022,Sueddeutsche
+                            Von Regina Bluhme, Erding",01032022,Sueddeutsche,muenchen
 Daten gegen Krisen,28022022_21:01,https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-corona-bundeswehr-digitalisierung-krise-1.5538483,Digitalisierung,,"Von Andreas Junkmann, Ebersberg","Während der Corona-Pandemie hat der Landkreis Ebersberg digital stark aufgerüstet. Das könnte auch wichtig für die Zukunft werden.
                         
-                            Von Andreas Junkmann, Ebersberg",01032022,Sueddeutsche
+                            Von Andreas Junkmann, Ebersberg",01032022,Sueddeutsche,muenchen
 Zahl der Todesopfer steigt auf 160,28022022_21:01,https://www.sueddeutsche.de/muenchen/erding/corona-erding-todesopfer-novavax-1.5538512,Corona im Landkreis Erding,,"Von Antonia Steiger, Erding","Auch die Sieben-Tages-Inzidenz ist höher als zuletzt
                         
-                            Von Antonia Steiger, Erding",01032022,Sueddeutsche
-Sonne für Grünwald,28022022_21:01,https://www.sueddeutsche.de/muenchen/landkreismuenchen/erneuerbare-energien-sonne-fuer-gruenwald-1.5538602,Erneuerbare Energien,,,Gemeinde möchte auf den Dächern eigener Gebäude Photovoltaikanlagen errichten,01032022,Sueddeutsche
-Beim Pizzabacken eingeschlafen,28022022_21:01,https://www.sueddeutsche.de/muenchen/landkreismuenchen/hoehenkirchen-siegertsbrunn-eglfing-braende-1.5538642,Feuerwehreinsätze,,,,01032022,Sueddeutsche
+                            Von Antonia Steiger, Erding",01032022,Sueddeutsche,muenchen
+Sonne für Grünwald,28022022_21:01,https://www.sueddeutsche.de/muenchen/landkreismuenchen/erneuerbare-energien-sonne-fuer-gruenwald-1.5538602,Erneuerbare Energien,,,Gemeinde möchte auf den Dächern eigener Gebäude Photovoltaikanlagen errichten,01032022,Sueddeutsche,muenchen
+Beim Pizzabacken eingeschlafen,28022022_21:01,https://www.sueddeutsche.de/muenchen/landkreismuenchen/hoehenkirchen-siegertsbrunn-eglfing-braende-1.5538642,Feuerwehreinsätze,,,,01032022,Sueddeutsche,muenchen
 Dieser Landkreis schafft das,28022022_21:01,https://www.sueddeutsche.de/muenchen/landkreismuenchen/landkreis-muenchen-ukraine-krieg-fluechtlinge-1.5538710,Kommentar,,"Von Martin Mühlfenzl, Landkreis München","Meinung
                     
                     
                         Dass viele Menschen anbieten, ukrainische Geflüchtete aufnehmen zu wollen, ist ein starkes Signal des Zusammenhalts und der Empathie. Jetzt muss die Politik nachlegen. 
                         
-                            Von Martin Mühlfenzl, Landkreis München",01032022,Sueddeutsche
-Zwei weitere Todesfälle,28022022_21:01,https://www.sueddeutsche.de/muenchen/landkreismuenchen/corona-todesfaelle-landkreis-muenchen-1.5538603,Corona,,,,01032022,Sueddeutsche
-Fortgeschrittene Ganztagsbetreuung,28022022_21:01,https://www.sueddeutsche.de/muenchen/landkreismuenchen/brunnthal-gemeinderat-1.5538665,Brunnthal,,,Gemeinde will Konzepte weiter entwickeln sowie Bedarf und Wünsche von Eltern ermitteln.,01032022,Sueddeutsche
+                            Von Martin Mühlfenzl, Landkreis München",01032022,Sueddeutsche,muenchen
+Zwei weitere Todesfälle,28022022_21:01,https://www.sueddeutsche.de/muenchen/landkreismuenchen/corona-todesfaelle-landkreis-muenchen-1.5538603,Corona,,,,01032022,Sueddeutsche,muenchen
+Fortgeschrittene Ganztagsbetreuung,28022022_21:01,https://www.sueddeutsche.de/muenchen/landkreismuenchen/brunnthal-gemeinderat-1.5538665,Brunnthal,,,Gemeinde will Konzepte weiter entwickeln sowie Bedarf und Wünsche von Eltern ermitteln.,01032022,Sueddeutsche,muenchen

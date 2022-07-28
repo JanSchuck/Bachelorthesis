@@ -1,87 +1,87 @@
-Titel,Date_Info,URL,Overline,Breadcrumb,author,detailed_informations,Zugriff_Datum,News_page
-FC Bayern eröffnet Büro in Bangkok,22022022_17:51,https://www.sueddeutsche.de/sport/fussball-bundesliga-fc-bayern-eroeffnet-buero-in-bangkok-1.5534537,Fußball-Bundesliga,,,,23022022,Sueddeutsche
-Playoff-Halbfinale: Ingolstadt in Planegg,22022022_17:51,https://www.sueddeutsche.de/sport/eishockey-frauen-playoff-halbfinale-ingolstadt-in-planegg-1.5534545,Eishockey (Frauen),,,,23022022,Sueddeutsche
+Titel,Date_Info,URL,Overline,Breadcrumb,author,detailed_informations,Zugriff_Datum,News_page,Kategorie
+FC Bayern eröffnet Büro in Bangkok,22022022_17:51,https://www.sueddeutsche.de/sport/fussball-bundesliga-fc-bayern-eroeffnet-buero-in-bangkok-1.5534537,Fußball-Bundesliga,,,,23022022,Sueddeutsche,sport
+Playoff-Halbfinale: Ingolstadt in Planegg,22022022_17:51,https://www.sueddeutsche.de/sport/eishockey-frauen-playoff-halbfinale-ingolstadt-in-planegg-1.5534545,Eishockey (Frauen),,,,23022022,Sueddeutsche,sport
 Er ist dann mal wieder weg,22022022_17:51,https://www.sueddeutsche.de/sport/fussball-vfb-stuttgart-silas-katompa-mvumpa-1.5534579,Abstiegskampf in der Bundesliga,,Von Christof Kneer,"Kreuzbandriss, Identitätsdebatte, Comeback, Schulterverletzung: Silas Katompa Mvumpa hat ein bitteres Jahr hinter sich. Sein Fehlen hat dem VfB Stuttgart alle Leichtigkeit genommen - der Klassenverbleib muss ohne ihn gelingen. 
                         
-                            Von Christof Kneer",23022022,Sueddeutsche
-Marcel Schrötter erleidet Handbruch,22022022_17:51,https://www.sueddeutsche.de/sport/motorradsport-marcel-schroetter-erleidet-handbruch-1.5534543,Motorradsport,,,,23022022,Sueddeutsche
-Pelé weiterhin in Klinik,22022022_17:51,https://www.sueddeutsche.de/sport/brasilianische-fussballikone-pele-weiterhin-in-klinik-1.5534528,Brasilianische Fußballikone,,,,23022022,Sueddeutsche
-Bosch investiert mehr in Halbleiter-Fertigung,22022022_17:51,https://www.sueddeutsche.de/wirtschaft/chip-krise-bosch-investiert-mehr-in-halbleiter-fertigung-1.5534575,Chip-Krise,,,,23022022,Sueddeutsche
+                            Von Christof Kneer",23022022,Sueddeutsche,sport
+Marcel Schrötter erleidet Handbruch,22022022_17:51,https://www.sueddeutsche.de/sport/motorradsport-marcel-schroetter-erleidet-handbruch-1.5534543,Motorradsport,,,,23022022,Sueddeutsche,sport
+Pelé weiterhin in Klinik,22022022_17:51,https://www.sueddeutsche.de/sport/brasilianische-fussballikone-pele-weiterhin-in-klinik-1.5534528,Brasilianische Fußballikone,,,,23022022,Sueddeutsche,sport
+Bosch investiert mehr in Halbleiter-Fertigung,22022022_17:51,https://www.sueddeutsche.de/wirtschaft/chip-krise-bosch-investiert-mehr-in-halbleiter-fertigung-1.5534575,Chip-Krise,,,,23022022,Sueddeutsche,wirtschaft
 Dax grenzt Verluste ein,22022022_17:51,https://www.sueddeutsche.de/wirtschaft/aktien-dax-grenzt-verluste-ein-1.5534009,Aktien,,,"Der eskalierende Konflikt zwischen Russland und der Ukraine führt zunächst zu weiteren heftigen Einbußen an den Börsen. Die Erholung folgt allerdings am Nachmittag 
-          in raschem Tempo. Im Fokus steht die VW-Aktie.",23022022,Sueddeutsche
-Rohstoffpreise ziehen kräftig an,22022022_17:51,https://www.sueddeutsche.de/wirtschaft/rohstoffe-und-devisen-rohstoffpreise-ziehen-kraeftig-an-1.5534011,Rohstoffe und Devisen,,,Die Erwartung möglicher Sanktionen gegen Russland treibt die Preise für wichtige Rohstoffe nach oben. Die Notierung für die europäische Ölsorte Brent verfehlt nur knapp die 100-Dollar-Marke.,23022022,Sueddeutsche
-Gericht: Netflix darf Preise laufender Abos nicht ändern,22022022_17:51,https://www.sueddeutsche.de/wirtschaft/streaming-gericht-netflix-darf-preise-laufender-abos-nicht-aendern-1.5534571,Streaming,,,,23022022,Sueddeutsche
-Großes Stadt-Land-Gefälle im Wohnungsbau,22022022_17:51,https://www.sueddeutsche.de/wirtschaft/wohnen-grosses-stadt-land-gefaelle-im-wohnungsbau-1.5534569,Wohnen,,,,23022022,Sueddeutsche
-Milliardenverlust für die Karnevalsbranche,22022022_17:51,https://www.sueddeutsche.de/wirtschaft/pandemie-milliardenverlust-fuer-die-karnevalsbranche-1.5534577,Pandemie,,,,23022022,Sueddeutsche
-Ex-Opel-Chef übernimmt Leitung von Nikola Motor,22022022_17:51,https://www.sueddeutsche.de/wirtschaft/lkw-bauer-ex-opel-chef-uebernimmt-leitung-von-nikola-motor-1.5534573,Lkw-Bauer,,,,23022022,Sueddeutsche
-Chemiearbeiter wollen Lohnplus über Inflation,22022022_17:51,https://www.sueddeutsche.de/wirtschaft/tarifrunde-chemiearbeiter-wollen-lohnplus-ueber-inflation-1.5534365,Tarifrunde,,,,23022022,Sueddeutsche
-Wald in Deutschland: Beispiellose Schäden,22022022_17:51,https://www.sueddeutsche.de/wissen/wald-schaden-klimawandel-borkenkaefer-1.5534585,Umwelt,,,Satelliten liefern alarmierende Daten. Seit Januar 2018 verschwanden fünf Prozent der Waldfläche.,23022022,Sueddeutsche
+          in raschem Tempo. Im Fokus steht die VW-Aktie.",23022022,Sueddeutsche,wirtschaft
+Rohstoffpreise ziehen kräftig an,22022022_17:51,https://www.sueddeutsche.de/wirtschaft/rohstoffe-und-devisen-rohstoffpreise-ziehen-kraeftig-an-1.5534011,Rohstoffe und Devisen,,,Die Erwartung möglicher Sanktionen gegen Russland treibt die Preise für wichtige Rohstoffe nach oben. Die Notierung für die europäische Ölsorte Brent verfehlt nur knapp die 100-Dollar-Marke.,23022022,Sueddeutsche,wirtschaft
+Gericht: Netflix darf Preise laufender Abos nicht ändern,22022022_17:51,https://www.sueddeutsche.de/wirtschaft/streaming-gericht-netflix-darf-preise-laufender-abos-nicht-aendern-1.5534571,Streaming,,,,23022022,Sueddeutsche,wirtschaft
+Großes Stadt-Land-Gefälle im Wohnungsbau,22022022_17:51,https://www.sueddeutsche.de/wirtschaft/wohnen-grosses-stadt-land-gefaelle-im-wohnungsbau-1.5534569,Wohnen,,,,23022022,Sueddeutsche,wirtschaft
+Milliardenverlust für die Karnevalsbranche,22022022_17:51,https://www.sueddeutsche.de/wirtschaft/pandemie-milliardenverlust-fuer-die-karnevalsbranche-1.5534577,Pandemie,,,,23022022,Sueddeutsche,wirtschaft
+Ex-Opel-Chef übernimmt Leitung von Nikola Motor,22022022_17:51,https://www.sueddeutsche.de/wirtschaft/lkw-bauer-ex-opel-chef-uebernimmt-leitung-von-nikola-motor-1.5534573,Lkw-Bauer,,,,23022022,Sueddeutsche,wirtschaft
+Chemiearbeiter wollen Lohnplus über Inflation,22022022_17:51,https://www.sueddeutsche.de/wirtschaft/tarifrunde-chemiearbeiter-wollen-lohnplus-ueber-inflation-1.5534365,Tarifrunde,,,,23022022,Sueddeutsche,wirtschaft
+Wald in Deutschland: Beispiellose Schäden,22022022_17:51,https://www.sueddeutsche.de/wissen/wald-schaden-klimawandel-borkenkaefer-1.5534585,Umwelt,,,Satelliten liefern alarmierende Daten. Seit Januar 2018 verschwanden fünf Prozent der Waldfläche.,23022022,Sueddeutsche,wissen
 Wer bin ich und wie viele?,22022022_17:51,https://www.sueddeutsche.de/medien/severance-serie-apple-1.5534423,"""Severance"" auf Apple+",,Von Kathrin Müller-Lancé,"In Ben Stillers Serie ""Severance"" werden die Erinnerungen von Mitarbeitern durch einen Chip strikt nach Arbeit und Privatleben getrennt. Ein Albtraum.
                         
-                            Von Kathrin Müller-Lancé",23022022,Sueddeutsche
-17 Tote bei Angriff auf Bus,22022022_17:51,https://www.sueddeutsche.de/politik/niger-17-tote-bei-angriff-auf-bus-1.5534494,Niger,,,,23022022,Sueddeutsche
-Unabhängige Klärung geplant,22022022_17:51,https://www.sueddeutsche.de/politik/spanien-unabhaengige-klaerung-geplant-1.5534492,Spanien,,,,23022022,Sueddeutsche
+                            Von Kathrin Müller-Lancé",23022022,Sueddeutsche,medien
+17 Tote bei Angriff auf Bus,22022022_17:51,https://www.sueddeutsche.de/politik/niger-17-tote-bei-angriff-auf-bus-1.5534494,Niger,,,,23022022,Sueddeutsche,politik
+Unabhängige Klärung geplant,22022022_17:51,https://www.sueddeutsche.de/politik/spanien-unabhaengige-klaerung-geplant-1.5534492,Spanien,,,,23022022,Sueddeutsche,politik
 "Bestraft für den Vorwurf der ""Orbanisierung""",22022022_17:51,https://www.sueddeutsche.de/politik/griechenland-pressefreiheit-weber-1.5534383,Griechenland,,"Von Matthias Kolb und Tobias Zick, Brüssel/München","Die griechische Regierungspartei Nea Dimokratia wirft einen kritischen Europa-Abgeordneten raus - und bekommt dabei Unterstützung vom Chef der EVP-Fraktion, Manfred Weber. Das finden dort nicht alle gut.
                         
-                            Von Matthias Kolb und Tobias Zick, Brüssel/München",23022022,Sueddeutsche
+                            Von Matthias Kolb und Tobias Zick, Brüssel/München",23022022,Sueddeutsche,politik
 Kolumbien erlaubt Abtreibungen,22022022_17:51,https://www.sueddeutsche.de/politik/abtreibung-kolumbien-1.5534267,Frauenrechte in Südamerika,,"Von Christoph Gurk , Buenos Aires","In vielen Ländern Südamerikas gelten strenge Regeln für Schwangerschaftsabbrüche. Jetzt hat das höchste Gericht Kolumbiens geurteilt: Bis zur 24. Woche sollen sie erlaubt sein - ein weiterer Erfolg für die neue starke Frauenbewegung auf dem Kontinent.
                         
-                            Von Christoph Gurk , Buenos Aires",23022022,Sueddeutsche
-Kunstblut-Demo ohne Folgen,22022022_17:51,https://www.sueddeutsche.de/politik/der-dritte-weg-kunstblut-demo-ohne-folgen-1.5534141,"""Der dritte Weg""",,,,23022022,Sueddeutsche
+                            Von Christoph Gurk , Buenos Aires",23022022,Sueddeutsche,politik
+Kunstblut-Demo ohne Folgen,22022022_17:51,https://www.sueddeutsche.de/politik/der-dritte-weg-kunstblut-demo-ohne-folgen-1.5534141,"""Der dritte Weg""",,,,23022022,Sueddeutsche,politik
 Zurück in die Hände eines Marcos,22022022_17:51,https://www.sueddeutsche.de/politik/philippinen-marcos-wahlkampf-1.5534243,Philippinen,,"Von David Pfeifer, Manila","Seine Eltern haben die Philippinen geplündert, dennoch könnte Sohn Ferdinand Marcos junior der nächste Präsident werden. Er soll die Familienehre retten und die Geschichte umschreiben. 
                         
-                            Von David Pfeifer, Manila",23022022,Sueddeutsche
+                            Von David Pfeifer, Manila",23022022,Sueddeutsche,politik
 Schläge und Dreckwasser,22022022_17:51,https://www.sueddeutsche.de/politik/stutthof-kz-1.5534455,NS-Prozess,,"Von Peter Burghardt, Itzehoe","Im Prozess gegen die frühere KZ-Sekretärin Irmgard F. erzählt eine damalige Gefangene von Gewalt und Folter. Die Angeklagte aber wirkt stoisch, so als gehe sie das alles nichts an.
                         
-                            Von Peter Burghardt, Itzehoe",23022022,Sueddeutsche
-Partei wächst weiter,22022022_17:51,https://www.sueddeutsche.de/politik/gruene-partei-waechst-weiter-1.5534143,Grüne,,,,23022022,Sueddeutsche
+                            Von Peter Burghardt, Itzehoe",23022022,Sueddeutsche,politik
+Partei wächst weiter,22022022_17:51,https://www.sueddeutsche.de/politik/gruene-partei-waechst-weiter-1.5534143,Grüne,,,,23022022,Sueddeutsche,politik
 "Der Scheich, der sich für die Frauen starkmacht",22022022_17:51,https://www.sueddeutsche.de/meinung/erbrecht-islam-fatwa-azhar-universitaet-frauenrechte-1.5534217,Ägypten,,Von Dunja Ramadan,"Ahmed al-Tayyeb, die wichtigste Autorität des sunnitischen Islam, will eine Fatwa aus dem 7. Jahrhundert wiederbeleben: damit arbeitende Frauen bessergestellt werden. 
                         
-                            Von Dunja Ramadan",23022022,Sueddeutsche
+                            Von Dunja Ramadan",23022022,Sueddeutsche,meinung
 Marionetten,22022022_17:51,https://www.sueddeutsche.de/meinung/marionetten-franz-graf-von-pocci-papa-schmid-kasperl-wladimir-putin-1.5534084,Aktuelles Lexikon,,Von Detlef Esslinger,"Im Theater geliebt, in der Politik verachtet - wie man bei Wladimir Putin gerade wieder sieht.
                         
-                            Von Detlef Esslinger",23022022,Sueddeutsche
-Demo: 600 Menschen vor russischer Botschaft in Berlin,22022022_17:51,https://www.sueddeutsche.de/politik/konflikte-berlin-demo-600-menschen-vor-russischer-botschaft-in-berlin-dpa.urn-newsml-dpa-com-20090101-220222-99-243028,Konflikte - Berlin,dpa,,,23022022,Sueddeutsche
+                            Von Detlef Esslinger",23022022,Sueddeutsche,meinung
+Demo: 600 Menschen vor russischer Botschaft in Berlin,22022022_17:51,https://www.sueddeutsche.de/politik/konflikte-berlin-demo-600-menschen-vor-russischer-botschaft-in-berlin-dpa.urn-newsml-dpa-com-20090101-220222-99-243028,Konflikte - Berlin,dpa,,,23022022,Sueddeutsche,politik
 Ein diplomatischer Trümmerhaufen,22022022_17:51,https://www.sueddeutsche.de/politik/ukraine-russland-deutschland-diplomatie-1.5534376,Außenpolitik,,"Von Daniel Brössler, Berlin","Jahrelang hat die deutsche Diplomatie versucht, Russland zu einer friedlichen Lösung der Ukraine-Krise zu drängen. Nun steht sie vor dem Nichts.
                         
-                            Von Daniel Brössler, Berlin",23022022,Sueddeutsche
+                            Von Daniel Brössler, Berlin",23022022,Sueddeutsche,politik
 Warum Putin die Ukraine nicht als Nation gelten lässt,22022022_17:51,https://www.sueddeutsche.de/politik/putin-rede-ukraine-historie-1.5534443,Krieg und Historie,,"Von Sonja Zekri, Berlin","In seiner Rede liefert der russische Präsident eine vermeintlich historisch legitimierte Begründung für seine Expansionspolitik. Was er sagte, welcher Lesart er folgt und was geschichtlich dahintersteckt.
                         
-                            Von Sonja Zekri, Berlin",23022022,Sueddeutsche
+                            Von Sonja Zekri, Berlin",23022022,Sueddeutsche,politik
 Zum Fortschritt verdammt,22022022_17:51,https://www.sueddeutsche.de/politik/japan-frauenrechte-medizin-1.5534265,Gleichberechtigung,,"Von Thomas Hahn, Tokio","Erstmals werden mehr Frauen Medizinerinnen - was das über die Chancengleichheit in Japan aussagt.
                         
-                            Von Thomas Hahn, Tokio",23022022,Sueddeutsche
-Das Streiflicht,22022022_17:50,https://www.sueddeutsche.de/politik/glosse-das-streiflicht-1.5534412,Glosse,,,,23022022,Sueddeutsche
+                            Von Thomas Hahn, Tokio",23022022,Sueddeutsche,politik
+Das Streiflicht,22022022_17:50,https://www.sueddeutsche.de/politik/glosse-das-streiflicht-1.5534412,Glosse,,,,23022022,Sueddeutsche,politik
 Aus Hofbrauhaus wird Brauhaus,22022022_17:47,https://www.sueddeutsche.de/muenchen/muenchen-hofbraeuhaus-hofbrauhaus-landgericht-prozess-1.5534644,Prozess um Markenname,,Von Andreas Salch,"Im Markenstreit des Staatlichen Hofbräuhauses München gegen ein sächsisches Unternehmen mit ähnlichem Namen bahnt sich ein Vergleich an. Die Münchner haben offenbar die besseren Karten.
                         
-                            Von Andreas Salch",23022022,Sueddeutsche
-Rezept für Soljanka mit dem Über-Nacht-Trick,22022022_17:46,https://www.sueddeutsche.de/wirtschaft/ernaehrung-rezept-fuer-soljanka-mit-dem-ueber-nacht-trick-dpa.urn-newsml-dpa-com-20090101-220215-99-136361,Ernährung,dpa,,,23022022,Sueddeutsche
-Sachsen plant Lockerungen für Betrieb in Schulen und Kitas,22022022_17:45,https://www.sueddeutsche.de/politik/regierung-dresden-sachsen-plant-lockerungen-fuer-betrieb-in-schulen-und-kitas-dpa.urn-newsml-dpa-com-20090101-220222-99-242983,Regierung - Dresden,dpa,,,23022022,Sueddeutsche
-Immobilienübertragung gegen Leibrente ist eine Anschaffung,22022022_17:45,https://www.sueddeutsche.de/wirtschaft/finanzen-immobilienuebertragung-gegen-leibrente-ist-eine-anschaffung-dpa.urn-newsml-dpa-com-20090101-220215-99-140028,Finanzen,dpa,,,23022022,Sueddeutsche
-Dax bremst freien Fall etwas ab,22022022_17:43,https://www.sueddeutsche.de/wirtschaft/boersen-dax-bremst-freien-fall-etwas-ab-dpa.urn-newsml-dpa-com-20090101-220222-99-234718,Börsen,dpa,,,23022022,Sueddeutsche
-Landesgartenschau findet 2027 in Wittenberg statt,22022022_17:43,https://www.sueddeutsche.de/politik/kabinett-magdeburg-landesgartenschau-findet-2027-in-wittenberg-statt-dpa.urn-newsml-dpa-com-20090101-220222-99-240221,Kabinett - Magdeburg,dpa,,,23022022,Sueddeutsche
-Verzögerung beim Stadionbau bringt KSC nicht in Bedrängnis,22022022_17:43,https://www.sueddeutsche.de/sport/fussball-karlsruhe-verzoegerung-beim-stadionbau-bringt-ksc-nicht-in-bedraengnis-dpa.urn-newsml-dpa-com-20090101-220222-99-242927,Fußball - Karlsruhe,dpa,,,23022022,Sueddeutsche
-Mann soll Feuer vor Tür der Ex gelegt haben: Mordverdacht,22022022_17:42,https://www.sueddeutsche.de/panorama/braende-moenchengladbach-mann-soll-feuer-vor-tuer-der-ex-gelegt-haben-mordverdacht-dpa.urn-newsml-dpa-com-20090101-220221-99-229659,Brände - Mönchengladbach,dpa,,,23022022,Sueddeutsche
-"Hofbräuhaus vs. Hofbrauhaus: Wie wichtig ist das ""äu""?",22022022_17:41,https://www.sueddeutsche.de/wirtschaft/gastgewerbe-hofbraeuhaus-vs-hofbrauhaus-wie-wichtig-ist-das-aeu-dpa.urn-newsml-dpa-com-20090101-220222-99-233617,Gastgewerbe,dpa,,,23022022,Sueddeutsche
-Corona-Inzidenz im Südwesten sinkt,22022022_17:40,https://www.sueddeutsche.de/gesundheit/gesundheit-stuttgart-corona-inzidenz-im-suedwesten-sinkt-dpa.urn-newsml-dpa-com-20090101-220222-99-242926,Gesundheit - Stuttgart,dpa,,,23022022,Sueddeutsche
-Zwei Verletzte und hoher Schaden nach Unfall an Stauende,22022022_17:38,https://www.sueddeutsche.de/panorama/unfaelle-weinsberg-zwei-verletzte-und-hoher-schaden-nach-unfall-an-stauende-dpa.urn-newsml-dpa-com-20090101-220222-99-242928,Unfälle - Weinsberg,dpa,,,23022022,Sueddeutsche
+                            Von Andreas Salch",23022022,Sueddeutsche,muenchen
+Rezept für Soljanka mit dem Über-Nacht-Trick,22022022_17:46,https://www.sueddeutsche.de/wirtschaft/ernaehrung-rezept-fuer-soljanka-mit-dem-ueber-nacht-trick-dpa.urn-newsml-dpa-com-20090101-220215-99-136361,Ernährung,dpa,,,23022022,Sueddeutsche,wirtschaft
+Sachsen plant Lockerungen für Betrieb in Schulen und Kitas,22022022_17:45,https://www.sueddeutsche.de/politik/regierung-dresden-sachsen-plant-lockerungen-fuer-betrieb-in-schulen-und-kitas-dpa.urn-newsml-dpa-com-20090101-220222-99-242983,Regierung - Dresden,dpa,,,23022022,Sueddeutsche,politik
+Immobilienübertragung gegen Leibrente ist eine Anschaffung,22022022_17:45,https://www.sueddeutsche.de/wirtschaft/finanzen-immobilienuebertragung-gegen-leibrente-ist-eine-anschaffung-dpa.urn-newsml-dpa-com-20090101-220215-99-140028,Finanzen,dpa,,,23022022,Sueddeutsche,wirtschaft
+Dax bremst freien Fall etwas ab,22022022_17:43,https://www.sueddeutsche.de/wirtschaft/boersen-dax-bremst-freien-fall-etwas-ab-dpa.urn-newsml-dpa-com-20090101-220222-99-234718,Börsen,dpa,,,23022022,Sueddeutsche,wirtschaft
+Landesgartenschau findet 2027 in Wittenberg statt,22022022_17:43,https://www.sueddeutsche.de/politik/kabinett-magdeburg-landesgartenschau-findet-2027-in-wittenberg-statt-dpa.urn-newsml-dpa-com-20090101-220222-99-240221,Kabinett - Magdeburg,dpa,,,23022022,Sueddeutsche,politik
+Verzögerung beim Stadionbau bringt KSC nicht in Bedrängnis,22022022_17:43,https://www.sueddeutsche.de/sport/fussball-karlsruhe-verzoegerung-beim-stadionbau-bringt-ksc-nicht-in-bedraengnis-dpa.urn-newsml-dpa-com-20090101-220222-99-242927,Fußball - Karlsruhe,dpa,,,23022022,Sueddeutsche,sport
+Mann soll Feuer vor Tür der Ex gelegt haben: Mordverdacht,22022022_17:42,https://www.sueddeutsche.de/panorama/braende-moenchengladbach-mann-soll-feuer-vor-tuer-der-ex-gelegt-haben-mordverdacht-dpa.urn-newsml-dpa-com-20090101-220221-99-229659,Brände - Mönchengladbach,dpa,,,23022022,Sueddeutsche,panorama
+"Hofbräuhaus vs. Hofbrauhaus: Wie wichtig ist das ""äu""?",22022022_17:41,https://www.sueddeutsche.de/wirtschaft/gastgewerbe-hofbraeuhaus-vs-hofbrauhaus-wie-wichtig-ist-das-aeu-dpa.urn-newsml-dpa-com-20090101-220222-99-233617,Gastgewerbe,dpa,,,23022022,Sueddeutsche,wirtschaft
+Corona-Inzidenz im Südwesten sinkt,22022022_17:40,https://www.sueddeutsche.de/gesundheit/gesundheit-stuttgart-corona-inzidenz-im-suedwesten-sinkt-dpa.urn-newsml-dpa-com-20090101-220222-99-242926,Gesundheit - Stuttgart,dpa,,,23022022,Sueddeutsche,gesundheit
+Zwei Verletzte und hoher Schaden nach Unfall an Stauende,22022022_17:38,https://www.sueddeutsche.de/panorama/unfaelle-weinsberg-zwei-verletzte-und-hoher-schaden-nach-unfall-an-stauende-dpa.urn-newsml-dpa-com-20090101-220222-99-242928,Unfälle - Weinsberg,dpa,,,23022022,Sueddeutsche,panorama
 Grünen-Chef Nouripour fordert eine klare Antwort an Russland,22022022_17:38,https://www.sueddeutsche.de/politik/gruenen-chef-nouripour-fordert-eine-klare-antwort-an-russland-1.5534655,,,,"Video
                     
                     
-                        Der russischen Seite müsse klargemacht werden, dass es weitere Schritte geben werde bei zunehmenden Aggressionsstufen, sagte Grünen-Chef Omid Nouripour am Dienstag in Berlin.",23022022,Sueddeutsche
-Fußgängerin stirbt nach Unfall mit Auto,22022022_17:38,https://www.sueddeutsche.de/panorama/unfaelle-schorndorf-fussgaengerin-stirbt-nach-unfall-mit-auto-dpa.urn-newsml-dpa-com-20090101-220222-99-242929,Unfälle - Schorndorf,dpa,,,23022022,Sueddeutsche
-"KZ-Überlebende: ""Die Angst kann man nicht vergessen""",22022022_17:37,https://www.sueddeutsche.de/panorama/prozesse-kz-ueberlebende-die-angst-kann-man-nicht-vergessen-dpa.urn-newsml-dpa-com-20090101-220222-99-240505,Prozesse,dpa,,,23022022,Sueddeutsche
-Am 22.02.2022 die 222.222. Impfung in Rostock verabreicht,22022022_17:37,https://www.sueddeutsche.de/gesundheit/gesundheit-rostock-am-22022022-die-222222-impfung-in-rostock-verabreicht-dpa.urn-newsml-dpa-com-20090101-220222-99-242482,Gesundheit - Rostock,dpa,,,23022022,Sueddeutsche
-Geldautomat aufgehebelt: Täter mussten ohne Bargeld abziehen,22022022_17:37,https://www.sueddeutsche.de/panorama/kriminalitaet-koblenz-geldautomat-aufgehebelt-taeter-mussten-ohne-bargeld-abziehen-dpa.urn-newsml-dpa-com-20090101-220222-99-242915,Kriminalität - Koblenz,dpa,,,23022022,Sueddeutsche
-Haseloff kritisiert Russland: Klarer Bruch des Völkerrechts,22022022_17:36,https://www.sueddeutsche.de/politik/konflikte-magdeburg-haseloff-kritisiert-russland-klarer-bruch-des-voelkerrechts-dpa.urn-newsml-dpa-com-20090101-220222-99-241093,Konflikte - Magdeburg,dpa,,,23022022,Sueddeutsche
-Strukturwandel: Landesregierung stellt Pläne vor,22022022_17:34,https://www.sueddeutsche.de/wirtschaft/energie-magdeburg-strukturwandel-landesregierung-stellt-plaene-vor-dpa.urn-newsml-dpa-com-20090101-220222-99-240220,Energie - Magdeburg,dpa,,,23022022,Sueddeutsche
+                        Der russischen Seite müsse klargemacht werden, dass es weitere Schritte geben werde bei zunehmenden Aggressionsstufen, sagte Grünen-Chef Omid Nouripour am Dienstag in Berlin.",23022022,Sueddeutsche,politik
+Fußgängerin stirbt nach Unfall mit Auto,22022022_17:38,https://www.sueddeutsche.de/panorama/unfaelle-schorndorf-fussgaengerin-stirbt-nach-unfall-mit-auto-dpa.urn-newsml-dpa-com-20090101-220222-99-242929,Unfälle - Schorndorf,dpa,,,23022022,Sueddeutsche,panorama
+"KZ-Überlebende: ""Die Angst kann man nicht vergessen""",22022022_17:37,https://www.sueddeutsche.de/panorama/prozesse-kz-ueberlebende-die-angst-kann-man-nicht-vergessen-dpa.urn-newsml-dpa-com-20090101-220222-99-240505,Prozesse,dpa,,,23022022,Sueddeutsche,panorama
+Am 22.02.2022 die 222.222. Impfung in Rostock verabreicht,22022022_17:37,https://www.sueddeutsche.de/gesundheit/gesundheit-rostock-am-22022022-die-222222-impfung-in-rostock-verabreicht-dpa.urn-newsml-dpa-com-20090101-220222-99-242482,Gesundheit - Rostock,dpa,,,23022022,Sueddeutsche,gesundheit
+Geldautomat aufgehebelt: Täter mussten ohne Bargeld abziehen,22022022_17:37,https://www.sueddeutsche.de/panorama/kriminalitaet-koblenz-geldautomat-aufgehebelt-taeter-mussten-ohne-bargeld-abziehen-dpa.urn-newsml-dpa-com-20090101-220222-99-242915,Kriminalität - Koblenz,dpa,,,23022022,Sueddeutsche,panorama
+Haseloff kritisiert Russland: Klarer Bruch des Völkerrechts,22022022_17:36,https://www.sueddeutsche.de/politik/konflikte-magdeburg-haseloff-kritisiert-russland-klarer-bruch-des-voelkerrechts-dpa.urn-newsml-dpa-com-20090101-220222-99-241093,Konflikte - Magdeburg,dpa,,,23022022,Sueddeutsche,politik
+Strukturwandel: Landesregierung stellt Pläne vor,22022022_17:34,https://www.sueddeutsche.de/wirtschaft/energie-magdeburg-strukturwandel-landesregierung-stellt-plaene-vor-dpa.urn-newsml-dpa-com-20090101-220222-99-240220,Energie - Magdeburg,dpa,,,23022022,Sueddeutsche,wirtschaft
 Russlands Föderationsrat für Militäreinsatz in Ostukraine,22022022_17:32,https://www.sueddeutsche.de/panorama/russlands-foederationsrat-fuer-militaereinsatz-in-ostukraine-1.5534650,,,,"Video
                     
                     
-                        Das russische Parlament hat für einen Einsatz russischer Streitkräfte außerhalb des Gebietes der Russischen Föderation gestimmt. Damit nehmen die Spannungen in der Ostukraine weiter zu.",23022022,Sueddeutsche
+                        Das russische Parlament hat für einen Einsatz russischer Streitkräfte außerhalb des Gebietes der Russischen Föderation gestimmt. Damit nehmen die Spannungen in der Ostukraine weiter zu.",23022022,Sueddeutsche,panorama
 Christian Lindner und das Nein,22022022_17:29,https://www.sueddeutsche.de/meinung/bundeshaushalt-christian-lindner-inflation-1.5534339,Bundeshaushalt,,Kommentar von Henrike Roßbach,"Meinung
                     
                     
                         Der Finanzminister wird nun von allen Seiten bedrängt, Geld herzugeben. Die Ampelkoalition aber muss viel klarere Prioritäten setzen als die alte Regierung.
                         
-                            Kommentar von Henrike Roßbach",23022022,Sueddeutsche
+                            Kommentar von Henrike Roßbach",23022022,Sueddeutsche,meinung

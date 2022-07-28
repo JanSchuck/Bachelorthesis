@@ -1,88 +1,88 @@
-Titel,Date_Info,URL,Overline,Breadcrumb,author,detailed_informations,Zugriff_Datum,News_page
-Bernal verlässt Krankenhaus nach Sturz,07022022_19:58,https://www.sueddeutsche.de/sport/radsport-bernal-verlaesst-krankenhaus-nach-sturz-dpa.urn-newsml-dpa-com-20090101-220207-99-09309,Radsport,dpa,,,08022022,Sueddeutsche
-Medien: Düsseldorf trennt sich von Preußer,07022022_19:52,https://www.sueddeutsche.de/sport/fussball-duesseldorf-medien-duesseldorf-trennt-sich-von-preusser-dpa.urn-newsml-dpa-com-20090101-220207-99-19662,Fußball - Düsseldorf,dpa,,,08022022,Sueddeutsche
-Italien will sich um die Fußball-EM 2032 bewerben,07022022_19:52,https://www.sueddeutsche.de/sport/fussball-italien-will-sich-um-die-fussball-em-2032-bewerben-dpa.urn-newsml-dpa-com-20090101-220207-99-19111,Fußball,dpa,,,08022022,Sueddeutsche
-Bilder des Tages,07022022_19:45,https://www.sueddeutsche.de/kultur/fotografie-bilder-des-tages-dpa.urn-newsml-dpa-com-20090101-220206-99-04730,Fotografie,dpa,,,08022022,Sueddeutsche
-Proteste gegen Corona-Maßnahmen und Gegendemonstrationen,07022022_19:43,https://www.sueddeutsche.de/gesundheit/gesundheit-potsdam-proteste-gegen-corona-massnahmen-und-gegendemonstrationen-dpa.urn-newsml-dpa-com-20090101-220207-99-18910,Gesundheit - Potsdam,dpa,,,08022022,Sueddeutsche
-Streit über Wasser für Tesla: Gerichtsverhandlung vertagt,07022022_19:42,https://www.sueddeutsche.de/wirtschaft/auto-frankfurt-oder-streit-ueber-wasser-fuer-tesla-gerichtsverhandlung-vertagt-dpa.urn-newsml-dpa-com-20090101-220207-99-14985,Auto - Frankfurt (Oder),dpa,,,08022022,Sueddeutsche
+Titel,Date_Info,URL,Overline,Breadcrumb,author,detailed_informations,Zugriff_Datum,News_page,Kategorie
+Bernal verlässt Krankenhaus nach Sturz,07022022_19:58,https://www.sueddeutsche.de/sport/radsport-bernal-verlaesst-krankenhaus-nach-sturz-dpa.urn-newsml-dpa-com-20090101-220207-99-09309,Radsport,dpa,,,08022022,Sueddeutsche,sport
+Medien: Düsseldorf trennt sich von Preußer,07022022_19:52,https://www.sueddeutsche.de/sport/fussball-duesseldorf-medien-duesseldorf-trennt-sich-von-preusser-dpa.urn-newsml-dpa-com-20090101-220207-99-19662,Fußball - Düsseldorf,dpa,,,08022022,Sueddeutsche,sport
+Italien will sich um die Fußball-EM 2032 bewerben,07022022_19:52,https://www.sueddeutsche.de/sport/fussball-italien-will-sich-um-die-fussball-em-2032-bewerben-dpa.urn-newsml-dpa-com-20090101-220207-99-19111,Fußball,dpa,,,08022022,Sueddeutsche,sport
+Bilder des Tages,07022022_19:45,https://www.sueddeutsche.de/kultur/fotografie-bilder-des-tages-dpa.urn-newsml-dpa-com-20090101-220206-99-04730,Fotografie,dpa,,,08022022,Sueddeutsche,kultur
+Proteste gegen Corona-Maßnahmen und Gegendemonstrationen,07022022_19:43,https://www.sueddeutsche.de/gesundheit/gesundheit-potsdam-proteste-gegen-corona-massnahmen-und-gegendemonstrationen-dpa.urn-newsml-dpa-com-20090101-220207-99-18910,Gesundheit - Potsdam,dpa,,,08022022,Sueddeutsche,gesundheit
+Streit über Wasser für Tesla: Gerichtsverhandlung vertagt,07022022_19:42,https://www.sueddeutsche.de/wirtschaft/auto-frankfurt-oder-streit-ueber-wasser-fuer-tesla-gerichtsverhandlung-vertagt-dpa.urn-newsml-dpa-com-20090101-220207-99-14985,Auto - Frankfurt (Oder),dpa,,,08022022,Sueddeutsche,wirtschaft
 "Meine Sprache, deine Sprache",07022022_19:37,https://www.sueddeutsche.de/politik/polen-sprachunterricht-minderheit-1.5523913,Polen,,Von Viktoria Großmann,"Polens Parlament kürzt die Mittel für den Sprachunterricht der deutschen Minderheit. Warum?
                         
-                            Von Viktoria Großmann",08022022,Sueddeutsche
+                            Von Viktoria Großmann",08022022,Sueddeutsche,politik
 "Eine Annäherung, kein Durchbruch",07022022_19:35,https://www.sueddeutsche.de/politik/polen-eu-duda-rechtsstaat-1.5523778,EU und Polen,,"Von Josef Kelnberger und Matthias Kolb, Brüssel","Polens Präsident Andrzej Duda sendet mit seinem Besuch in Brüssel widersprüchliche Signale. Die EU gibt sich reserviert.
                         
-                            Von Josef Kelnberger und Matthias Kolb, Brüssel",08022022,Sueddeutsche
+                            Von Josef Kelnberger und Matthias Kolb, Brüssel",08022022,Sueddeutsche,politik
 Wie die Industrie mit der neuen Frauenquote ringt,07022022_19:34,https://www.sueddeutsche.de/wirtschaft/deutz-ag-koeln-mitarbeiter-1.5523929,Diversity,,"Von Benedikt Müller-Arnold, Köln","Seitdem börsennotierte Konzerne Vorstandsfrauen berufen müssen, streitet der Motorenbauer Deutz über das Wann und Wie. Das Image leide, der Frust steigt - warnt ein Mann aus der Führungsetage.
                         
-                            Von Benedikt Müller-Arnold, Köln",08022022,Sueddeutsche
+                            Von Benedikt Müller-Arnold, Köln",08022022,Sueddeutsche,wirtschaft
 Deutschland entsendet zusätzliche Soldaten nach Litauen,07022022_19:16,https://www.sueddeutsche.de/panorama/deutschland-entsendet-zusaetzliche-soldaten-nach-litauen-1.5524084,,,,"Video
                     
                     
-                        Wie reagiert Deutschland auf die Herausforderung durch Russland im Osten Europas? Berlin verstärkt die Ostflanke der Nato an einer strategisch wichtigen Stelle.",08022022,Sueddeutsche
-Sachsen-Anhalt: Neues Gefängnispersonal eingehender prüfen,07022022_19:00,https://www.sueddeutsche.de/panorama/justiz-magdeburg-sachsen-anhalt-neues-gefaengnispersonal-eingehender-pruefen-dpa.urn-newsml-dpa-com-20090101-220207-99-19283,Justiz - Magdeburg,dpa,,,08022022,Sueddeutsche
+                        Wie reagiert Deutschland auf die Herausforderung durch Russland im Osten Europas? Berlin verstärkt die Ostflanke der Nato an einer strategisch wichtigen Stelle.",08022022,Sueddeutsche,panorama
+Sachsen-Anhalt: Neues Gefängnispersonal eingehender prüfen,07022022_19:00,https://www.sueddeutsche.de/panorama/justiz-magdeburg-sachsen-anhalt-neues-gefaengnispersonal-eingehender-pruefen-dpa.urn-newsml-dpa-com-20090101-220207-99-19283,Justiz - Magdeburg,dpa,,,08022022,Sueddeutsche,panorama
 Putin und Macron geben sich zurückhaltend bei Beratungen zur Ukraine-Krise,07022022_18:58,https://www.sueddeutsche.de/politik/putin-und-macron-geben-sich-zurueckhaltend-bei-beratungen-zur-ukraine-krise-1.5524082,,,,"Video
                     
                     
-                        Russland hat an der Ost-Grenze der Ukraine mehr als 100.000 Soldaten zusammengezogen.",08022022,Sueddeutsche
-RB Leipzig darf 15.000 Fans zum Spiel gegen Köln lassen,07022022_18:52,https://www.sueddeutsche.de/sport/fussball-leipzig-rb-leipzig-darf-15000-fans-zum-spiel-gegen-koeln-lassen-dpa.urn-newsml-dpa-com-20090101-220207-99-19195,Fußball - Leipzig,dpa,,,08022022,Sueddeutsche
-Bernreiter begrüßt Stopp von einrichtungsbezogener Impflicht,07022022_18:49,https://www.sueddeutsche.de/bayern/kommunen-muenchen-bernreiter-begruesst-stopp-von-einrichtungsbezogener-impflicht-dpa.urn-newsml-dpa-com-20090101-220207-99-19162,Kommunen - München,dpa,,,08022022,Sueddeutsche
-RB Leipzig gegen Köln: 15 000 Fans im Stadion zugelassen,07022022_18:47,https://www.sueddeutsche.de/sport/fussball-rbleipzig-gegen-koeln-15-000-fans-im-stadion-zugelassen-dpa.urn-newsml-dpa-com-20090101-220207-99-19167,Fußball,dpa,,,08022022,Sueddeutsche
+                        Russland hat an der Ost-Grenze der Ukraine mehr als 100.000 Soldaten zusammengezogen.",08022022,Sueddeutsche,politik
+RB Leipzig darf 15.000 Fans zum Spiel gegen Köln lassen,07022022_18:52,https://www.sueddeutsche.de/sport/fussball-leipzig-rb-leipzig-darf-15000-fans-zum-spiel-gegen-koeln-lassen-dpa.urn-newsml-dpa-com-20090101-220207-99-19195,Fußball - Leipzig,dpa,,,08022022,Sueddeutsche,sport
+Bernreiter begrüßt Stopp von einrichtungsbezogener Impflicht,07022022_18:49,https://www.sueddeutsche.de/bayern/kommunen-muenchen-bernreiter-begruesst-stopp-von-einrichtungsbezogener-impflicht-dpa.urn-newsml-dpa-com-20090101-220207-99-19162,Kommunen - München,dpa,,,08022022,Sueddeutsche,bayern
+RB Leipzig gegen Köln: 15 000 Fans im Stadion zugelassen,07022022_18:47,https://www.sueddeutsche.de/sport/fussball-rbleipzig-gegen-koeln-15-000-fans-im-stadion-zugelassen-dpa.urn-newsml-dpa-com-20090101-220207-99-19167,Fußball,dpa,,,08022022,Sueddeutsche,sport
 Ein Stück Moosburger Stadtgeschichte wiederbeleben,07022022_18:44,https://www.sueddeutsche.de/muenchen/freising/denkmalsanierung-moosburg-freising-muenchen-bayern-1.5523892,"Das 1,6-Millionen-Projekt",,"Von Alexander Kappen, Moosburg","Johannes Becher will  noch im Frühjahr mit der Sanierung des alten Hudler-Hauses beginnen. 2024 will er dort einziehen. Der Zeitplan ist sportlich, das finanzielle Risiko hoch.
                         
-                            Von Alexander Kappen, Moosburg",08022022,Sueddeutsche
-Pandemie: Über 2000 Corona-Tote in Schleswig-Holstein,07022022_18:43,https://www.sueddeutsche.de/gesundheit/gesundheit-kiel-pandemie-ueber-2000-corona-tote-in-schleswig-holstein-dpa.urn-newsml-dpa-com-20090101-220207-99-19170,Gesundheit - Kiel,dpa,,,08022022,Sueddeutsche
-Am Geldautomaten gescheitert: Mann nach Verfolgung gestellt,07022022_18:35,https://www.sueddeutsche.de/panorama/kriminalitaet-berlin-am-geldautomaten-gescheitert-mann-nach-verfolgung-gestellt-dpa.urn-newsml-dpa-com-20090101-220207-99-19083,Kriminalität - Berlin,dpa,,,08022022,Sueddeutsche
-Ehemalige Top-Biathletin Neuner freut sich für Herrmann,07022022_18:32,https://www.sueddeutsche.de/sport/biathlon-ehemalige-top-biathletin-neuner-freut-sich-fuer-herrmann-dpa.urn-newsml-dpa-com-20090101-220207-99-19031,Biathlon,dpa,,,08022022,Sueddeutsche
-Deutschland entsendet zusätzlich 350 Soldaten nach Litauen,07022022_18:28,https://www.sueddeutsche.de/politik/konflikte-munster-deutschland-entsendet-zusaetzlich-350-soldaten-nach-litauen-dpa.urn-newsml-dpa-com-20090101-220206-99-02757,Konflikte - Munster,dpa,,,08022022,Sueddeutsche
-Lübeck: Menschenkette gegen Impfgegner und Corona-Leugner,07022022_18:24,https://www.sueddeutsche.de/politik/demonstrationen-luebeck-luebeck-menschenkette-gegen-impfgegner-und-corona-leugner-dpa.urn-newsml-dpa-com-20090101-220207-99-19004,Demonstrationen - Lübeck,dpa,,,08022022,Sueddeutsche
-Deutsche Welle leitet fünf Trennungen ein,07022022_18:20,https://www.sueddeutsche.de/wirtschaft/medien-deutsche-welle-leitet-fuenf-trennungen-ein-dpa.urn-newsml-dpa-com-20090101-220207-99-18093,Medien,dpa,,,08022022,Sueddeutsche
-Merz: Union will über neue Formen der Kernenergie sprechen,07022022_18:16,https://www.sueddeutsche.de/politik/parteien-saarbruecken-merz-union-will-ueber-neue-formen-der-kernenergie-sprechen-dpa.urn-newsml-dpa-com-20090101-220207-99-18969,Parteien - Saarbrücken,dpa,,,08022022,Sueddeutsche
-Drei Verletzte bei missglücktem Abbiegemanöver,07022022_18:14,https://www.sueddeutsche.de/panorama/unfaelle-renningen-drei-verletzte-bei-missgluecktem-abbiegemanoever-dpa.urn-newsml-dpa-com-20090101-220207-99-18957,Unfälle - Renningen,dpa,,,08022022,Sueddeutsche
-Bauministerin: Andere Förderung der Sanierung von Häusern,07022022_18:13,https://www.sueddeutsche.de/wirtschaft/energie-berlin-bauministerin-andere-foerderung-der-sanierung-von-haeusern-dpa.urn-newsml-dpa-com-20090101-220207-99-18936,Energie - Berlin,dpa,,,08022022,Sueddeutsche
-Pussy-Riot-Aktivistin Aljochina in Moskau festgenommen,07022022_18:09,https://www.sueddeutsche.de/politik/demonstrationen-pussy-riot-aktivistin-aljochina-in-moskau-festgenommen-dpa.urn-newsml-dpa-com-20090101-220207-99-17801,Demonstrationen,dpa,,,08022022,Sueddeutsche
-"Süle will mit Dortmund ""noch weitere Titel gewinnen""",07022022_18:08,https://www.sueddeutsche.de/sport/fussball-dortmund-suele-will-mit-dortmund-noch-weitere-titel-gewinnen-dpa.urn-newsml-dpa-com-20090101-220207-99-18917,Fußball - Dortmund,dpa,,,08022022,Sueddeutsche
-Senator: Noch schlimmer als Enteignung ist Unsicherheit,07022022_18:02,https://www.sueddeutsche.de/politik/senat-berlin-senator-noch-schlimmer-als-enteignung-ist-unsicherheit-dpa.urn-newsml-dpa-com-20090101-220207-99-18872,Senat - Berlin,dpa,,,08022022,Sueddeutsche
+                            Von Alexander Kappen, Moosburg",08022022,Sueddeutsche,muenchen
+Pandemie: Über 2000 Corona-Tote in Schleswig-Holstein,07022022_18:43,https://www.sueddeutsche.de/gesundheit/gesundheit-kiel-pandemie-ueber-2000-corona-tote-in-schleswig-holstein-dpa.urn-newsml-dpa-com-20090101-220207-99-19170,Gesundheit - Kiel,dpa,,,08022022,Sueddeutsche,gesundheit
+Am Geldautomaten gescheitert: Mann nach Verfolgung gestellt,07022022_18:35,https://www.sueddeutsche.de/panorama/kriminalitaet-berlin-am-geldautomaten-gescheitert-mann-nach-verfolgung-gestellt-dpa.urn-newsml-dpa-com-20090101-220207-99-19083,Kriminalität - Berlin,dpa,,,08022022,Sueddeutsche,panorama
+Ehemalige Top-Biathletin Neuner freut sich für Herrmann,07022022_18:32,https://www.sueddeutsche.de/sport/biathlon-ehemalige-top-biathletin-neuner-freut-sich-fuer-herrmann-dpa.urn-newsml-dpa-com-20090101-220207-99-19031,Biathlon,dpa,,,08022022,Sueddeutsche,sport
+Deutschland entsendet zusätzlich 350 Soldaten nach Litauen,07022022_18:28,https://www.sueddeutsche.de/politik/konflikte-munster-deutschland-entsendet-zusaetzlich-350-soldaten-nach-litauen-dpa.urn-newsml-dpa-com-20090101-220206-99-02757,Konflikte - Munster,dpa,,,08022022,Sueddeutsche,politik
+Lübeck: Menschenkette gegen Impfgegner und Corona-Leugner,07022022_18:24,https://www.sueddeutsche.de/politik/demonstrationen-luebeck-luebeck-menschenkette-gegen-impfgegner-und-corona-leugner-dpa.urn-newsml-dpa-com-20090101-220207-99-19004,Demonstrationen - Lübeck,dpa,,,08022022,Sueddeutsche,politik
+Deutsche Welle leitet fünf Trennungen ein,07022022_18:20,https://www.sueddeutsche.de/wirtschaft/medien-deutsche-welle-leitet-fuenf-trennungen-ein-dpa.urn-newsml-dpa-com-20090101-220207-99-18093,Medien,dpa,,,08022022,Sueddeutsche,wirtschaft
+Merz: Union will über neue Formen der Kernenergie sprechen,07022022_18:16,https://www.sueddeutsche.de/politik/parteien-saarbruecken-merz-union-will-ueber-neue-formen-der-kernenergie-sprechen-dpa.urn-newsml-dpa-com-20090101-220207-99-18969,Parteien - Saarbrücken,dpa,,,08022022,Sueddeutsche,politik
+Drei Verletzte bei missglücktem Abbiegemanöver,07022022_18:14,https://www.sueddeutsche.de/panorama/unfaelle-renningen-drei-verletzte-bei-missgluecktem-abbiegemanoever-dpa.urn-newsml-dpa-com-20090101-220207-99-18957,Unfälle - Renningen,dpa,,,08022022,Sueddeutsche,panorama
+Bauministerin: Andere Förderung der Sanierung von Häusern,07022022_18:13,https://www.sueddeutsche.de/wirtschaft/energie-berlin-bauministerin-andere-foerderung-der-sanierung-von-haeusern-dpa.urn-newsml-dpa-com-20090101-220207-99-18936,Energie - Berlin,dpa,,,08022022,Sueddeutsche,wirtschaft
+Pussy-Riot-Aktivistin Aljochina in Moskau festgenommen,07022022_18:09,https://www.sueddeutsche.de/politik/demonstrationen-pussy-riot-aktivistin-aljochina-in-moskau-festgenommen-dpa.urn-newsml-dpa-com-20090101-220207-99-17801,Demonstrationen,dpa,,,08022022,Sueddeutsche,politik
+"Süle will mit Dortmund ""noch weitere Titel gewinnen""",07022022_18:08,https://www.sueddeutsche.de/sport/fussball-dortmund-suele-will-mit-dortmund-noch-weitere-titel-gewinnen-dpa.urn-newsml-dpa-com-20090101-220207-99-18917,Fußball - Dortmund,dpa,,,08022022,Sueddeutsche,sport
+Senator: Noch schlimmer als Enteignung ist Unsicherheit,07022022_18:02,https://www.sueddeutsche.de/politik/senat-berlin-senator-noch-schlimmer-als-enteignung-ist-unsicherheit-dpa.urn-newsml-dpa-com-20090101-220207-99-18872,Senat - Berlin,dpa,,,08022022,Sueddeutsche,politik
 Corona-Impfungen in Apotheken möglich,07022022_18:00,https://www.sueddeutsche.de/panorama/corona-impfungen-in-apotheken-moeglich-1.5524079,,,,"Video
                     
                     
-                        Nun wird auch in einigen Apotheken gegen Corona geimpft. Das ist Teil der Strategie, um möglichst viele Menschen gegen die Krankheit zu schützen.",08022022,Sueddeutsche
-Wissing: Hybridfahrzeuge nicht schlechtreden,07022022_17:58,https://www.sueddeutsche.de/wirtschaft/auto-wissing-hybridfahrzeuge-nicht-schlechtreden-dpa.urn-newsml-dpa-com-20090101-220207-99-18033,Auto,dpa,,,08022022,Sueddeutsche
-Klimaschutzverträge können für CO2-Minderung sorgen,07022022_17:58,https://www.sueddeutsche.de/politik/wirtschaftspolitik-klimaschutzvertraege-koennen-fuer-co2-minderung-sorgen-dpa.urn-newsml-dpa-com-20090101-220207-99-17621,Wirtschaftspolitik,dpa,,,08022022,Sueddeutsche
-Offiziell: Süle wechselt vom FC Bayern zu Borussia Dortmund,07022022_17:58,https://www.sueddeutsche.de/bayern/fussball-dortmund-offiziell-suele-wechselt-vom-fc-bayern-zu-borussia-dortmund-dpa.urn-newsml-dpa-com-20090101-220207-99-16233,Fußball - Dortmund,dpa,,,08022022,Sueddeutsche
-Mindestens 20 Millionen für Sanierung der Albtalstraße,07022022_17:53,https://www.sueddeutsche.de/wirtschaft/verkehr-mindestens-20-millionen-fuer-sanierung-der-albtalstrasse-dpa.urn-newsml-dpa-com-20090101-220207-99-18820,Verkehr,dpa,,,08022022,Sueddeutsche
-Oscar-Nominierungen werden bekanntgegeben,07022022_17:52,https://www.sueddeutsche.de/kultur/film-oscar-nominierungen-werden-bekanntgegeben-dpa.urn-newsml-dpa-com-20090101-220207-99-18204,Film,dpa,,,08022022,Sueddeutsche
-Achtjähriger in Bad Frankenhausen angefahren: Zeugen gesucht,07022022_17:51,https://www.sueddeutsche.de/panorama/unfaelle-bad-frankenhausenkyffhaeuser-achtjaehriger-in-bad-frankenhausen-angefahren-zeugen-gesucht-dpa.urn-newsml-dpa-com-20090101-220207-99-18811,Unfälle - Bad Frankenhausen/Kyffhäuser,dpa,,,08022022,Sueddeutsche
+                        Nun wird auch in einigen Apotheken gegen Corona geimpft. Das ist Teil der Strategie, um möglichst viele Menschen gegen die Krankheit zu schützen.",08022022,Sueddeutsche,panorama
+Wissing: Hybridfahrzeuge nicht schlechtreden,07022022_17:58,https://www.sueddeutsche.de/wirtschaft/auto-wissing-hybridfahrzeuge-nicht-schlechtreden-dpa.urn-newsml-dpa-com-20090101-220207-99-18033,Auto,dpa,,,08022022,Sueddeutsche,wirtschaft
+Klimaschutzverträge können für CO2-Minderung sorgen,07022022_17:58,https://www.sueddeutsche.de/politik/wirtschaftspolitik-klimaschutzvertraege-koennen-fuer-co2-minderung-sorgen-dpa.urn-newsml-dpa-com-20090101-220207-99-17621,Wirtschaftspolitik,dpa,,,08022022,Sueddeutsche,politik
+Offiziell: Süle wechselt vom FC Bayern zu Borussia Dortmund,07022022_17:58,https://www.sueddeutsche.de/bayern/fussball-dortmund-offiziell-suele-wechselt-vom-fc-bayern-zu-borussia-dortmund-dpa.urn-newsml-dpa-com-20090101-220207-99-16233,Fußball - Dortmund,dpa,,,08022022,Sueddeutsche,bayern
+Mindestens 20 Millionen für Sanierung der Albtalstraße,07022022_17:53,https://www.sueddeutsche.de/wirtschaft/verkehr-mindestens-20-millionen-fuer-sanierung-der-albtalstrasse-dpa.urn-newsml-dpa-com-20090101-220207-99-18820,Verkehr,dpa,,,08022022,Sueddeutsche,wirtschaft
+Oscar-Nominierungen werden bekanntgegeben,07022022_17:52,https://www.sueddeutsche.de/kultur/film-oscar-nominierungen-werden-bekanntgegeben-dpa.urn-newsml-dpa-com-20090101-220207-99-18204,Film,dpa,,,08022022,Sueddeutsche,kultur
+Achtjähriger in Bad Frankenhausen angefahren: Zeugen gesucht,07022022_17:51,https://www.sueddeutsche.de/panorama/unfaelle-bad-frankenhausenkyffhaeuser-achtjaehriger-in-bad-frankenhausen-angefahren-zeugen-gesucht-dpa.urn-newsml-dpa-com-20090101-220207-99-18811,Unfälle - Bad Frankenhausen/Kyffhäuser,dpa,,,08022022,Sueddeutsche,panorama
 """Es rauscht gerade ganz schön durch""",07022022_17:51,https://www.sueddeutsche.de/bayern/bayern-corona-kitas-pcr-tests-1.5523932,Bayerns Kitas in der Pandemie,,Von Hubert Grundner und Max Weinhold,"Die Infektionszahlen in den Kitas sind hoch, geschlossen sind aber ganz nach dem Gusto der Staatsregierung nur wenige.  Und die Leiter treibt die Sorge um erkranktes Personal um. Wie soll es weitergehen?
                         
-                            Von Hubert Grundner und Max Weinhold",08022022,Sueddeutsche
-Gewerkschaften scheitern mit Verfassungsbeschwerde,07022022_17:50,https://www.sueddeutsche.de/bayern/bundesverfassungsgericht-lobbyregistergesetz-bayern-karlsruhe-gewerkschaften-beamtenbund-1.5523686,Bundesverfassungsgericht,,,Karlsruher Richter nehmen Klage gegen bayerisches Lobbyregistergesetz nicht an,08022022,Sueddeutsche
+                            Von Hubert Grundner und Max Weinhold",08022022,Sueddeutsche,bayern
+Gewerkschaften scheitern mit Verfassungsbeschwerde,07022022_17:50,https://www.sueddeutsche.de/bayern/bundesverfassungsgericht-lobbyregistergesetz-bayern-karlsruhe-gewerkschaften-beamtenbund-1.5523686,Bundesverfassungsgericht,,,Karlsruher Richter nehmen Klage gegen bayerisches Lobbyregistergesetz nicht an,08022022,Sueddeutsche,bayern
 Historische Halbe im Stadtarchiv,07022022_17:50,https://www.sueddeutsche.de/bayern/neumarkt-rathaus-bierflaschen-1.5523901,Mitten in Bayern,,"Von Matthias Köpf, Neumarkt-St. Veit","In Neumarkt-St. Veit könnte es fast vier Jahrzehnte nach dem Ende der Klosterbrauerei womöglich bald wieder ein Klosterbräu-Export geben. Das flüssige Vorbild fand sich ausgerechnet in einem Büroschrank im Rathaus.
                         
-                            Von Matthias Köpf, Neumarkt-St. Veit",08022022,Sueddeutsche
+                            Von Matthias Köpf, Neumarkt-St. Veit",08022022,Sueddeutsche,bayern
 "Helden, Rebellen, Gescheiterte",07022022_17:50,https://www.sueddeutsche.de/bayern/bayern-charakterkoepfe-menschen-geschichte-1.5523984,Bayerische Geschichte,,"Von Hans Kratzer, Regensburg","Seit jeher prägen Charakterköpfe gerade in Bayern den Lauf der Zeiten. Diese Spezies zeichnet sich durch ganz unterschiedliche Eigenschaften aus. Und nicht immer handelt es sich um strahlende Gewinner. 
                         
-                            Von Hans Kratzer, Regensburg",08022022,Sueddeutsche
+                            Von Hans Kratzer, Regensburg",08022022,Sueddeutsche,bayern
 Aufrecht und mit Würde - zumindest stundenweise,07022022_17:50,https://www.sueddeutsche.de/bayern/senioren-bayern-pflege-fachkraeftemangel-1.5523822,Leben im Alter,,"Von Clara Lipkowski, Eckental","Wer im Alter zuhause lebt, ist oft auf Pflegedienste angewiesen - doch die haben nur Zeit für den Körper, nicht für die Seele. Seniorenassistenten wie Sonja Luntz aus Franken wollen eine Lücke schließen.
                         
-                            Von Clara Lipkowski, Eckental",08022022,Sueddeutsche
-Politischer Aschermittwoch mit Zuschauern,07022022_17:50,https://www.sueddeutsche.de/bayern/passau-aschermittwoch-csu-1.5523685,Corona,,,CSU will erstmals seit 2020 wieder bis zu 200 Gäste nach Passau laden,08022022,Sueddeutsche
+                            Von Clara Lipkowski, Eckental",08022022,Sueddeutsche,bayern
+Politischer Aschermittwoch mit Zuschauern,07022022_17:50,https://www.sueddeutsche.de/bayern/passau-aschermittwoch-csu-1.5523685,Corona,,,CSU will erstmals seit 2020 wieder bis zu 200 Gäste nach Passau laden,08022022,Sueddeutsche,bayern
 Eigene Wege,07022022_17:50,https://www.sueddeutsche.de/muenchen/felix-klieser-festival-strings-lucerne-konzert-prinzregententheater-kritik-1.5523571,Kritik,,"Von Paul Schäufele, München","Der Hornist Felix Klieser und Festival Strings Lucerne im Prinzregententheater.
                         
-                            Von Paul Schäufele, München",08022022,Sueddeutsche
+                            Von Paul Schäufele, München",08022022,Sueddeutsche,muenchen
 Huba-Huba-Pieks!,07022022_17:50,https://www.sueddeutsche.de/muenchen/comic-salon-erlangen-serie-zeichnen-impfen-1.5523504,Comic-Aktion,,"Von Jürgen Moises, Erlangen","Bei einer Internet-Aktion des Comic-Salons Erlangen rufen namhafte deutsche Künstler zeichnerisch zum Impfen auf.
                         
-                            Von Jürgen Moises, Erlangen",08022022,Sueddeutsche
-Abschied aus Landsberg,07022022_17:50,https://www.sueddeutsche.de/muenchen/snowdance-festival-landsberg-standort-umzug-essen-1.5523570,Kino,,,Das Snowdance Film Festival gibt neuen Standort bekannt.,08022022,Sueddeutsche
+                            Von Jürgen Moises, Erlangen",08022022,Sueddeutsche,muenchen
+Abschied aus Landsberg,07022022_17:50,https://www.sueddeutsche.de/muenchen/snowdance-festival-landsberg-standort-umzug-essen-1.5523570,Kino,,,Das Snowdance Film Festival gibt neuen Standort bekannt.,08022022,Sueddeutsche,muenchen
 Von Aufhören keine Spur,07022022_17:50,https://www.sueddeutsche.de/muenchen/marianne-ach-lichtung-verlag-schriftstellerin-1.5523533,Literatur,,"Von Sabine Reithmaier, München","Die Schriftstellerin Marianne Ach feiert an diesem Dienstag ihren 80. Geburtstag. Noch immer schreibt sie täglich und hat jede Menge weiterer Romane im Kopf. 
                         
-                            Von Sabine Reithmaier, München",08022022,Sueddeutsche
+                            Von Sabine Reithmaier, München",08022022,Sueddeutsche,muenchen
 Kloß im Hals,07022022_17:50,https://www.sueddeutsche.de/muenchen/phil-newton-metropoltheater-james-newton-konzert-beatles-1.5523512,Kritik,,"Von Oliver Hochkeppel, München","Gelungene ""Beatles""-Hommage im Metropol-Theater
                         
-                            Von Oliver Hochkeppel, München",08022022,Sueddeutsche
+                            Von Oliver Hochkeppel, München",08022022,Sueddeutsche,muenchen
 Wort ergreifen,07022022_17:50,https://www.sueddeutsche.de/muenchen/jugendclub-hofspielhaus-premiere-theater-muenchen-1.5523530,Junges Theater,,"Von Barbara Hordych, München","Schreiben über die Zukunft: Der Jugendclub des Hofspielhauses hat mit ""Ich hab Angst um uns in meiner Utopie"" Premiere.
                         
-                            Von Barbara Hordych, München",08022022,Sueddeutsche
-Endlich gemeinsam,07022022_17:50,https://www.sueddeutsche.de/muenchen/knabenchor-festival-corona-toelzer-knabenchor-1.5521396,Kultur und Corona,,,Bayerische Knabenchöre begegnen sich im Mai erstmals wieder bei einem Festival.,08022022,Sueddeutsche
+                            Von Barbara Hordych, München",08022022,Sueddeutsche,muenchen
+Endlich gemeinsam,07022022_17:50,https://www.sueddeutsche.de/muenchen/knabenchor-festival-corona-toelzer-knabenchor-1.5521396,Kultur und Corona,,,Bayerische Knabenchöre begegnen sich im Mai erstmals wieder bei einem Festival.,08022022,Sueddeutsche,muenchen
 Blicke hinter die Oberflächen,07022022_17:50,https://www.sueddeutsche.de/muenchen/ronja-von-roenne-elias-hirschl-mia-oberlaender-wintermix-literaturhaus-muenchen-lesung-1.5523609,Literatur,,Von Fiona Rachel Fischer,"Beim ""Wintermix"" im Literaturhaus stellen die Autoren Ronja von Rönne und Elias Hirschl sowie die Comiczeichnerin Mia Oberländer neue Werke vor.
                         
-                            Von Fiona Rachel Fischer",08022022,Sueddeutsche
-Gut gelaunt,07022022_17:50,https://www.sueddeutsche.de/muenchen/i-think-you-re-awesome-unterfahrt-konzert-daenemark-jazz-1.5523556,Indie-Jazz,,,"Das hoch gehandelte dänische Sextett ""I think you're awesome"" in der Unterfahrt",08022022,Sueddeutsche
+                            Von Fiona Rachel Fischer",08022022,Sueddeutsche,muenchen
+Gut gelaunt,07022022_17:50,https://www.sueddeutsche.de/muenchen/i-think-you-re-awesome-unterfahrt-konzert-daenemark-jazz-1.5523556,Indie-Jazz,,,"Das hoch gehandelte dänische Sextett ""I think you're awesome"" in der Unterfahrt",08022022,Sueddeutsche,muenchen

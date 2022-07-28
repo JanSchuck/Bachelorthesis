@@ -1,91 +1,91 @@
-Titel,Date_Info,URL,Overline,Breadcrumb,author,detailed_informations,Zugriff_Datum,News_page
+Titel,Date_Info,URL,Overline,Breadcrumb,author,detailed_informations,Zugriff_Datum,News_page,Kategorie
 Scholz betont in Washington Entschlossenheit im Ukraine-Konflikt,07022022_21:39,https://www.sueddeutsche.de/politik/scholz-betont-in-washington-entschlossenheit-im-ukraine-konflikt-1.5524093,,,,"Video
                     
                     
-                        Nach den Gesprächen mit US-Präsident Biden zeigt sich Scholz überzeugt, dass die Botschaft auch in Russland angekommen.",08022022,Sueddeutsche
-Corona in Melsungen: Bundesliga-Spiel in Erlangen verschoben,07022022_21:39,https://www.sueddeutsche.de/sport/handball-lemgo-corona-in-melsungen-bundesliga-spiel-in-erlangen-verschoben-dpa.urn-newsml-dpa-com-20090101-220207-99-20355,Handball - Lemgo,dpa,,,08022022,Sueddeutsche
-Tausende protestieren in Bayern gegen Corona-Maßnahmen,07022022_21:38,https://www.sueddeutsche.de/bayern/demonstrationen-landshut-tausende-protestieren-in-bayern-gegen-corona-massnahmen-dpa.urn-newsml-dpa-com-20090101-220207-99-20342,Demonstrationen - Landshut,dpa,,,08022022,Sueddeutsche
-Corona-Fälle in Melsungen: HBL-Spiel in Erlangen verschoben,07022022_21:31,https://www.sueddeutsche.de/sport/handball-corona-faelle-in-melsungen-hbl-spiel-in-erlangen-verschoben-dpa.urn-newsml-dpa-com-20090101-220204-99-975185,Handball,dpa,,,08022022,Sueddeutsche
-Tausende Menschen bei Corona-Demos in Sachsen-Anhalt,07022022_21:25,https://www.sueddeutsche.de/politik/demonstrationen-magdeburg-tausende-menschen-bei-corona-demos-in-sachsen-anhalt-dpa.urn-newsml-dpa-com-20090101-220207-99-20166,Demonstrationen - Magdeburg,dpa,,,08022022,Sueddeutsche
-Trainersuche beendet,07022022_21:18,https://www.sueddeutsche.de/sport/hc-erlangen-trainersuche-beendet-1.5524091,HC Erlangen,,,,08022022,Sueddeutsche
-"Holetschek: Bayern setzt Teil-Impfpflicht ""mit Augenmaß"" um",07022022_20:42,https://www.sueddeutsche.de/bayern/gesundheit-muenchen-holetschek-bayern-setzt-teil-impfpflicht-mit-augenmass-um-dpa.urn-newsml-dpa-com-20090101-220207-99-19933,Gesundheit - München,dpa,,,08022022,Sueddeutsche
-Hamburgs Basketballer holen Amerikaner Trevon Bluiett,07022022_20:40,https://www.sueddeutsche.de/sport/basketball-hamburg-hamburgs-basketballer-holen-amerikaner-trevon-bluiett-dpa.urn-newsml-dpa-com-20090101-220207-99-19928,Basketball - Hamburg,dpa,,,08022022,Sueddeutsche
-Strommast fällt auf Auto,07022022_20:35,https://www.sueddeutsche.de/muenchen/ebersberg/vaterstetten-polizei-sturm-unfall-1.5523502,Sturm im Landkreis,,,,08022022,Sueddeutsche
-Warten auf das Ende der Welle,07022022_20:35,https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-corona-pandemie-inzidenz-impfung-1.5523760,Corona in Ebersberg,,,Der Corona-Inzidenzwert im Landkreis Ebersberg geht leicht zurück. Grund für eine Entwarnung ist das aber noch nicht.,08022022,Sueddeutsche
+                        Nach den Gesprächen mit US-Präsident Biden zeigt sich Scholz überzeugt, dass die Botschaft auch in Russland angekommen.",08022022,Sueddeutsche,politik
+Corona in Melsungen: Bundesliga-Spiel in Erlangen verschoben,07022022_21:39,https://www.sueddeutsche.de/sport/handball-lemgo-corona-in-melsungen-bundesliga-spiel-in-erlangen-verschoben-dpa.urn-newsml-dpa-com-20090101-220207-99-20355,Handball - Lemgo,dpa,,,08022022,Sueddeutsche,sport
+Tausende protestieren in Bayern gegen Corona-Maßnahmen,07022022_21:38,https://www.sueddeutsche.de/bayern/demonstrationen-landshut-tausende-protestieren-in-bayern-gegen-corona-massnahmen-dpa.urn-newsml-dpa-com-20090101-220207-99-20342,Demonstrationen - Landshut,dpa,,,08022022,Sueddeutsche,bayern
+Corona-Fälle in Melsungen: HBL-Spiel in Erlangen verschoben,07022022_21:31,https://www.sueddeutsche.de/sport/handball-corona-faelle-in-melsungen-hbl-spiel-in-erlangen-verschoben-dpa.urn-newsml-dpa-com-20090101-220204-99-975185,Handball,dpa,,,08022022,Sueddeutsche,sport
+Tausende Menschen bei Corona-Demos in Sachsen-Anhalt,07022022_21:25,https://www.sueddeutsche.de/politik/demonstrationen-magdeburg-tausende-menschen-bei-corona-demos-in-sachsen-anhalt-dpa.urn-newsml-dpa-com-20090101-220207-99-20166,Demonstrationen - Magdeburg,dpa,,,08022022,Sueddeutsche,politik
+Trainersuche beendet,07022022_21:18,https://www.sueddeutsche.de/sport/hc-erlangen-trainersuche-beendet-1.5524091,HC Erlangen,,,,08022022,Sueddeutsche,sport
+"Holetschek: Bayern setzt Teil-Impfpflicht ""mit Augenmaß"" um",07022022_20:42,https://www.sueddeutsche.de/bayern/gesundheit-muenchen-holetschek-bayern-setzt-teil-impfpflicht-mit-augenmass-um-dpa.urn-newsml-dpa-com-20090101-220207-99-19933,Gesundheit - München,dpa,,,08022022,Sueddeutsche,bayern
+Hamburgs Basketballer holen Amerikaner Trevon Bluiett,07022022_20:40,https://www.sueddeutsche.de/sport/basketball-hamburg-hamburgs-basketballer-holen-amerikaner-trevon-bluiett-dpa.urn-newsml-dpa-com-20090101-220207-99-19928,Basketball - Hamburg,dpa,,,08022022,Sueddeutsche,sport
+Strommast fällt auf Auto,07022022_20:35,https://www.sueddeutsche.de/muenchen/ebersberg/vaterstetten-polizei-sturm-unfall-1.5523502,Sturm im Landkreis,,,,08022022,Sueddeutsche,muenchen
+Warten auf das Ende der Welle,07022022_20:35,https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-corona-pandemie-inzidenz-impfung-1.5523760,Corona in Ebersberg,,,Der Corona-Inzidenzwert im Landkreis Ebersberg geht leicht zurück. Grund für eine Entwarnung ist das aber noch nicht.,08022022,Sueddeutsche,muenchen
 Dem Mangel vorbeugen,07022022_20:35,https://www.sueddeutsche.de/muenchen/ebersberg/landkreis-ebersberg-pflegenotstand-kreisklinik-ebersberg-1.5523526,Pflegenotstand,,"Von Wieland Bögel, Ebersberg","Der Landkreis Ebersberg prüft, wie sich das Angebot an Ausbildungsplätzen in der Pflege erhöhen lässt - allerdings nicht ganz freiwillig.
                         
-                            Von Wieland Bögel, Ebersberg",08022022,Sueddeutsche
-Magisches Moosach,07022022_20:35,https://www.sueddeutsche.de/muenchen/ebersberg/moosach-leuchtet-kulturkreis-1.5523584,Kunst in Ebersberg,,,,08022022,Sueddeutsche
+                            Von Wieland Bögel, Ebersberg",08022022,Sueddeutsche,muenchen
+Magisches Moosach,07022022_20:35,https://www.sueddeutsche.de/muenchen/ebersberg/moosach-leuchtet-kulturkreis-1.5523584,Kunst in Ebersberg,,,,08022022,Sueddeutsche,muenchen
 Geliebter Trott,07022022_20:35,https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-fruehstueck-glosse-morgen-1.5523499,Mitten in Ebersberg,,"Glosse von Daniel Limmer, Ebersberg","Aufstehen, Frühstücken, Duschen und umziehen. Eine Morgenroutine hat fast jeder von uns. Alles andere wäre auch grob fahrlässig.
                         
-                            Glosse von Daniel Limmer, Ebersberg",08022022,Sueddeutsche
-Geteilter Wochenmarkt,07022022_20:35,https://www.sueddeutsche.de/muenchen/ebersberg/markt-schwaben-wochenmarkt-1.5523934,Markt Schwaben,,,,08022022,Sueddeutsche
+                            Glosse von Daniel Limmer, Ebersberg",08022022,Sueddeutsche,muenchen
+Geteilter Wochenmarkt,07022022_20:35,https://www.sueddeutsche.de/muenchen/ebersberg/markt-schwaben-wochenmarkt-1.5523934,Markt Schwaben,,,,08022022,Sueddeutsche,muenchen
 Abkürzung ins Jenseits,07022022_20:35,https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-kirchseeon-islam-bestattung-friedhof-1.5523655,Bestattungen in Bayern,,"Von Wieland Bögel und Andreas Junkmann, Kirchseeon/Ebersberg","Damit sich die Seele schneller mit der Ewigkeit vereinen kann, bestatten Muslime ihre Angehörigen ohne Sarg. Bisher ist dieses Ritual im Landkreis Ebersberg nicht möglich. Zwei Gemeinden wollen das nun ändern.
                         
-                            Von Wieland Bögel und Andreas Junkmann, Kirchseeon/Ebersberg",08022022,Sueddeutsche
-Weniger Menschen bei Corona-Protesten,07022022_20:35,https://www.sueddeutsche.de/muenchen/dachau/indersdorf-dachau-altomuenster-spaziergang-demo-1.5523590,Landkreis Dachau,,,Im Vergleich zur Vorwoche verlieren die unangemeldeten Demos ein wenig an Zulauf.,08022022,Sueddeutsche
-"""Gesundheitsregion plus"" erhält zweite Geschäftsleitung",07022022_20:35,https://www.sueddeutsche.de/muenchen/dachau/dachau-gesundheitsregion-plus-1.5523723,Dachau,,,Genossenschaft profitiert von neuer Förderperiode.,08022022,Sueddeutsche
+                            Von Wieland Bögel und Andreas Junkmann, Kirchseeon/Ebersberg",08022022,Sueddeutsche,muenchen
+Weniger Menschen bei Corona-Protesten,07022022_20:35,https://www.sueddeutsche.de/muenchen/dachau/indersdorf-dachau-altomuenster-spaziergang-demo-1.5523590,Landkreis Dachau,,,Im Vergleich zur Vorwoche verlieren die unangemeldeten Demos ein wenig an Zulauf.,08022022,Sueddeutsche,muenchen
+"""Gesundheitsregion plus"" erhält zweite Geschäftsleitung",07022022_20:35,https://www.sueddeutsche.de/muenchen/dachau/dachau-gesundheitsregion-plus-1.5523723,Dachau,,,Genossenschaft profitiert von neuer Förderperiode.,08022022,Sueddeutsche,muenchen
 Großes Theater im kleinen Format,07022022_20:35,https://www.sueddeutsche.de/muenchen/dachau/indersdorf-papiertheater-auffuehrung-1.5523919,Markt Indersdorf,,"Von Shafia Khawaja, Markt Indersdorf","Die Figuren messen nur ein paar Zentimeter, die Drehbücher sind gekürzt: Am Papiertheater Indersdorf zeigt sich die Kunst im Detail. Über eine der kleinesten Bühnen Deutschlands.
                         
-                            Von Shafia Khawaja, Markt Indersdorf",08022022,Sueddeutsche
+                            Von Shafia Khawaja, Markt Indersdorf",08022022,Sueddeutsche,muenchen
 Mehr Corona-Patienten im Klinikum,07022022_20:35,https://www.sueddeutsche.de/muenchen/dachau/dachau-corona-inzidenz-krankenhaus-1.5523961,Dachau,,"Von Anna Schwarz, Dachau","Wegen der Omikron-Variante klettert die Inzidenz im Landkreis Dachau weiter in die Höhe. Immer mehr Infizierte liegen im Helios Amper-Klinikum. Der Pandemiebeauftragte Arzt Alexander von Freyburg erklärt, wie das Krankenhaus auf die Lage reagiert.
                         
-                            Von Anna Schwarz, Dachau",08022022,Sueddeutsche
-Tastmodell in der KZ-Gedenkstätte Dachau ausgezeichnet,07022022_20:35,https://www.sueddeutsche.de/muenchen/dachau/kz-dachau-gedenkstaette-inklusion-1.5523774,Dachau,,,"Internationale Fachjury spricht von einem ""herausragend gestalteten und erfolgreichen Beispiel für ein multisensorisches Erlebnis"".",08022022,Sueddeutsche
-Zehnjähriger Fahrradfahrer bei Unfall verletzt,07022022_20:35,https://www.sueddeutsche.de/muenchen/dachau/dachau-schillerstrasse-unfall-1.5523552,Dachau,,,,08022022,Sueddeutsche
-Serien-Tankbetrüger festgenommen,07022022_20:35,https://www.sueddeutsche.de/muenchen/wolfratshausen/geretsried-polizei-betrug-1.5523684,Aus dem Polizeibericht,,,,08022022,Sueddeutsche
+                            Von Anna Schwarz, Dachau",08022022,Sueddeutsche,muenchen
+Tastmodell in der KZ-Gedenkstätte Dachau ausgezeichnet,07022022_20:35,https://www.sueddeutsche.de/muenchen/dachau/kz-dachau-gedenkstaette-inklusion-1.5523774,Dachau,,,"Internationale Fachjury spricht von einem ""herausragend gestalteten und erfolgreichen Beispiel für ein multisensorisches Erlebnis"".",08022022,Sueddeutsche,muenchen
+Zehnjähriger Fahrradfahrer bei Unfall verletzt,07022022_20:35,https://www.sueddeutsche.de/muenchen/dachau/dachau-schillerstrasse-unfall-1.5523552,Dachau,,,,08022022,Sueddeutsche,muenchen
+Serien-Tankbetrüger festgenommen,07022022_20:35,https://www.sueddeutsche.de/muenchen/wolfratshausen/geretsried-polizei-betrug-1.5523684,Aus dem Polizeibericht,,,,08022022,Sueddeutsche,muenchen
 Feuer aus der Luft entdeckt,07022022_20:35,https://www.sueddeutsche.de/muenchen/wolfratshausen/koenigsdorf-feuer-luftrettungsstaffel-feuerwehr-segelflugzentrum-koenigsdorf-1.5523979,Brand bei Königsdorf,,"Von Benjamin Engel, Königsdorf","Ein Pilot des Segelflugzentrums Königsdorf hat einen erneut aufgeflammten Brand entdeckt - und so Schlimmeres verhindert.
                         
-                            Von Benjamin Engel, Königsdorf",08022022,Sueddeutsche
+                            Von Benjamin Engel, Königsdorf",08022022,Sueddeutsche,muenchen
 Eine Stadt als großer Spielplatz,07022022_20:35,https://www.sueddeutsche.de/muenchen/wolfratshausen/bad-toelz-stadtplanung-spielplaetze-konzept-1.5523602,Mitten in Bad Tölz,,"Von Klaus Schieder; , Bad Tölz","Mit einem neuen Konzept will Bad Tölz viele Orte zum Toben, Radeln und Bolzen schaffen. Ein großes Monopoly vom Bahnhofsplatz zur Badstraße ist nicht geplant, teure Häuser gibt es ohnehin schon genug. 
                         
-                            Von Klaus Schieder; , Bad Tölz",08022022,Sueddeutsche
+                            Von Klaus Schieder; , Bad Tölz",08022022,Sueddeutsche,muenchen
 Alles besser als Lockdown,07022022_20:35,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/wirtshaus-gaststaette-sperrstunde-gaeste-wirte-corona-fuerstenfeldbruck-alling-olching-tuerkenfeld-umfrage-2g-1.5523788,Auf Stippvisite in Fürstenfeldbrucker Restaurants,,"Von Xaver Lallinger, Fürstenfeldbruck","Gäste und Wirte haben sich leidlich mit 2 G und Maskenpflicht arrangiert. Und doch leidet die Stimmung weiter unter Corona. Denn Schluss ist oft gerade dann, wenn's gemütlich wird.
                         
-                            Von Xaver Lallinger, Fürstenfeldbruck",08022022,Sueddeutsche
-Elf Einsätze nach Sturmtief,07022022_20:35,https://www.sueddeutsche.de/muenchen/wolfratshausen/bad-toelz-wolfratshausen-unwetter-feuerwehr-sturm-roxana-1.5523751,Feuerwehr-Einsätze,,,,08022022,Sueddeutsche
+                            Von Xaver Lallinger, Fürstenfeldbruck",08022022,Sueddeutsche,muenchen
+Elf Einsätze nach Sturmtief,07022022_20:35,https://www.sueddeutsche.de/muenchen/wolfratshausen/bad-toelz-wolfratshausen-unwetter-feuerwehr-sturm-roxana-1.5523751,Feuerwehr-Einsätze,,,,08022022,Sueddeutsche,muenchen
 Germeringer Marktsonntag abgesagt,07022022_20:35,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/germering-marktsonntag-wirtschaftsverband-regierung-1.5524019,Als Folge der Pandemie,,"Von Peter Bierl, Germering","Wirtschaftsverband sind die finanziellen Risiken zu hoch.
                         
-                            Von Peter Bierl, Germering",08022022,Sueddeutsche
-Außenspiegel besprüht,07022022_20:35,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/germering-1.5524047,Aus dem Polizeibericht,,,Geparktes Auto in Germering wird beschädigt.,08022022,Sueddeutsche
-Lob für Bürgerbeteiligung,07022022_20:35,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/germering-kreuzlinger-feld-buergerentscheid-direkte-demokratie-mehr-demokratie-1.5523459,Direkte Demokratie,,,"Der Verein Mehr Demokratie begrüßt die Entscheidung der Germeringer Kommunalpolitiker, über die Bebauung des Kreuzlinger Feldes abstimmen zu lassen.",08022022,Sueddeutsche
+                            Von Peter Bierl, Germering",08022022,Sueddeutsche,muenchen
+Außenspiegel besprüht,07022022_20:35,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/germering-1.5524047,Aus dem Polizeibericht,,,Geparktes Auto in Germering wird beschädigt.,08022022,Sueddeutsche,muenchen
+Lob für Bürgerbeteiligung,07022022_20:35,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/germering-kreuzlinger-feld-buergerentscheid-direkte-demokratie-mehr-demokratie-1.5523459,Direkte Demokratie,,,"Der Verein Mehr Demokratie begrüßt die Entscheidung der Germeringer Kommunalpolitiker, über die Bebauung des Kreuzlinger Feldes abstimmen zu lassen.",08022022,Sueddeutsche,muenchen
 Die Hattenhofener bekommen höhere Abwassergebühren,07022022_20:35,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/ratsbergehren-buergerentscheid-klaeranlage-mammendorf-hattenhofen-abwasser-abwassergebuehren-gebuehren-abstimmung-wahlbeteiligung-1.5523541,Ergebnis des Ratsbegehrens,,"Von  Manfred Amann, Hattenhofen","Fast 80 Prozent der Einwohner lehnen es ab, bis zu 2000 Euro für den Anschluss an die Mammendorfer Kläranlage zu bezahlen.
                         
-                            Von  Manfred Amann, Hattenhofen",08022022,Sueddeutsche
-Seitenscheibe eingeschlagen,07022022_20:35,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/moorrnweis-einbruch-autoaufbrecher-1.5524059,Aus dem Polizeibericht,,,Die Täter erbeuten in Grunertshofen zwei Schachteln Zigaretten.,08022022,Sueddeutsche
+                            Von  Manfred Amann, Hattenhofen",08022022,Sueddeutsche,muenchen
+Seitenscheibe eingeschlagen,07022022_20:35,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/moorrnweis-einbruch-autoaufbrecher-1.5524059,Aus dem Polizeibericht,,,Die Täter erbeuten in Grunertshofen zwei Schachteln Zigaretten.,08022022,Sueddeutsche,muenchen
 Die zweitbeste Lösung,07022022_20:35,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/buegerentscheid-ratsbegehren-abwasser-gebuehren-anschluss-klaeranlage-mammendorf-1.5524024,Kommentar,,"Kommentar von Manfred Amann, Hattenhofen","Meinung
                     
                     
                         Die Entscheidung für die Gebührenvariante ist nachvollziehbar, aber nicht die beste Wahl.
                         
-                            Kommentar von Manfred Amann, Hattenhofen",08022022,Sueddeutsche
-Fällungsarbeiten in der Hanfelderstraße,07022022_20:35,https://www.sueddeutsche.de/muenchen/starnberg/starnberg-hanfelderstrasse-baumfaellung-verkehrsbehinderung-1.5523928,Verkehrsbehinderung,,,Vier kranke Bäume werden umgeschnitten.,08022022,Sueddeutsche
+                            Kommentar von Manfred Amann, Hattenhofen",08022022,Sueddeutsche,muenchen
+Fällungsarbeiten in der Hanfelderstraße,07022022_20:35,https://www.sueddeutsche.de/muenchen/starnberg/starnberg-hanfelderstrasse-baumfaellung-verkehrsbehinderung-1.5523928,Verkehrsbehinderung,,,Vier kranke Bäume werden umgeschnitten.,08022022,Sueddeutsche,muenchen
 Erklärende Konzerte,07022022_20:35,https://www.sueddeutsche.de/muenchen/starnberg/bach-hopkins-konzert-klavier-gilching-1.5523489,Musik,,"Von Gerhard Summer, Gilching","Die in Gilching lebende Pianistin Elizabeth Hopkins ist fasziniert vom Werk des Zahlenmystikers Bach. Mit i-Pad, Beamer und farbig markierten Noten lässt sie ihre Zuhörer an ihrer Begeisterung teilhaben. 
                         
-                            Von Gerhard Summer, Gilching",08022022,Sueddeutsche
+                            Von Gerhard Summer, Gilching",08022022,Sueddeutsche,muenchen
 Neue Ideen für ein altes Dorf,07022022_20:35,https://www.sueddeutsche.de/muenchen/starnberg/poecking-landkreis-starnberg-isek-staedtebaufoerderung-1.5523603,Pöcking,,"Von Sylvia Böhm-Haimerl, Pöcking","Die Bürger entwickeln in einem ersten Online-Workshop Ideen, was in ihrer Gemeinde noch verbessert werden könnte. An der Finanzierung für den Mehraufwand wäre auch der Freistaat beteiligt.
                         
-                            Von Sylvia Böhm-Haimerl, Pöcking",08022022,Sueddeutsche
-Blitz und Donnerschlag,07022022_20:35,https://www.sueddeutsche.de/muenchen/starnberg/landkreis-starnberg-gewitter-blitz-donner-1.5523850,Wetterkapriolen,,,,08022022,Sueddeutsche
-FDP-Hauskrach bleibt ohne Folgen,07022022_20:35,https://www.sueddeutsche.de/muenchen/starnberg/starnberg-stadtrat-fdp-1.5524038,Starnberg,,,,08022022,Sueddeutsche
+                            Von Sylvia Böhm-Haimerl, Pöcking",08022022,Sueddeutsche,muenchen
+Blitz und Donnerschlag,07022022_20:35,https://www.sueddeutsche.de/muenchen/starnberg/landkreis-starnberg-gewitter-blitz-donner-1.5523850,Wetterkapriolen,,,,08022022,Sueddeutsche,muenchen
+FDP-Hauskrach bleibt ohne Folgen,07022022_20:35,https://www.sueddeutsche.de/muenchen/starnberg/starnberg-stadtrat-fdp-1.5524038,Starnberg,,,,08022022,Sueddeutsche,muenchen
 Lichtkunst vom Schrottplatz,07022022_20:35,https://www.sueddeutsche.de/muenchen/starnberg/starnberg-kunst-ausstellung-racz-leuchten-1.5523800,Ausstellung,,"Von Hannah Szeck, Starnberg","László Rácz erschafft aus alten Lampen und Bauelementen originelle Leuchtobjekte.
                         
-                            Von Hannah Szeck, Starnberg",08022022,Sueddeutsche
-Sturm weht Hochsitz um,07022022_20:35,https://www.sueddeutsche.de/muenchen/starnberg/landkreis-starnberg-sturm-weht-hochsitz-um-1.5523983,Landkreis Starnberg,,,Im Fünfseenland muss die Feuerwehr zu fast 30 Einsätzen ausrücken.,08022022,Sueddeutsche
-Bäume und Bauzaun umgestürzt,07022022_20:35,https://www.sueddeutsche.de/muenchen/freising/sturm-in-freising-baeume-und-bauzaun-umgestuerzt-1.5523882,Sturm in Freising,,,,08022022,Sueddeutsche
-Sportlich in den Sommer,07022022_20:35,https://www.sueddeutsche.de/muenchen/freising/freising-sportlich-in-den-sommer-1.5523888,Freising,,,Arbeiten an den  neuen Bewegungsparks haben begonnen,08022022,Sueddeutsche
+                            Von Hannah Szeck, Starnberg",08022022,Sueddeutsche,muenchen
+Sturm weht Hochsitz um,07022022_20:35,https://www.sueddeutsche.de/muenchen/starnberg/landkreis-starnberg-sturm-weht-hochsitz-um-1.5523983,Landkreis Starnberg,,,Im Fünfseenland muss die Feuerwehr zu fast 30 Einsätzen ausrücken.,08022022,Sueddeutsche,muenchen
+Bäume und Bauzaun umgestürzt,07022022_20:35,https://www.sueddeutsche.de/muenchen/freising/sturm-in-freising-baeume-und-bauzaun-umgestuerzt-1.5523882,Sturm in Freising,,,,08022022,Sueddeutsche,muenchen
+Sportlich in den Sommer,07022022_20:35,https://www.sueddeutsche.de/muenchen/freising/freising-sportlich-in-den-sommer-1.5523888,Freising,,,Arbeiten an den  neuen Bewegungsparks haben begonnen,08022022,Sueddeutsche,muenchen
 Bindeglied zum Bürger,07022022_20:35,https://www.sueddeutsche.de/muenchen/freising/update-bindeglied-zum-buerger-1.5523886,Update,,Von Alexander Kappen,"Moosburgs Polizei sucht Kandidaten und Kandidatinnen für die Sicherheitswacht. Interessierte können sich  jetzt dafür bewerben
                         
-                            Von Alexander Kappen",08022022,Sueddeutsche
-Polizei rettet verletzten Bussard auf der A 9,07022022_20:35,https://www.sueddeutsche.de/muenchen/freising/allershausen-polizei-rettet-verletzten-bussard-auf-der-a-9-1.5523884,Allershausen,,,,08022022,Sueddeutsche
+                            Von Alexander Kappen",08022022,Sueddeutsche,muenchen
+Polizei rettet verletzten Bussard auf der A 9,07022022_20:35,https://www.sueddeutsche.de/muenchen/freising/allershausen-polizei-rettet-verletzten-bussard-auf-der-a-9-1.5523884,Allershausen,,,,08022022,Sueddeutsche,muenchen
 "Versorgungslücken schließen, Fachkräfte anwerben",07022022_20:35,https://www.sueddeutsche.de/muenchen/freising/kinderbetreuung-im-landkreis-versorgungsluecken-schliessen-fachkraefte-anwerben-1.5523878,Kinderbetreuung im Landkreis,,"Von Petra Schnirch, Freising","Mit  Umfragen verschafft sich der Landkreis  Freising einen Überblick über die Situation der Kinderbetreuung
                         
-                            Von Petra Schnirch, Freising",08022022,Sueddeutsche
+                            Von Petra Schnirch, Freising",08022022,Sueddeutsche,muenchen
 Der Bedarf ist nicht vorhanden,07022022_20:35,https://www.sueddeutsche.de/muenchen/freising/impfen-in-apotheken-der-bedarf-ist-nicht-vorhanden-1.5523876,Impfen in Apotheken,,"Von Charline Schreiber, Freising","Bundesweit dürfen von Dienstag an auch die Apotheken Impfungen gegen das Corona-Virus anbieten. Im Landkreis Freising sieht man wegen der fehlenden Nachfrage dafür derzeit aber keine Notwendigkeit
                         
-                            Von Charline Schreiber, Freising",08022022,Sueddeutsche
-Zweite Niederlage für die Black Bears,07022022_20:35,https://www.sueddeutsche.de/muenchen/freising/eishockey-zweite-niederlage-fuer-die-black-bears-1.5523895,Eishockey,,,,08022022,Sueddeutsche
-Interviewer gesucht,07022022_20:35,https://www.sueddeutsche.de/muenchen/freising/zensus-2022-interviewer-gesucht-1.5523890,Zensus 2022,,,Im Landkreis Freising werden  etwa 33 000 Haushalte befragt,08022022,Sueddeutsche
-Verschwörungsglaube und Esoterik in der Corona-Krise,07022022_20:35,https://www.sueddeutsche.de/muenchen/freising/vortrag-eines-sektenbeauftragten-verschwoerungsglaube-und-esoterik-in-der-corona-krise-1.5523897,Vortrag eines Sektenbeauftragten ,,,,08022022,Sueddeutsche
-7149 Menschen in Quarantäne,07022022_20:35,https://www.sueddeutsche.de/muenchen/freising/corona-im-landkreis-7149-menschen-in-quarantaene-1.5523880,Corona im Landkreis,,,"Sieben-Tage-Inzidenz liegt im Landkreis Freising bei 2020,9",08022022,Sueddeutsche
-"Kammermusik mit dem ""Trio Lirico""",07022022_20:35,https://www.sueddeutsche.de/muenchen/freising/buergerhaus-eching-kammermusik-mit-dem-trio-lirico-1.5523899,Bürgerhaus Eching,,,,08022022,Sueddeutsche
+                            Von Charline Schreiber, Freising",08022022,Sueddeutsche,muenchen
+Zweite Niederlage für die Black Bears,07022022_20:35,https://www.sueddeutsche.de/muenchen/freising/eishockey-zweite-niederlage-fuer-die-black-bears-1.5523895,Eishockey,,,,08022022,Sueddeutsche,muenchen
+Interviewer gesucht,07022022_20:35,https://www.sueddeutsche.de/muenchen/freising/zensus-2022-interviewer-gesucht-1.5523890,Zensus 2022,,,Im Landkreis Freising werden  etwa 33 000 Haushalte befragt,08022022,Sueddeutsche,muenchen
+Verschwörungsglaube und Esoterik in der Corona-Krise,07022022_20:35,https://www.sueddeutsche.de/muenchen/freising/vortrag-eines-sektenbeauftragten-verschwoerungsglaube-und-esoterik-in-der-corona-krise-1.5523897,Vortrag eines Sektenbeauftragten ,,,,08022022,Sueddeutsche,muenchen
+7149 Menschen in Quarantäne,07022022_20:35,https://www.sueddeutsche.de/muenchen/freising/corona-im-landkreis-7149-menschen-in-quarantaene-1.5523880,Corona im Landkreis,,,"Sieben-Tage-Inzidenz liegt im Landkreis Freising bei 2020,9",08022022,Sueddeutsche,muenchen
+"Kammermusik mit dem ""Trio Lirico""",07022022_20:35,https://www.sueddeutsche.de/muenchen/freising/buergerhaus-eching-kammermusik-mit-dem-trio-lirico-1.5523899,Bürgerhaus Eching,,,,08022022,Sueddeutsche,muenchen

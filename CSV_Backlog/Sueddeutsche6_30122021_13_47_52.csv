@@ -1,87 +1,87 @@
-Titel,Date_Info,URL,Overline,Breadcrumb,author,detailed_informations,Zugriff_Datum,News_page
-Unions Friedrich-Frage: Könnte auch nächste Saison bleiben,30122021_04:17,https://www.sueddeutsche.de/sport/fussball-berlin-unions-friedrich-frage-koennte-auch-naechste-saison-bleiben-dpa.urn-newsml-dpa-com-20090101-211230-99-539725,Fußball - Berlin,dpa,,,30122021,Sueddeutsche
-Bank hilft Mittelstand: 300 Firmen setzen Tilgung aus,30122021_04:15,https://www.sueddeutsche.de/wirtschaft/banken-potsdam-bank-hilft-mittelstand-300-firmen-setzen-tilgung-aus-dpa.urn-newsml-dpa-com-20090101-211230-99-539726,Banken - Potsdam,dpa,,,30122021,Sueddeutsche
-Tesla legt Unterlagen für Genehmigungsverfahren vor,30122021_04:12,https://www.sueddeutsche.de/wirtschaft/auto-gruenheide-mark-tesla-legt-unterlagen-fuer-genehmigungsverfahren-vor-dpa.urn-newsml-dpa-com-20090101-211230-99-539727,Auto - Grünheide (Mark),dpa,,,30122021,Sueddeutsche
-Baerbock: Rückkehr von Russland in G7-Runde nicht absehbar,30122021_04:12,https://www.sueddeutsche.de/service/jahreswechsel-baerbock-rueckkehr-von-russland-in-g7-runde-nicht-absehbar-dpa.urn-newsml-dpa-com-20090101-211230-99-539689,Jahreswechsel,dpa,,,30122021,Sueddeutsche
-Studie: Fische in Mexiko vertreiben Vögel mit La-Ola-Welle,30122021_04:10,https://www.sueddeutsche.de/wissen/wissenschaft-studie-fische-in-mexiko-vertreiben-voegel-mit-la-ola-welle-dpa.urn-newsml-dpa-com-20090101-211230-99-539728,Wissenschaft,dpa,,,30122021,Sueddeutsche
-Gold wert: Was gute Trauzeugen ausmacht,30122021_03:56,https://www.sueddeutsche.de/leben/familie-gold-wert-was-gute-trauzeugen-ausmacht-dpa.urn-newsml-dpa-com-20090101-211216-99-408345,Familie,dpa,,,30122021,Sueddeutsche
-Ehevertrag sorgt für Fairness,30122021_03:51,https://www.sueddeutsche.de/wirtschaft/verbraucher-ehevertrag-sorgt-fuer-fairness-dpa.urn-newsml-dpa-com-20090101-211213-99-366388,Verbraucher,dpa,,,30122021,Sueddeutsche
-Deutscher Wetterdienst veröffentlicht Jahresbilanz 2021,30122021_03:50,https://www.sueddeutsche.de/panorama/wetter-deutscher-wetterdienst-veroeffentlicht-jahresbilanz-2021-dpa.urn-newsml-dpa-com-20090101-211230-99-539521,Wetter,dpa,,,30122021,Sueddeutsche
-Kultur in Hessen: Wiesbaden ist eine Stadt unter Dampf,30122021_03:47,https://www.sueddeutsche.de/leben/tourismus-kultur-in-hessen-wiesbaden-ist-eine-stadt-unter-dampf-dpa.urn-newsml-dpa-com-20090101-211229-99-533787,Tourismus,dpa,,,30122021,Sueddeutsche
-"""SplitterCritters+"": Zerschneide die Welt, bis alles passt",30122021_03:45,https://www.sueddeutsche.de/wissen/technik-splittercritters-zerschneide-die-welt-bis-alles-passt-dpa.urn-newsml-dpa-com-20090101-211229-99-533635,Technik,dpa,,,30122021,Sueddeutsche
-Stoffwechselzentrale: So bleibt die Leber gut in Schuss,30122021_03:44,https://www.sueddeutsche.de/gesundheit/gesundheit-stoffwechselzentrale-so-bleibt-die-leber-gut-in-schuss-dpa.urn-newsml-dpa-com-20090101-211229-99-533683,Gesundheit,dpa,,,30122021,Sueddeutsche
-Crémant macht dem Champagner Konkurrenz,30122021_03:40,https://www.sueddeutsche.de/service/jahreswechsel-crmant-macht-dem-champagner-konkurrenz-dpa.urn-newsml-dpa-com-20090101-211229-99-531621,Jahreswechsel,dpa,,,30122021,Sueddeutsche
-Langes Leben für Weihnachtsstern und Glücksklee,30122021_03:34,https://www.sueddeutsche.de/wirtschaft/immobilien-langes-leben-fuer-weihnachtsstern-und-gluecksklee-dpa.urn-newsml-dpa-com-20090101-211229-99-533708,Immobilien,dpa,,,30122021,Sueddeutsche
-Was bleibt 2022 im Portemonnaie?,30122021_03:34,https://www.sueddeutsche.de/service/jahreswechsel-was-bleibt-2022-im-portemonnaie-dpa.urn-newsml-dpa-com-20090101-211220-99-450824,Jahreswechsel,dpa,,,30122021,Sueddeutsche
-Tesla legt Unterlagen für Genehmigungsverfahren vor,30122021_03:22,https://www.sueddeutsche.de/wirtschaft/auto-tesla-legt-unterlagen-fuer-genehmigungsverfahren-vor-dpa.urn-newsml-dpa-com-20090101-211230-99-539355,Auto,dpa,,,30122021,Sueddeutsche
+Titel,Date_Info,URL,Overline,Breadcrumb,author,detailed_informations,Zugriff_Datum,News_page,Kategorie
+Unions Friedrich-Frage: Könnte auch nächste Saison bleiben,30122021_04:17,https://www.sueddeutsche.de/sport/fussball-berlin-unions-friedrich-frage-koennte-auch-naechste-saison-bleiben-dpa.urn-newsml-dpa-com-20090101-211230-99-539725,Fußball - Berlin,dpa,,,30122021,Sueddeutsche,sport
+Bank hilft Mittelstand: 300 Firmen setzen Tilgung aus,30122021_04:15,https://www.sueddeutsche.de/wirtschaft/banken-potsdam-bank-hilft-mittelstand-300-firmen-setzen-tilgung-aus-dpa.urn-newsml-dpa-com-20090101-211230-99-539726,Banken - Potsdam,dpa,,,30122021,Sueddeutsche,wirtschaft
+Tesla legt Unterlagen für Genehmigungsverfahren vor,30122021_04:12,https://www.sueddeutsche.de/wirtschaft/auto-gruenheide-mark-tesla-legt-unterlagen-fuer-genehmigungsverfahren-vor-dpa.urn-newsml-dpa-com-20090101-211230-99-539727,Auto - Grünheide (Mark),dpa,,,30122021,Sueddeutsche,wirtschaft
+Baerbock: Rückkehr von Russland in G7-Runde nicht absehbar,30122021_04:12,https://www.sueddeutsche.de/service/jahreswechsel-baerbock-rueckkehr-von-russland-in-g7-runde-nicht-absehbar-dpa.urn-newsml-dpa-com-20090101-211230-99-539689,Jahreswechsel,dpa,,,30122021,Sueddeutsche,service
+Studie: Fische in Mexiko vertreiben Vögel mit La-Ola-Welle,30122021_04:10,https://www.sueddeutsche.de/wissen/wissenschaft-studie-fische-in-mexiko-vertreiben-voegel-mit-la-ola-welle-dpa.urn-newsml-dpa-com-20090101-211230-99-539728,Wissenschaft,dpa,,,30122021,Sueddeutsche,wissen
+Gold wert: Was gute Trauzeugen ausmacht,30122021_03:56,https://www.sueddeutsche.de/leben/familie-gold-wert-was-gute-trauzeugen-ausmacht-dpa.urn-newsml-dpa-com-20090101-211216-99-408345,Familie,dpa,,,30122021,Sueddeutsche,leben
+Ehevertrag sorgt für Fairness,30122021_03:51,https://www.sueddeutsche.de/wirtschaft/verbraucher-ehevertrag-sorgt-fuer-fairness-dpa.urn-newsml-dpa-com-20090101-211213-99-366388,Verbraucher,dpa,,,30122021,Sueddeutsche,wirtschaft
+Deutscher Wetterdienst veröffentlicht Jahresbilanz 2021,30122021_03:50,https://www.sueddeutsche.de/panorama/wetter-deutscher-wetterdienst-veroeffentlicht-jahresbilanz-2021-dpa.urn-newsml-dpa-com-20090101-211230-99-539521,Wetter,dpa,,,30122021,Sueddeutsche,panorama
+Kultur in Hessen: Wiesbaden ist eine Stadt unter Dampf,30122021_03:47,https://www.sueddeutsche.de/leben/tourismus-kultur-in-hessen-wiesbaden-ist-eine-stadt-unter-dampf-dpa.urn-newsml-dpa-com-20090101-211229-99-533787,Tourismus,dpa,,,30122021,Sueddeutsche,leben
+"""SplitterCritters+"": Zerschneide die Welt, bis alles passt",30122021_03:45,https://www.sueddeutsche.de/wissen/technik-splittercritters-zerschneide-die-welt-bis-alles-passt-dpa.urn-newsml-dpa-com-20090101-211229-99-533635,Technik,dpa,,,30122021,Sueddeutsche,wissen
+Stoffwechselzentrale: So bleibt die Leber gut in Schuss,30122021_03:44,https://www.sueddeutsche.de/gesundheit/gesundheit-stoffwechselzentrale-so-bleibt-die-leber-gut-in-schuss-dpa.urn-newsml-dpa-com-20090101-211229-99-533683,Gesundheit,dpa,,,30122021,Sueddeutsche,gesundheit
+Crémant macht dem Champagner Konkurrenz,30122021_03:40,https://www.sueddeutsche.de/service/jahreswechsel-crmant-macht-dem-champagner-konkurrenz-dpa.urn-newsml-dpa-com-20090101-211229-99-531621,Jahreswechsel,dpa,,,30122021,Sueddeutsche,service
+Langes Leben für Weihnachtsstern und Glücksklee,30122021_03:34,https://www.sueddeutsche.de/wirtschaft/immobilien-langes-leben-fuer-weihnachtsstern-und-gluecksklee-dpa.urn-newsml-dpa-com-20090101-211229-99-533708,Immobilien,dpa,,,30122021,Sueddeutsche,wirtschaft
+Was bleibt 2022 im Portemonnaie?,30122021_03:34,https://www.sueddeutsche.de/service/jahreswechsel-was-bleibt-2022-im-portemonnaie-dpa.urn-newsml-dpa-com-20090101-211220-99-450824,Jahreswechsel,dpa,,,30122021,Sueddeutsche,service
+Tesla legt Unterlagen für Genehmigungsverfahren vor,30122021_03:22,https://www.sueddeutsche.de/wirtschaft/auto-tesla-legt-unterlagen-fuer-genehmigungsverfahren-vor-dpa.urn-newsml-dpa-com-20090101-211230-99-539355,Auto,dpa,,,30122021,Sueddeutsche,wirtschaft
 "Vertrieben, verzweifelt, abkassiert",30122021_03:17,https://www.sueddeutsche.de/politik/fluechtlinge-fluechtlingskrise-schleuserkriminalitaet-migration-1.5497080,Globale Krise,,Von Andrea Bachstein,"Immer mehr Menschen weltweit müssen ihre Heimat verlassen. Eine humanitäre Katastrophe - und oft ein Riesengeschäft.
                         
-                            Von Andrea Bachstein",30122021,Sueddeutsche
+                            Von Andrea Bachstein",30122021,Sueddeutsche,politik
 Löwenmutter nötig,30122021_03:16,https://www.sueddeutsche.de/meinung/kultur-claudia-roth-ampelkoalition-1.5498004,Kulturpolitik,,Kommentar von Kia Vahland,"Meinung
                     
                     
                         Die grüne Staatsministerin Claudia Roth hat große Pläne. Erfolg aber wird sie nur haben, wenn sie nicht in Symbolpolitik untergeht, sondern zum Beispiel Opern- und Ausstellungshäuser schützt und rettet.
                         
-                            Kommentar von Kia Vahland",30122021,Sueddeutsche
+                            Kommentar von Kia Vahland",30122021,Sueddeutsche,meinung
 "Bargeld, das man nicht anfassen kann",30122021_03:16,https://www.sueddeutsche.de/wirtschaft/euro-ezb-bargeld-bitcoin-digitaler-euro-1.5498125,Digitaler Euro,,"Von Jannis Brühl und Markus Zydra, Frankfurt","Schein und Münze reichen nicht mehr: Deshalb entwickelt die EZB den digitalen Euro. Doch was ist das eigentlich genau? Die wichtigsten Fragen und Antworten.
                         
-                            Von Jannis Brühl und Markus Zydra, Frankfurt",30122021,Sueddeutsche
+                            Von Jannis Brühl und Markus Zydra, Frankfurt",30122021,Sueddeutsche,wirtschaft
 "Bye bye Sandwurm, willkommen Marterpfahl",30122021_03:16,https://www.sueddeutsche.de/medien/star-wars-das-buch-von-boba-fett-book-of-boba-fett-1.5497868,"""Das Buch von Boba Fett"" auf Disney+",,Von Tobias Kniebe,"Großereignis im ""Star Wars""-Universum: Jon Favreau und Dave Filoni starten ihre Serie ""Das Buch von Boba Fett"".
                         
-                            Von Tobias Kniebe",30122021,Sueddeutsche
-"Pesic über Zipser-Drama: ""Einer der schwierigsten Momente""",30122021_03:05,https://www.sueddeutsche.de/sport/basketball-pesic-ueber-zipser-drama-einer-der-schwierigsten-momente-dpa.urn-newsml-dpa-com-20090101-211229-99-538197,Basketball,dpa,,,30122021,Sueddeutsche
-Bankenpräsident erwartet mehrere Jahre höhere Inflationsraten,30122021_02:41,https://www.sueddeutsche.de/wirtschaft/inflation-christian-sewing-1.5498469,Steigende Preise,,,"Christian Sewing rechnet für die nächsten Jahre mit Raten von 2,5 bis drei Prozent. Mehrere Faktoren würden die Preise längerfristig nach oben treiben.",30122021,Sueddeutsche
-Institut: Stärkste Geflügelpestepidemie überhaupt in Europa,30122021_02:20,https://www.sueddeutsche.de/wissen/wissenschaft-institut-staerkste-gefluegelpestepidemie-ueberhaupt-in-europa-dpa.urn-newsml-dpa-com-20090101-211230-99-539134,Wissenschaft,dpa,,,30122021,Sueddeutsche
-Bankenpräsident: Mehrere Jahre höhere Inflationsraten,30122021_00:25,https://www.sueddeutsche.de/wirtschaft/preise-bankenpraesident-mehrere-jahre-hoehere-inflationsraten-dpa.urn-newsml-dpa-com-20090101-211230-99-538767,Preise,dpa,,,30122021,Sueddeutsche
-Fleisch und Milch: Greenpeace fordert höhere Mehrwertsteuer,30122021_00:18,https://www.sueddeutsche.de/wirtschaft/agrar-fleisch-und-milch-greenpeace-fordert-hoehere-mehrwertsteuer-dpa.urn-newsml-dpa-com-20090101-211230-99-538763,Agrar,dpa,,,30122021,Sueddeutsche
-Kalenderblatt 2021: 30. Dezember,29122021_22:55,https://www.sueddeutsche.de/wissen/geschichte-kalenderblatt-2021-30-dezember-dpa.urn-newsml-dpa-com-20090101-211220-99-447752,Geschichte,dpa,,,30122021,Sueddeutsche
+                            Von Tobias Kniebe",30122021,Sueddeutsche,medien
+"Pesic über Zipser-Drama: ""Einer der schwierigsten Momente""",30122021_03:05,https://www.sueddeutsche.de/sport/basketball-pesic-ueber-zipser-drama-einer-der-schwierigsten-momente-dpa.urn-newsml-dpa-com-20090101-211229-99-538197,Basketball,dpa,,,30122021,Sueddeutsche,sport
+Bankenpräsident erwartet mehrere Jahre höhere Inflationsraten,30122021_02:41,https://www.sueddeutsche.de/wirtschaft/inflation-christian-sewing-1.5498469,Steigende Preise,,,"Christian Sewing rechnet für die nächsten Jahre mit Raten von 2,5 bis drei Prozent. Mehrere Faktoren würden die Preise längerfristig nach oben treiben.",30122021,Sueddeutsche,wirtschaft
+Institut: Stärkste Geflügelpestepidemie überhaupt in Europa,30122021_02:20,https://www.sueddeutsche.de/wissen/wissenschaft-institut-staerkste-gefluegelpestepidemie-ueberhaupt-in-europa-dpa.urn-newsml-dpa-com-20090101-211230-99-539134,Wissenschaft,dpa,,,30122021,Sueddeutsche,wissen
+Bankenpräsident: Mehrere Jahre höhere Inflationsraten,30122021_00:25,https://www.sueddeutsche.de/wirtschaft/preise-bankenpraesident-mehrere-jahre-hoehere-inflationsraten-dpa.urn-newsml-dpa-com-20090101-211230-99-538767,Preise,dpa,,,30122021,Sueddeutsche,wirtschaft
+Fleisch und Milch: Greenpeace fordert höhere Mehrwertsteuer,30122021_00:18,https://www.sueddeutsche.de/wirtschaft/agrar-fleisch-und-milch-greenpeace-fordert-hoehere-mehrwertsteuer-dpa.urn-newsml-dpa-com-20090101-211230-99-538763,Agrar,dpa,,,30122021,Sueddeutsche,wirtschaft
+Kalenderblatt 2021: 30. Dezember,29122021_22:55,https://www.sueddeutsche.de/wissen/geschichte-kalenderblatt-2021-30-dezember-dpa.urn-newsml-dpa-com-20090101-211220-99-447752,Geschichte,dpa,,,30122021,Sueddeutsche,wissen
 Das Kalkül der Corona-Demonstranten ist gescheitert,29122021_22:47,https://www.sueddeutsche.de/muenchen/muenchen-corona-demo-kommentar-1.5498467,München,,Kommentar von Martin Bernstein,"Meinung
                     
                     
                         Diesmal geht die Taktik der Münchner Polizei voll auf. Für diejenigen, die im Glauben losmarschierten, Vorschriften hätten keine Bedeutung, kann das ein teurer Abendspaziergang werden.
                         
-                            Kommentar von Martin Bernstein",30122021,Sueddeutsche
-Ghislaine Maxwell schuldig gesprochen,29122021_22:21,https://www.sueddeutsche.de/panorama/prozess-ghislaine-maxwell-jeffrey-epstein-1.5496804,Epstein-Vertraute,,,"Das berichten übereinstimmend mehrere US-Medien. Der früheren Freundin des US-Multimilliardärs Jeffrey Epstein wurde vorgeworfen, diesem gezielt junge Frauen zum Missbrauch zugeführt zu haben.",30122021,Sueddeutsche
-Berichte: Maxwell in Missbrauchsprozess schuldig gesprochen,29122021_22:17,https://www.sueddeutsche.de/panorama/prozesse-berichtemaxwell-in-missbrauchsprozess-schuldig-gesprochen-dpa.urn-newsml-dpa-com-20090101-211229-99-538504,Prozesse,dpa,,,30122021,Sueddeutsche
-Spätes Remis schockt Chelsea - Manchester City auf Titelkurs,29122021_22:13,https://www.sueddeutsche.de/sport/fussball-spaetes-remis-schockt-chelsea-manchester-city-auf-titelkurs-dpa.urn-newsml-dpa-com-20090101-211229-99-538302,Fußball,dpa,,,30122021,Sueddeutsche
-Schnellere Rettung per Radar nach Bergunglücken,29122021_22:02,https://www.sueddeutsche.de/bayern/bayern-bergrettung-radar-lawinen-wintersport-1.5498120,Wintertourismus,,,Vom Hubschrauber aus können Verunglückte nach Lawinenabgängen mit neuen Detektoren schneller gefunden werden. Auch eine Notfall-App soll für mehr Sicherheit am Berg sorgen.,30122021,Sueddeutsche
+                            Kommentar von Martin Bernstein",30122021,Sueddeutsche,muenchen
+Ghislaine Maxwell schuldig gesprochen,29122021_22:21,https://www.sueddeutsche.de/panorama/prozess-ghislaine-maxwell-jeffrey-epstein-1.5496804,Epstein-Vertraute,,,"Das berichten übereinstimmend mehrere US-Medien. Der früheren Freundin des US-Multimilliardärs Jeffrey Epstein wurde vorgeworfen, diesem gezielt junge Frauen zum Missbrauch zugeführt zu haben.",30122021,Sueddeutsche,panorama
+Berichte: Maxwell in Missbrauchsprozess schuldig gesprochen,29122021_22:17,https://www.sueddeutsche.de/panorama/prozesse-berichtemaxwell-in-missbrauchsprozess-schuldig-gesprochen-dpa.urn-newsml-dpa-com-20090101-211229-99-538504,Prozesse,dpa,,,30122021,Sueddeutsche,panorama
+Spätes Remis schockt Chelsea - Manchester City auf Titelkurs,29122021_22:13,https://www.sueddeutsche.de/sport/fussball-spaetes-remis-schockt-chelsea-manchester-city-auf-titelkurs-dpa.urn-newsml-dpa-com-20090101-211229-99-538302,Fußball,dpa,,,30122021,Sueddeutsche,sport
+Schnellere Rettung per Radar nach Bergunglücken,29122021_22:02,https://www.sueddeutsche.de/bayern/bayern-bergrettung-radar-lawinen-wintersport-1.5498120,Wintertourismus,,,Vom Hubschrauber aus können Verunglückte nach Lawinenabgängen mit neuen Detektoren schneller gefunden werden. Auch eine Notfall-App soll für mehr Sicherheit am Berg sorgen.,30122021,Sueddeutsche,bayern
 Ein Katz-und-Maus-Spiel mit 5000 Impfgegnern,29122021_21:42,https://www.sueddeutsche.de/muenchen/muenchen-corona-polizei-demo-anzeigen-festnahmen-1.5497953,Münchner Innenstadt,,Von Martin Bernstein und Franz Kotteder,"Mehr als 1000 Beamte sind in München im Einsatz, um illegale Kundgebungen zu stoppen. Die vorläufige Bilanz des Abends: 700 Ordnungswidrigkeitsanzeigen, 1300 Platzverweise und 18 Festnahmen.
 
 
                         
-                            Von Martin Bernstein und Franz Kotteder",30122021,Sueddeutsche
-Nächster Spielausfall: Spurs treten nicht gegen Heat an,29122021_21:08,https://www.sueddeutsche.de/sport/basketball-naechster-spielausfall-spurs-treten-nicht-gegen-heat-an-dpa.urn-newsml-dpa-com-20090101-211229-99-538128,Basketball,dpa,,,30122021,Sueddeutsche
-Zwei Jugendliche bei Unfall mit Roller schwer verletzt,29122021_20:56,https://www.sueddeutsche.de/wirtschaft/verkehr-xanten-zwei-jugendliche-bei-unfall-mit-roller-schwer-verletzt-dpa.urn-newsml-dpa-com-20090101-211229-99-538126,Verkehr - Xanten,dpa,,,30122021,Sueddeutsche
-Rund 400 Corona-Maßnahmen-Gegner bei Versammlung in Würzburg,29122021_20:55,https://www.sueddeutsche.de/bayern/demonstrationen-wuerzburg-rund-400-corona-massnahmen-gegner-bei-versammlung-in-wuerzburg-dpa.urn-newsml-dpa-com-20090101-211229-99-538102,Demonstrationen - Würzburg,dpa,,,30122021,Sueddeutsche
-Darts-WM: Überraschendes Aus für de Sousa - Anderson weiter,29122021_20:53,https://www.sueddeutsche.de/sport/darts-darts-wm-ueberraschendes-aus-fuer-de-sousa-anderson-weiter-dpa.urn-newsml-dpa-com-20090101-211229-99-535478,Darts,dpa,,,30122021,Sueddeutsche
-Passt immer noch nicht,29122021_20:51,https://www.sueddeutsche.de/muenchen/ebersberg/bahnhof-poing-passt-immer-noch-nicht-1.5497730,Bahnhof Poing,,,,30122021,Sueddeutsche
+                            Von Martin Bernstein und Franz Kotteder",30122021,Sueddeutsche,muenchen
+Nächster Spielausfall: Spurs treten nicht gegen Heat an,29122021_21:08,https://www.sueddeutsche.de/sport/basketball-naechster-spielausfall-spurs-treten-nicht-gegen-heat-an-dpa.urn-newsml-dpa-com-20090101-211229-99-538128,Basketball,dpa,,,30122021,Sueddeutsche,sport
+Zwei Jugendliche bei Unfall mit Roller schwer verletzt,29122021_20:56,https://www.sueddeutsche.de/wirtschaft/verkehr-xanten-zwei-jugendliche-bei-unfall-mit-roller-schwer-verletzt-dpa.urn-newsml-dpa-com-20090101-211229-99-538126,Verkehr - Xanten,dpa,,,30122021,Sueddeutsche,wirtschaft
+Rund 400 Corona-Maßnahmen-Gegner bei Versammlung in Würzburg,29122021_20:55,https://www.sueddeutsche.de/bayern/demonstrationen-wuerzburg-rund-400-corona-massnahmen-gegner-bei-versammlung-in-wuerzburg-dpa.urn-newsml-dpa-com-20090101-211229-99-538102,Demonstrationen - Würzburg,dpa,,,30122021,Sueddeutsche,bayern
+Darts-WM: Überraschendes Aus für de Sousa - Anderson weiter,29122021_20:53,https://www.sueddeutsche.de/sport/darts-darts-wm-ueberraschendes-aus-fuer-de-sousa-anderson-weiter-dpa.urn-newsml-dpa-com-20090101-211229-99-535478,Darts,dpa,,,30122021,Sueddeutsche,sport
+Passt immer noch nicht,29122021_20:51,https://www.sueddeutsche.de/muenchen/ebersberg/bahnhof-poing-passt-immer-noch-nicht-1.5497730,Bahnhof Poing,,,,30122021,Sueddeutsche,muenchen
 Zum Autowaschen in die Telefonzelle,29122021_20:51,https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-zum-autowaschen-in-die-telefonzelle-1.5498455,Ebersberg,,"Von Daniel Limmer, Ebersberg","In Ebersberg steht neuerdings ein blauer Kasten, der einer  Fernsprechkabine gleicht. Einen Hörer sucht man darin jedoch vergebens
                         
-                            Von Daniel Limmer, Ebersberg",30122021,Sueddeutsche
-JU holt ausgediente Christbäume ab,29122021_20:51,https://www.sueddeutsche.de/muenchen/ebersberg/junge-union-christbaeume-ensorgung-1.5498200,Landkreis Ebersberg,,,,30122021,Sueddeutsche
+                            Von Daniel Limmer, Ebersberg",30122021,Sueddeutsche,muenchen
+JU holt ausgediente Christbäume ab,29122021_20:51,https://www.sueddeutsche.de/muenchen/ebersberg/junge-union-christbaeume-ensorgung-1.5498200,Landkreis Ebersberg,,,,30122021,Sueddeutsche,muenchen
 Im Westen was Neues,29122021_20:51,https://www.sueddeutsche.de/muenchen/ebersberg/debatte-um-schienenverlauf-im-westen-was-neues-1.5497720,Debatte um Schienenverlauf,,"Von Wieland Bögel, Ebersberg","Geplanter Bahnausbau der Strecke Richtung Rosenheim stößt auf Protest der Anwohner und der Gemeinden
                         
-                            Von Wieland Bögel, Ebersberg",30122021,Sueddeutsche
-Lange Haftstrafe für Kastrationen,29122021_20:51,https://www.sueddeutsche.de/muenchen/ebersberg/urteil-am-landgericht-lange-haftstrafe-fuer-kastrationen-1.5497728,Urteil am Landgericht,,,,30122021,Sueddeutsche
-Grundsätzlich erlaubt,29122021_20:51,https://www.sueddeutsche.de/muenchen/ebersberg/landkreis-ebersberg-silvester-silvesterfeuerwerk-feuerwerk-1.5497955,Silvesterfeuerwerk,,,Landkreis und Kommunen verzichten auf Verbots- oder Sperrzonen für Neujahrsfeiern.,30122021,Sueddeutsche
-Briefkästen mit Böllern gesprengt,29122021_20:51,https://www.sueddeutsche.de/muenchen/ebersberg/poing-boeller-briefkaesten-polizei-1.5497667,Poing,,,,30122021,Sueddeutsche
-Gerettet auf den letzten Metern,29122021_20:51,https://www.sueddeutsche.de/muenchen/ebersberg/kreistag-ebersberg-gerettet-auf-den-letzten-metern-1.5497726,Kreistag Ebersberg,,,Um den Haushalt des Landkreises für 2022 gibt es bis zuletzt Streit,30122021,Sueddeutsche
+                            Von Wieland Bögel, Ebersberg",30122021,Sueddeutsche,muenchen
+Lange Haftstrafe für Kastrationen,29122021_20:51,https://www.sueddeutsche.de/muenchen/ebersberg/urteil-am-landgericht-lange-haftstrafe-fuer-kastrationen-1.5497728,Urteil am Landgericht,,,,30122021,Sueddeutsche,muenchen
+Grundsätzlich erlaubt,29122021_20:51,https://www.sueddeutsche.de/muenchen/ebersberg/landkreis-ebersberg-silvester-silvesterfeuerwerk-feuerwerk-1.5497955,Silvesterfeuerwerk,,,Landkreis und Kommunen verzichten auf Verbots- oder Sperrzonen für Neujahrsfeiern.,30122021,Sueddeutsche,muenchen
+Briefkästen mit Böllern gesprengt,29122021_20:51,https://www.sueddeutsche.de/muenchen/ebersberg/poing-boeller-briefkaesten-polizei-1.5497667,Poing,,,,30122021,Sueddeutsche,muenchen
+Gerettet auf den letzten Metern,29122021_20:51,https://www.sueddeutsche.de/muenchen/ebersberg/kreistag-ebersberg-gerettet-auf-den-letzten-metern-1.5497726,Kreistag Ebersberg,,,Um den Haushalt des Landkreises für 2022 gibt es bis zuletzt Streit,30122021,Sueddeutsche,muenchen
 Wenn Pfleger wegen der Impfpflicht kündigen,29122021_20:51,https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-impfpflicht-corona-gesundheit-pflege-1.5497700,Gesundheit in Ebersberg,,"Von Johanna Feckl, Ebersberg","Die Einrichtungsleiter im Landkreis Ebersberg reagieren besorgt auf die branchenspezifische Regeländerung. Wäre ein Gesetz für alle der bessere Weg?
                         
-                            Von Johanna Feckl, Ebersberg",30122021,Sueddeutsche
-Corona-Zahlen steigen leicht,29122021_20:51,https://www.sueddeutsche.de/muenchen/ebersberg/corona-landkreis-ebersberg-kreisklinik-ebersberg-1.5498210,Landkreis Ebersberg,,,,30122021,Sueddeutsche
-Segen to go,29122021_20:51,https://www.sueddeutsche.de/muenchen/ebersberg/sternsinger-gelting-pliening-1.5498247,Sternsinger in Gelting,,,,30122021,Sueddeutsche
+                            Von Johanna Feckl, Ebersberg",30122021,Sueddeutsche,muenchen
+Corona-Zahlen steigen leicht,29122021_20:51,https://www.sueddeutsche.de/muenchen/ebersberg/corona-landkreis-ebersberg-kreisklinik-ebersberg-1.5498210,Landkreis Ebersberg,,,,30122021,Sueddeutsche,muenchen
+Segen to go,29122021_20:51,https://www.sueddeutsche.de/muenchen/ebersberg/sternsinger-gelting-pliening-1.5498247,Sternsinger in Gelting,,,,30122021,Sueddeutsche,muenchen
 Gleiche Pflicht für alle,29122021_20:51,https://www.sueddeutsche.de/muenchen/ebersberg/impfpflicht-pflege-kreisklinik-landkreis-ebersberg-1.5497860,Kommentar,,"Von Michaela Pelz, Ebersberg","Meinung
                     
                     
                         Menschen in Krankenhäusern und Pflegeeinrichtungen haben in der Pandemie Großartiges geleistet. Dass nun erst einmal eine Impfpflicht nur für sie eingeführt wird, empfinden viele von ihnen als falschen Weg. Zu Recht.
                         
-                            Von Michaela Pelz, Ebersberg",30122021,Sueddeutsche
-CSU macht sich für Sicherheitswacht stark,29122021_20:51,https://www.sueddeutsche.de/muenchen/dachau/landkreis-csu-macht-sich-fuer-sicherheitswacht-stark-1.5498189,Landkreis,,,,30122021,Sueddeutsche
-Betrunkener fährt mit Auto gegen Poller,29122021_20:51,https://www.sueddeutsche.de/muenchen/dachau/unfall-betrunkener-faehrt-mit-auto-gegen-poller-1.5498185,Unfall,,,,30122021,Sueddeutsche
+                            Von Michaela Pelz, Ebersberg",30122021,Sueddeutsche,muenchen
+CSU macht sich für Sicherheitswacht stark,29122021_20:51,https://www.sueddeutsche.de/muenchen/dachau/landkreis-csu-macht-sich-fuer-sicherheitswacht-stark-1.5498189,Landkreis,,,,30122021,Sueddeutsche,muenchen
+Betrunkener fährt mit Auto gegen Poller,29122021_20:51,https://www.sueddeutsche.de/muenchen/dachau/unfall-betrunkener-faehrt-mit-auto-gegen-poller-1.5498185,Unfall,,,,30122021,Sueddeutsche,muenchen
 Dachau ist kein sicherer Hafen,29122021_20:51,https://www.sueddeutsche.de/muenchen/dachau/kreis-dachau-asylbewerber-loewl-1.5498179,Asylpolitik,,Kommentar von Jessica Schober,"Meinung
                     
                     
                         Landrat Stefan Löwl betreibt eine restriktive Asylpolitik. Er versteckt seine politische Verantwortung dafür hinter gesetzlichen Vorgaben aus Berlin.
                         
-                            Kommentar von Jessica Schober",30122021,Sueddeutsche
+                            Kommentar von Jessica Schober",30122021,Sueddeutsche,muenchen

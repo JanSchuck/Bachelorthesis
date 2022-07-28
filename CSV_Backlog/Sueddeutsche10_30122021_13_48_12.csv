@@ -1,92 +1,92 @@
-Titel,Date_Info,URL,Overline,Breadcrumb,author,detailed_informations,Zugriff_Datum,News_page
-IFA geht an Aequita,29122021_17:46,https://www.sueddeutsche.de/wirtschaft/autozulieferer-ifa-geht-an-aequita-1.5497792,Autozulieferer,,,,30122021,Sueddeutsche
-Die dicke Rechnung kommt noch,29122021_17:46,https://www.sueddeutsche.de/wirtschaft/corona-soforthilfen-rueckzahlung-unternehme-1.5498107,Corona-Soforthilfen,,,"Der Staat hat Corona-Soforthilfen für Firmen zu Beginn der Pandemie schnell und unbürokratisch ausgezahlt, nach dem Prinzip: erst helfen, dann prüfen. Nun sollen viele das Geld zurückzahlen - und das ist richtig so.",30122021,Sueddeutsche
-Lange Wunschliste,29122021_17:46,https://www.sueddeutsche.de/wirtschaft/wirtschaftsverbaende-lange-wunschliste-1.5497788,Wirtschaftsverbände,,,,30122021,Sueddeutsche
-"Spider-Man, Spider-Man",29122021_17:45,https://www.sueddeutsche.de/kolumne/weitere-briefe-spider-man-spider-man-1.5493883,Weitere Briefe,,,Rund 30 Filme gehören aktuell zum Marvel Cinematic Universum. Was trägt der neueste Spider-Man-Film dazu bei? Ein SZ-Leser übt Kritik an der Filmkritik.,30122021,Sueddeutsche
-Geistliches Geschwurbel,29122021_17:45,https://www.sueddeutsche.de/kolumne/kirche-geistliches-geschwurbel-1.5493886,Kirche,,,"Kardinal Gerhard Ludwig Müller schlägt erneut verbal um sich - und offenbart dadurch mehr über die Institution der katholischen Kirche, als er an sinnvoller Kritik anbringt, kommentieren SZ-Leserinnen und -Leser.",30122021,Sueddeutsche
-Kein gemeinsamer Nenner in Sicht,29122021_17:45,https://www.sueddeutsche.de/kolumne/impfskepsis-kein-gemeinsamer-nenner-in-sicht-1.5493888,Impfskepsis,,,"Achtsamkeit ist eine Tugend, die in extremster Form ins Asoziale umschlagen kann. Darauf basiert der Zwiespalt zwischen Impfskeptikern und -willigen. Kümmern wir uns zu viel um uns selbst?",30122021,Sueddeutsche
+Titel,Date_Info,URL,Overline,Breadcrumb,author,detailed_informations,Zugriff_Datum,News_page,Kategorie
+IFA geht an Aequita,29122021_17:46,https://www.sueddeutsche.de/wirtschaft/autozulieferer-ifa-geht-an-aequita-1.5497792,Autozulieferer,,,,30122021,Sueddeutsche,wirtschaft
+Die dicke Rechnung kommt noch,29122021_17:46,https://www.sueddeutsche.de/wirtschaft/corona-soforthilfen-rueckzahlung-unternehme-1.5498107,Corona-Soforthilfen,,,"Der Staat hat Corona-Soforthilfen für Firmen zu Beginn der Pandemie schnell und unbürokratisch ausgezahlt, nach dem Prinzip: erst helfen, dann prüfen. Nun sollen viele das Geld zurückzahlen - und das ist richtig so.",30122021,Sueddeutsche,wirtschaft
+Lange Wunschliste,29122021_17:46,https://www.sueddeutsche.de/wirtschaft/wirtschaftsverbaende-lange-wunschliste-1.5497788,Wirtschaftsverbände,,,,30122021,Sueddeutsche,wirtschaft
+"Spider-Man, Spider-Man",29122021_17:45,https://www.sueddeutsche.de/kolumne/weitere-briefe-spider-man-spider-man-1.5493883,Weitere Briefe,,,Rund 30 Filme gehören aktuell zum Marvel Cinematic Universum. Was trägt der neueste Spider-Man-Film dazu bei? Ein SZ-Leser übt Kritik an der Filmkritik.,30122021,Sueddeutsche,kolumne
+Geistliches Geschwurbel,29122021_17:45,https://www.sueddeutsche.de/kolumne/kirche-geistliches-geschwurbel-1.5493886,Kirche,,,"Kardinal Gerhard Ludwig Müller schlägt erneut verbal um sich - und offenbart dadurch mehr über die Institution der katholischen Kirche, als er an sinnvoller Kritik anbringt, kommentieren SZ-Leserinnen und -Leser.",30122021,Sueddeutsche,kolumne
+Kein gemeinsamer Nenner in Sicht,29122021_17:45,https://www.sueddeutsche.de/kolumne/impfskepsis-kein-gemeinsamer-nenner-in-sicht-1.5493888,Impfskepsis,,,"Achtsamkeit ist eine Tugend, die in extremster Form ins Asoziale umschlagen kann. Darauf basiert der Zwiespalt zwischen Impfskeptikern und -willigen. Kümmern wir uns zu viel um uns selbst?",30122021,Sueddeutsche,kolumne
 Höhlengleichnis,29122021_17:45,https://www.sueddeutsche.de/kultur/the-rescue-disney-plus-rezension-1.5497886,"Dokumentarfilm ""The Rescue"" auf Disney+",,Von Tobias Kniebe,"Wie genau gelang es wirklich, zwölf eingeschlossene Jungs und ihren Trainer aus der Tham-Luang-Höhle in Thailand zu befreien? Ein neuer Dokumentarfilm enthüllt die Geheimnisse der Rettungsaktion, die 2018 die Welt in Atem hielt.
                         
-                            Von Tobias Kniebe",30122021,Sueddeutsche
-Österreich erwägt Impfprämie,29122021_17:45,https://www.sueddeutsche.de/politik/pandemie-oesterreich-erwaegt-impfpraemie-1.5497832,Pandemie,,,,30122021,Sueddeutsche
-Weitere Sender der Opposition geschlossen,29122021_17:45,https://www.sueddeutsche.de/politik/ukraine-weitere-sender-der-opposition-geschlossen-1.5497836,Ukraine,,,,30122021,Sueddeutsche
-Nächster Schlag für Memorial,29122021_17:45,https://www.sueddeutsche.de/politik/russland-naechster-schlag-fuer-memorial-1.5497834,Russland,,,,30122021,Sueddeutsche
-Ziele werden 2022 verfehlt,29122021_17:45,https://www.sueddeutsche.de/politik/klimaschutz-ziele-werden-2022-verfehlt-1.5497740,Klimaschutz,,,,30122021,Sueddeutsche
+                            Von Tobias Kniebe",30122021,Sueddeutsche,kultur
+Österreich erwägt Impfprämie,29122021_17:45,https://www.sueddeutsche.de/politik/pandemie-oesterreich-erwaegt-impfpraemie-1.5497832,Pandemie,,,,30122021,Sueddeutsche,politik
+Weitere Sender der Opposition geschlossen,29122021_17:45,https://www.sueddeutsche.de/politik/ukraine-weitere-sender-der-opposition-geschlossen-1.5497836,Ukraine,,,,30122021,Sueddeutsche,politik
+Nächster Schlag für Memorial,29122021_17:45,https://www.sueddeutsche.de/politik/russland-naechster-schlag-fuer-memorial-1.5497834,Russland,,,,30122021,Sueddeutsche,politik
+Ziele werden 2022 verfehlt,29122021_17:45,https://www.sueddeutsche.de/politik/klimaschutz-ziele-werden-2022-verfehlt-1.5497740,Klimaschutz,,,,30122021,Sueddeutsche,politik
 Wohnzimmer-Plausch unter Feinden,29122021_17:45,https://www.sueddeutsche.de/politik/israel-palaestinenser-friedensprozess-1.5498251,Nahost,,"Von Peter Münch, Tel Aviv","Israels Verteidigungsminister Gantz empfängt zu Hause den Palästinenserpräsidenten Abbas. Sie sprechen über Wirtschaftshilfen, aber der Friedensprozess bleibt weiter blockiert.
                         
-                            Von Peter Münch, Tel Aviv",30122021,Sueddeutsche
-Fast 600 Rechtsextremisten gesucht,29122021_17:45,https://www.sueddeutsche.de/politik/fahndungsliste-fast-600-rechtsextremisten-gesucht-1.5497744,Fahndungsliste,,,,30122021,Sueddeutsche
-Deutsche Volkszählung 2022,29122021_17:45,https://www.sueddeutsche.de/politik/einwohnerstatistik-deutsche-volkszaehlung-2022-1.5497742,Einwohnerstatistik,,,,30122021,Sueddeutsche
-Ermittlung gegen Polizisten,29122021_17:45,https://www.sueddeutsche.de/politik/corona-protest-ermittlung-gegen-polizisten-1.5498104,Corona-Protest,,,,30122021,Sueddeutsche
-"""Persönliche Entscheidung""",29122021_17:45,https://www.sueddeutsche.de/politik/politik-und-olympiade-in-china-persoenliche-entscheidung-1.5498269,Politik und Olympiade in China,,,"Warum Außenministerin Annalena Baerbock   nicht zu den Olympischen Winterspielen nach Peking reist - obwohl sie ein ""großer Sportfan"" ist.",30122021,Sueddeutsche
+                            Von Peter Münch, Tel Aviv",30122021,Sueddeutsche,politik
+Fast 600 Rechtsextremisten gesucht,29122021_17:45,https://www.sueddeutsche.de/politik/fahndungsliste-fast-600-rechtsextremisten-gesucht-1.5497744,Fahndungsliste,,,,30122021,Sueddeutsche,politik
+Deutsche Volkszählung 2022,29122021_17:45,https://www.sueddeutsche.de/politik/einwohnerstatistik-deutsche-volkszaehlung-2022-1.5497742,Einwohnerstatistik,,,,30122021,Sueddeutsche,politik
+Ermittlung gegen Polizisten,29122021_17:45,https://www.sueddeutsche.de/politik/corona-protest-ermittlung-gegen-polizisten-1.5498104,Corona-Protest,,,,30122021,Sueddeutsche,politik
+"""Persönliche Entscheidung""",29122021_17:45,https://www.sueddeutsche.de/politik/politik-und-olympiade-in-china-persoenliche-entscheidung-1.5498269,Politik und Olympiade in China,,,"Warum Außenministerin Annalena Baerbock   nicht zu den Olympischen Winterspielen nach Peking reist - obwohl sie ein ""großer Sportfan"" ist.",30122021,Sueddeutsche,politik
 Undiplomatisch,29122021_17:45,https://www.sueddeutsche.de/meinung/annalena-baerbock-china-olympische-spiele-1.5498266,Annalena Baerbock,,Von Alexandra Föderl-Schmid,"Meinung
                     
                     
                         Die deutsche Außenministerin reist nicht zu den Olympischen Spielen nach Peking - und prescht damit vor.
                         
-                            Von Alexandra Föderl-Schmid",30122021,Sueddeutsche
+                            Von Alexandra Föderl-Schmid",30122021,Sueddeutsche,meinung
 mild,29122021_17:45,https://www.sueddeutsche.de/meinung/coronavirus-milder-verlauf-krankheitssymptome-1.5498007,Aktuelles Lexikon,,Von Marlene Weiß,"Ist ein ""milder"" Covid-Verlauf immer harmlos? Gesundheitsexperten verwenden den Begriff anders, als es die Alltagssprache vermuten lässt.
                         
-                            Von Marlene Weiß",30122021,Sueddeutsche
+                            Von Marlene Weiß",30122021,Sueddeutsche,meinung
 Diese Deutschen,29122021_17:45,https://www.sueddeutsche.de/meinung/eu-deutschland-frankreich-vereinigte-staaten-von-europa-orban-1.5498109,EU,,Kommentar von Josef Kelnberger,"Meinung
                     
                     
                         Emmanuel Macron wollte von Berlin immer eine Vision. Jetzt ist eine da: Die Ampel will sich für ""Vereinigte Staaten von Europa"" einsetzen. Na toll.
                         
-                            Kommentar von Josef Kelnberger",30122021,Sueddeutsche
-Das Streiflicht,29122021_17:45,https://www.sueddeutsche.de/politik/glosse-das-streiflicht-1.5498203,Glosse,,,,30122021,Sueddeutsche
+                            Kommentar von Josef Kelnberger",30122021,Sueddeutsche,meinung
+Das Streiflicht,29122021_17:45,https://www.sueddeutsche.de/politik/glosse-das-streiflicht-1.5498203,Glosse,,,,30122021,Sueddeutsche,politik
 Kühler als Frost,29122021_17:45,https://www.sueddeutsche.de/politik/grossbritannien-brexit-johnson-frost-truss-1.5498023,Britische Regierung,,"Von Michael Neudecker, London","Boris Johnson versuchte zuletzt, den Tonfall im Dauerstreit mit der EU etwas versöhnlicher zu gestalten. Doch er hat auch eine neue Außenministerin ernannt. Und die gibt sich ein wenig anders. 
                         
-                            Von Michael Neudecker, London",30122021,Sueddeutsche
+                            Von Michael Neudecker, London",30122021,Sueddeutsche,politik
 Im Zweifel unglaubwürdig,29122021_17:45,https://www.sueddeutsche.de/politik/brexit-nordirland-eu-aequivalenz-johnson-1.5498028,Verhandlungen,,"Von Björn Finke, Brüssel","Warum die EU davon ausgeht, dass es mit der Regierung in London auch im kommenden Jahr Streit geben wird.
                         
-                            Von Björn Finke, Brüssel",30122021,Sueddeutsche
+                            Von Björn Finke, Brüssel",30122021,Sueddeutsche,politik
 Im Jahr der Leere,29122021_17:45,https://www.sueddeutsche.de/politik/grossbritannien-lieferengpaesse-brexit-eu-corona-1.5498026,Brexit-Folgen,,"Von Alexander Mühlauer, London","Kein Mozzarella, Milchshakes knapp, Schlangen vor den Tankstellen - der EU-Austritt trifft die Briten spürbar. Trotzdem hofft die Regierung, dass ihr die Engpässe am Ende nicht schaden. 
                         
-                            Von Alexander Mühlauer, London",30122021,Sueddeutsche
+                            Von Alexander Mühlauer, London",30122021,Sueddeutsche,politik
 Große Fische,29122021_17:45,https://www.sueddeutsche.de/politik/streaming-regulierung-netflix-quote-1.5498141,Streamingdienste,,Von Nadja Tausche,"Wie Länder Einfluss auf das Angebot von Netflix nehmen wollen.
                         
-                            Von Nadja Tausche",30122021,Sueddeutsche
+                            Von Nadja Tausche",30122021,Sueddeutsche,politik
 Hat Deutschland ein Problem mit Kindern?,29122021_17:45,https://www.sueddeutsche.de/politik/kinder-schulschliessungen-deutschland-frankreich-japan-daenemark-kinderrechte-menschenrechte-pandemie-un-kinderrechtskonvention-1.5498324,Menschenrechte,,"Von Thomas Hahn, Nadia Pantel, Kai Strittmatter und Tobias Zick, Kopenhagen/München/Paris/Tokio","Schulschließungen in Rekordlänge, keine Kinderrechte im Grundgesetz, der Skandal um den Kinderpsychiater Winterhoff - da fragt man sich: Welche Rolle spielt das Wohlergehen von Kindern in Deutschland?
                         
-                            Von Thomas Hahn, Nadia Pantel, Kai Strittmatter und Tobias Zick, Kopenhagen/München/Paris/Tokio",30122021,Sueddeutsche
+                            Von Thomas Hahn, Nadia Pantel, Kai Strittmatter und Tobias Zick, Kopenhagen/München/Paris/Tokio",30122021,Sueddeutsche,politik
 """Bitte feiern Sie in ganz kleiner Runde""",29122021_17:45,https://www.sueddeutsche.de/politik/corona-inzidenz-unterschaetzt-1.5498319,Corona,,Von Henrike Roßbach,"Gesundheitsminister Lauterbach mahnt vor Silvester zur Vorsicht. Die Infektionswerte seien deutlich höher als die offizielle Inzidenz.
                         
-                            Von Henrike Roßbach",30122021,Sueddeutsche
-Prozess zu Juwelendiebstahl in Dresden ab 28. Januar,29122021_17:39,https://www.sueddeutsche.de/panorama/kriminalitaet-prozess-zu-juwelendiebstahl-in-dresden-ab-28-januar-dpa.urn-newsml-dpa-com-20090101-211229-99-533401,Kriminalität,dpa,,,30122021,Sueddeutsche
-"Antisemitismusbeauftragter auf der ""Antisemiten-Liste""",29122021_17:37,https://www.sueddeutsche.de/politik/international-baden-baden-antisemitismusbeauftragter-auf-der-antisemiten-liste-dpa.urn-newsml-dpa-com-20090101-211229-99-532885,International - Baden-Baden,dpa,,,30122021,Sueddeutsche
+                            Von Henrike Roßbach",30122021,Sueddeutsche,politik
+Prozess zu Juwelendiebstahl in Dresden ab 28. Januar,29122021_17:39,https://www.sueddeutsche.de/panorama/kriminalitaet-prozess-zu-juwelendiebstahl-in-dresden-ab-28-januar-dpa.urn-newsml-dpa-com-20090101-211229-99-533401,Kriminalität,dpa,,,30122021,Sueddeutsche,panorama
+"Antisemitismusbeauftragter auf der ""Antisemiten-Liste""",29122021_17:37,https://www.sueddeutsche.de/politik/international-baden-baden-antisemitismusbeauftragter-auf-der-antisemiten-liste-dpa.urn-newsml-dpa-com-20090101-211229-99-532885,International - Baden-Baden,dpa,,,30122021,Sueddeutsche,politik
 Vom Weltreisenden zum Hüter des grünen Hauses,29122021_17:36,https://www.sueddeutsche.de/politik/nouripour-gruene-parteivorsitz-1.5498343,Grüne,,"Von Constanze von Bullion, Berlin","Omid Nouripour hat sich bisher kaum mit grünen Themen, sondern vor allem auf dem Feld der Außenpolitik Gehör verschafft - trotzdem gilt er als Favorit für den Parteivorsitz. Was ist von ihm politisch zu erwarten?
                         
-                            Von Constanze von Bullion, Berlin",30122021,Sueddeutsche
-Initiative Freie Bauern fordern Maßnahmen für höhere Erlöse,29122021_17:28,https://www.sueddeutsche.de/wirtschaft/agrar-legdequitzoebel-initiative-freie-bauern-fordern-massnahmen-fuer-hoehere-erloese-dpa.urn-newsml-dpa-com-20090101-211229-99-533183,Agrar - Legde/Quitzöbel,dpa,,,30122021,Sueddeutsche
-Gewinnserie beim Dax gerissen,29122021_17:24,https://www.sueddeutsche.de/wirtschaft/boersen-gewinnserie-beim-dax-gerissen-dpa.urn-newsml-dpa-com-20090101-211229-99-531547,Börsen,dpa,,,30122021,Sueddeutsche
-Bund: Booster-Impfungen für Kinder und Jugendliche möglich,29122021_17:23,https://www.sueddeutsche.de/gesundheit/gesundheit-bund-booster-impfungen-fuer-kinder-und-jugendliche-moeglich-dpa.urn-newsml-dpa-com-20090101-211229-99-536943,Gesundheit,dpa,,,30122021,Sueddeutsche
-Haus Rabenhorst ruft vorsorglich Artikel zurück,29122021_17:22,https://www.sueddeutsche.de/wirtschaft/verbraucher-unkel-haus-rabenhorst-ruft-vorsorglich-artikel-zurueck-dpa.urn-newsml-dpa-com-20090101-211229-99-536998,Verbraucher - Unkel,dpa,,,30122021,Sueddeutsche
-Geiger wird Fünfter zum Auftakt der Vierschanzentournee,29122021_17:20,https://www.sueddeutsche.de/sport/vierschanzentournee-oberstdorf-skispringen-geiger-1.5498385,Skispringen,,,"Der Japaner Ryoyu Kobayashi gewinnt das erste Springen in Oberstdorf vor drei Norwegern. Drei Deutsche landen unter den besten Zehn, Severin Freund wird disqualifiziert, Vorjahressieger Stoch verpasst den zweiten Durchgang.",30122021,Sueddeutsche
+                            Von Constanze von Bullion, Berlin",30122021,Sueddeutsche,politik
+Initiative Freie Bauern fordern Maßnahmen für höhere Erlöse,29122021_17:28,https://www.sueddeutsche.de/wirtschaft/agrar-legdequitzoebel-initiative-freie-bauern-fordern-massnahmen-fuer-hoehere-erloese-dpa.urn-newsml-dpa-com-20090101-211229-99-533183,Agrar - Legde/Quitzöbel,dpa,,,30122021,Sueddeutsche,wirtschaft
+Gewinnserie beim Dax gerissen,29122021_17:24,https://www.sueddeutsche.de/wirtschaft/boersen-gewinnserie-beim-dax-gerissen-dpa.urn-newsml-dpa-com-20090101-211229-99-531547,Börsen,dpa,,,30122021,Sueddeutsche,wirtschaft
+Bund: Booster-Impfungen für Kinder und Jugendliche möglich,29122021_17:23,https://www.sueddeutsche.de/gesundheit/gesundheit-bund-booster-impfungen-fuer-kinder-und-jugendliche-moeglich-dpa.urn-newsml-dpa-com-20090101-211229-99-536943,Gesundheit,dpa,,,30122021,Sueddeutsche,gesundheit
+Haus Rabenhorst ruft vorsorglich Artikel zurück,29122021_17:22,https://www.sueddeutsche.de/wirtschaft/verbraucher-unkel-haus-rabenhorst-ruft-vorsorglich-artikel-zurueck-dpa.urn-newsml-dpa-com-20090101-211229-99-536998,Verbraucher - Unkel,dpa,,,30122021,Sueddeutsche,wirtschaft
+Geiger wird Fünfter zum Auftakt der Vierschanzentournee,29122021_17:20,https://www.sueddeutsche.de/sport/vierschanzentournee-oberstdorf-skispringen-geiger-1.5498385,Skispringen,,,"Der Japaner Ryoyu Kobayashi gewinnt das erste Springen in Oberstdorf vor drei Norwegern. Drei Deutsche landen unter den besten Zehn, Severin Freund wird disqualifiziert, Vorjahressieger Stoch verpasst den zweiten Durchgang.",30122021,Sueddeutsche,sport
 """Ich habe das Kernkraftwerk 50 Jahre begleitet""",29122021_17:20,https://www.sueddeutsche.de/bayern/bayern-akw-gundremmingen-reaktor-atomkraft-abschaltung-1.5497965,AKW Gundremmingen,,Von Thomas Stöppler,"Zum Jahreswechsel geht das AKW Gundremmingen vom Netz. Die Perspektiven von Aktivisten und Dorfbewohnern könnten kaum unterschiedlicher sein. Über eine reichgewordene Gemeinde, einen ""Atompfarrer"" - und die bevorstehenden Herausforderungen. 
                         
-                            Von Thomas Stöppler",30122021,Sueddeutsche
-Lauterbach: Corona-Zahlen tatsächlich höher,29122021_17:19,https://www.sueddeutsche.de/gesundheit/gesundheit-lauterbach-corona-zahlen-tatsaechlich-hoeher-dpa.urn-newsml-dpa-com-20090101-211229-99-533262,Gesundheit,dpa,,,30122021,Sueddeutsche
-Aus fürs massenhafte Kükentöten - Warnungen der Branche,29122021_17:18,https://www.sueddeutsche.de/wirtschaft/agrar-aus-fuers-massenhafte-kuekentoeten-warnungen-der-branche-dpa.urn-newsml-dpa-com-20090101-211229-99-532062,Agrar,dpa,,,30122021,Sueddeutsche
-Säugling aus München nach Unfall auf A7 gestorben,29122021_17:17,https://www.sueddeutsche.de/muenchen/muenchen-saeugling-unfall-a7-1.5498379,Polizei,,,"Am ersten Weihnachtstag kam der Wagen der fünfköpfigen Familie von der Fahrbahn ab, überschlug sich und blieb auf dem Dach liegen. Die 29-jährige Mutter und der Junge wurden dabei aus dem Auto geschleudert.",30122021,Sueddeutsche
+                            Von Thomas Stöppler",30122021,Sueddeutsche,bayern
+Lauterbach: Corona-Zahlen tatsächlich höher,29122021_17:19,https://www.sueddeutsche.de/gesundheit/gesundheit-lauterbach-corona-zahlen-tatsaechlich-hoeher-dpa.urn-newsml-dpa-com-20090101-211229-99-533262,Gesundheit,dpa,,,30122021,Sueddeutsche,gesundheit
+Aus fürs massenhafte Kükentöten - Warnungen der Branche,29122021_17:18,https://www.sueddeutsche.de/wirtschaft/agrar-aus-fuers-massenhafte-kuekentoeten-warnungen-der-branche-dpa.urn-newsml-dpa-com-20090101-211229-99-532062,Agrar,dpa,,,30122021,Sueddeutsche,wirtschaft
+Säugling aus München nach Unfall auf A7 gestorben,29122021_17:17,https://www.sueddeutsche.de/muenchen/muenchen-saeugling-unfall-a7-1.5498379,Polizei,,,"Am ersten Weihnachtstag kam der Wagen der fünfköpfigen Familie von der Fahrbahn ab, überschlug sich und blieb auf dem Dach liegen. Die 29-jährige Mutter und der Junge wurden dabei aus dem Auto geschleudert.",30122021,Sueddeutsche,muenchen
 "Boostern, bitte - Berlins regierende Bürgermeisterin Franziska Giffey besucht Impfzentrum",29122021_17:13,https://www.sueddeutsche.de/politik/boostern-bitte-berlins-regierende-buergermeisterin-franziska-giffey-besucht-impfzentrum-1.5498375,,,,"Video
                     
                     
-                        Die Auffrischimpfungen seien eine wichtige Maßnahme, um die kritische Infrastruktur der Stadt aufrechtzuerhalten, sagte Giffey.",30122021,Sueddeutsche
-Spinne beißt Supermarkt-Mitarbeiter: Tier nicht gefunden,29122021_17:13,https://www.sueddeutsche.de/leben/tiere-georgsmarienhuette-spinne-beisst-supermarkt-mitarbeiter-tier-nicht-gefunden-dpa.urn-newsml-dpa-com-20090101-211229-99-535976,Tiere - Georgsmarienhütte,dpa,,,30122021,Sueddeutsche
-Spinne beißt Supermarkt-Mitarbeiter - Tier nicht gefunden,29122021_17:12,https://www.sueddeutsche.de/leben/tiere-spinne-beisst-supermarkt-mitarbeiter-tier-nicht-gefunden-dpa.urn-newsml-dpa-com-20090101-211229-99-536890,Tiere,dpa,,,30122021,Sueddeutsche
-Hamburg bereitet sich erneut auf Corona-Silvester vor,29122021_17:10,https://www.sueddeutsche.de/service/jahreswechsel-hamburg-hamburg-bereitet-sich-erneut-auf-corona-silvester-vor-dpa.urn-newsml-dpa-com-20090101-211229-99-530665,Jahreswechsel - Hamburg,dpa,,,30122021,Sueddeutsche
+                        Die Auffrischimpfungen seien eine wichtige Maßnahme, um die kritische Infrastruktur der Stadt aufrechtzuerhalten, sagte Giffey.",30122021,Sueddeutsche,politik
+Spinne beißt Supermarkt-Mitarbeiter: Tier nicht gefunden,29122021_17:13,https://www.sueddeutsche.de/leben/tiere-georgsmarienhuette-spinne-beisst-supermarkt-mitarbeiter-tier-nicht-gefunden-dpa.urn-newsml-dpa-com-20090101-211229-99-535976,Tiere - Georgsmarienhütte,dpa,,,30122021,Sueddeutsche,leben
+Spinne beißt Supermarkt-Mitarbeiter - Tier nicht gefunden,29122021_17:12,https://www.sueddeutsche.de/leben/tiere-spinne-beisst-supermarkt-mitarbeiter-tier-nicht-gefunden-dpa.urn-newsml-dpa-com-20090101-211229-99-536890,Tiere,dpa,,,30122021,Sueddeutsche,leben
+Hamburg bereitet sich erneut auf Corona-Silvester vor,29122021_17:10,https://www.sueddeutsche.de/service/jahreswechsel-hamburg-hamburg-bereitet-sich-erneut-auf-corona-silvester-vor-dpa.urn-newsml-dpa-com-20090101-211229-99-530665,Jahreswechsel - Hamburg,dpa,,,30122021,Sueddeutsche,service
 Es staut sich,29122021_17:10,https://www.sueddeutsche.de/muenchen/erding/hochwasserschutz-erding-es-staut-sich-1.5498308,Hochwasserschutz Erding,,"Von Regina Bluhme, Erding","Die Bürgerinitiative Naturnaher Hochwasserschutz Sempt fordert Nachbesserungen, vor allem für den Überlastfall. Die Planer vom Wasserwirtschaftsamt wollen aber endlich loslegen
                         
-                            Von Regina Bluhme, Erding",30122021,Sueddeutsche
-Fanatismus bei Impfgegnern: Kundgebung in München abgesagt,29122021_17:08,https://www.sueddeutsche.de/bayern/demonstrationen-muenchen-fanatismus-bei-impfgegnern-kundgebung-in-muenchen-abgesagt-dpa.urn-newsml-dpa-com-20090101-211229-99-535475,Demonstrationen - München,dpa,,,30122021,Sueddeutsche
-Rauch aus dem Trafohaus: Stromausfall in Affalterbach,29122021_17:07,https://www.sueddeutsche.de/panorama/braende-affalterbach-rauch-aus-dem-trafohaus-stromausfall-in-affalterbach-dpa.urn-newsml-dpa-com-20090101-211229-99-536873,Brände - Affalterbach,dpa,,,30122021,Sueddeutsche
-Verband kritisiert Feuerwerksverkaufsverbot,29122021_17:06,https://www.sueddeutsche.de/panorama/justiz-verband-kritisiert-feuerwerksverkaufsverbot-dpa.urn-newsml-dpa-com-20090101-211229-99-536828,Justiz,dpa,,,30122021,Sueddeutsche
-Senatorin: Booster nach drei Monaten für 12- bis 18-Jährige,29122021_17:04,https://www.sueddeutsche.de/gesundheit/gesundheit-berlin-senatorin-booster-nach-drei-monaten-fuer-12-bis-18-jaehrige-dpa.urn-newsml-dpa-com-20090101-211229-99-536774,Gesundheit - Berlin,dpa,,,30122021,Sueddeutsche
+                            Von Regina Bluhme, Erding",30122021,Sueddeutsche,muenchen
+Fanatismus bei Impfgegnern: Kundgebung in München abgesagt,29122021_17:08,https://www.sueddeutsche.de/bayern/demonstrationen-muenchen-fanatismus-bei-impfgegnern-kundgebung-in-muenchen-abgesagt-dpa.urn-newsml-dpa-com-20090101-211229-99-535475,Demonstrationen - München,dpa,,,30122021,Sueddeutsche,bayern
+Rauch aus dem Trafohaus: Stromausfall in Affalterbach,29122021_17:07,https://www.sueddeutsche.de/panorama/braende-affalterbach-rauch-aus-dem-trafohaus-stromausfall-in-affalterbach-dpa.urn-newsml-dpa-com-20090101-211229-99-536873,Brände - Affalterbach,dpa,,,30122021,Sueddeutsche,panorama
+Verband kritisiert Feuerwerksverkaufsverbot,29122021_17:06,https://www.sueddeutsche.de/panorama/justiz-verband-kritisiert-feuerwerksverkaufsverbot-dpa.urn-newsml-dpa-com-20090101-211229-99-536828,Justiz,dpa,,,30122021,Sueddeutsche,panorama
+Senatorin: Booster nach drei Monaten für 12- bis 18-Jährige,29122021_17:04,https://www.sueddeutsche.de/gesundheit/gesundheit-berlin-senatorin-booster-nach-drei-monaten-fuer-12-bis-18-jaehrige-dpa.urn-newsml-dpa-com-20090101-211229-99-536774,Gesundheit - Berlin,dpa,,,30122021,Sueddeutsche,gesundheit
 """Sterneküche war ein richtiger Schock für mich""",29122021_17:02,https://www.sueddeutsche.de/wirtschaft/reden-wir-ueber-geld-zora-klipp-ard-steffen-henssler-1.5497902,Reden wir über Geld,,Interview von Saskia Aleythe und Peter Burghardt,"Zora Klipp ist eine der wenigen Köchinnen im deutschen Fernsehen. Ein Gespräch über koksende Küchenchefs, die beste Zubereitung von Rosenkohl - und ihr eigenes Lokal, das sie mitten in der Pandemie eröffnete.
                         
-                            Interview von Saskia Aleythe und Peter Burghardt",30122021,Sueddeutsche
+                            Interview von Saskia Aleythe und Peter Burghardt",30122021,Sueddeutsche,wirtschaft
 Die Geschichte des Käses,29122021_16:57,https://www.sueddeutsche.de/wissen/kaese-geschichte-mensch-fruehzeit-1.5498246,Kulinarik in der Eisenzeit,,Von Niccolò Schmitter,"Ohne es zu beabsichtigen, haben Forscher in Oberösterreich den bislang ältesten Beleg für die Herstellung von Blauschimmelkäse gefunden. Was das über die Menschen von damals erzählt.
                         
-                            Von Niccolò Schmitter",30122021,Sueddeutsche
-Corona-Fallzahlen weiter auf hohem Niveau,29122021_16:55,https://www.sueddeutsche.de/gesundheit/gesundheit-stuttgart-corona-fallzahlen-weiter-auf-hohem-niveau-dpa.urn-newsml-dpa-com-20090101-211229-99-536790,Gesundheit - Stuttgart,dpa,,,30122021,Sueddeutsche
+                            Von Niccolò Schmitter",30122021,Sueddeutsche,wissen
+Corona-Fallzahlen weiter auf hohem Niveau,29122021_16:55,https://www.sueddeutsche.de/gesundheit/gesundheit-stuttgart-corona-fallzahlen-weiter-auf-hohem-niveau-dpa.urn-newsml-dpa-com-20090101-211229-99-536790,Gesundheit - Stuttgart,dpa,,,30122021,Sueddeutsche,gesundheit

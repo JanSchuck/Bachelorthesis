@@ -1,4 +1,0 @@
-07-Feb-22 08:37:45 - INFO - Log file /Users/jan/Documents/Python_Projects/Bachelorthesis/log/07-Feb-22_08:37:45.log created
-07-Feb-22 08:37:45 - INFO - Spiegel: Start scraping Spiegel news page...
-07-Feb-22 08:37:45 - INFO - Spiegel: Scraping Spiegel @ https://www.spiegel.de/schlagzeilen/
-07-Feb-22 08:37:45 - INFO - Starting Chromedriver with @ https://www.spiegel.de/schlagzeilen/ and loadingTime 10s

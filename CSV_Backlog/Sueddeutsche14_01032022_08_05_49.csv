@@ -1,85 +1,85 @@
-Titel,Date_Info,URL,Overline,Breadcrumb,author,detailed_informations,Zugriff_Datum,News_page
-"Sieben-Tage-Inzidenz in Schleswig-Holstein steigt auf 876,9",28022022_19:37,https://www.sueddeutsche.de/gesundheit/gesundheit-kiel-sieben-tage-inzidenz-in-schleswig-holstein-steigt-auf-8769-dpa.urn-newsml-dpa-com-20090101-220228-99-328540,Gesundheit - Kiel,dpa,,,01032022,Sueddeutsche
-Weltreiterverband: Vorerst keine Events mehr in Russland,28022022_19:37,https://www.sueddeutsche.de/politik/sportpolitik-weltreiterverband-vorerst-keine-events-mehr-in-russland-dpa.urn-newsml-dpa-com-20090101-220228-99-328538,Sportpolitik,dpa,,,01032022,Sueddeutsche
-Nationale Gasreserve geplant - Sorgen wegen Abhängigkeit,28022022_19:35,https://www.sueddeutsche.de/politik/konflikte-nationale-gasreserve-geplant-sorgen-wegen-abhaengigkeit-dpa.urn-newsml-dpa-com-20090101-220228-99-324861,Konflikte,dpa,,,01032022,Sueddeutsche
-Tui: Sanktionen gegen russischen Großaktionär ohne Folgen,28022022_19:30,https://www.sueddeutsche.de/politik/konflikte-hannover-tui-sanktionen-gegen-russischen-grossaktionaer-ohne-folgen-dpa.urn-newsml-dpa-com-20090101-220228-99-325897,Konflikte - Hannover,dpa,,,01032022,Sueddeutsche
-Bayern-Frauen deklassieren Carl Zeiss Jena,28022022_19:30,https://www.sueddeutsche.de/sport/fussball-bayern-frauen-deklassieren-carl-zeiss-jena-dpa.urn-newsml-dpa-com-20090101-220228-99-328459,Fußball,dpa,,,01032022,Sueddeutsche
-Bisher 16 Ukraine-Flüchtlinge in Brandenburger Erstaufnahme,28022022_19:30,https://www.sueddeutsche.de/politik/konflikte-eisenhuettenstadt-bisher-16-ukraine-fluechtlinge-in-brandenburger-erstaufnahme-dpa.urn-newsml-dpa-com-20090101-220226-99-297280,Konflikte - Eisenhüttenstadt,dpa,,,01032022,Sueddeutsche
-Pokal: FC Bayern-Frauen deklassieren FC Carl Zeiss Jena: 9:1,28022022_19:28,https://www.sueddeutsche.de/bayern/fussball-jena-pokal-fc-bayern-frauen-deklassieren-fc-carl-zeiss-jena-91-dpa.urn-newsml-dpa-com-20090101-220228-99-328468,Fußball - Jena,dpa,,,01032022,Sueddeutsche
-Shell beendet Zusammenarbeit mit Gazprom,28022022_19:22,https://www.sueddeutsche.de/politik/konflikte-shell-beendet-zusammenarbeit-mit-gazprom-dpa.urn-newsml-dpa-com-20090101-220228-99-328321,Konflikte,dpa,,,01032022,Sueddeutsche
-Auch USA belegen russische Zentralbank mit Sanktionen,28022022_19:20,https://www.sueddeutsche.de/politik/konflikte-auch-usa-belegen-russische-zentralbank-mit-sanktionen-dpa.urn-newsml-dpa-com-20090101-220228-99-316326,Konflikte,dpa,,,01032022,Sueddeutsche
+Titel,Date_Info,URL,Overline,Breadcrumb,author,detailed_informations,Zugriff_Datum,News_page,Kategorie
+"Sieben-Tage-Inzidenz in Schleswig-Holstein steigt auf 876,9",28022022_19:37,https://www.sueddeutsche.de/gesundheit/gesundheit-kiel-sieben-tage-inzidenz-in-schleswig-holstein-steigt-auf-8769-dpa.urn-newsml-dpa-com-20090101-220228-99-328540,Gesundheit - Kiel,dpa,,,01032022,Sueddeutsche,gesundheit
+Weltreiterverband: Vorerst keine Events mehr in Russland,28022022_19:37,https://www.sueddeutsche.de/politik/sportpolitik-weltreiterverband-vorerst-keine-events-mehr-in-russland-dpa.urn-newsml-dpa-com-20090101-220228-99-328538,Sportpolitik,dpa,,,01032022,Sueddeutsche,politik
+Nationale Gasreserve geplant - Sorgen wegen Abhängigkeit,28022022_19:35,https://www.sueddeutsche.de/politik/konflikte-nationale-gasreserve-geplant-sorgen-wegen-abhaengigkeit-dpa.urn-newsml-dpa-com-20090101-220228-99-324861,Konflikte,dpa,,,01032022,Sueddeutsche,politik
+Tui: Sanktionen gegen russischen Großaktionär ohne Folgen,28022022_19:30,https://www.sueddeutsche.de/politik/konflikte-hannover-tui-sanktionen-gegen-russischen-grossaktionaer-ohne-folgen-dpa.urn-newsml-dpa-com-20090101-220228-99-325897,Konflikte - Hannover,dpa,,,01032022,Sueddeutsche,politik
+Bayern-Frauen deklassieren Carl Zeiss Jena,28022022_19:30,https://www.sueddeutsche.de/sport/fussball-bayern-frauen-deklassieren-carl-zeiss-jena-dpa.urn-newsml-dpa-com-20090101-220228-99-328459,Fußball,dpa,,,01032022,Sueddeutsche,sport
+Bisher 16 Ukraine-Flüchtlinge in Brandenburger Erstaufnahme,28022022_19:30,https://www.sueddeutsche.de/politik/konflikte-eisenhuettenstadt-bisher-16-ukraine-fluechtlinge-in-brandenburger-erstaufnahme-dpa.urn-newsml-dpa-com-20090101-220226-99-297280,Konflikte - Eisenhüttenstadt,dpa,,,01032022,Sueddeutsche,politik
+Pokal: FC Bayern-Frauen deklassieren FC Carl Zeiss Jena: 9:1,28022022_19:28,https://www.sueddeutsche.de/bayern/fussball-jena-pokal-fc-bayern-frauen-deklassieren-fc-carl-zeiss-jena-91-dpa.urn-newsml-dpa-com-20090101-220228-99-328468,Fußball - Jena,dpa,,,01032022,Sueddeutsche,bayern
+Shell beendet Zusammenarbeit mit Gazprom,28022022_19:22,https://www.sueddeutsche.de/politik/konflikte-shell-beendet-zusammenarbeit-mit-gazprom-dpa.urn-newsml-dpa-com-20090101-220228-99-328321,Konflikte,dpa,,,01032022,Sueddeutsche,politik
+Auch USA belegen russische Zentralbank mit Sanktionen,28022022_19:20,https://www.sueddeutsche.de/politik/konflikte-auch-usa-belegen-russische-zentralbank-mit-sanktionen-dpa.urn-newsml-dpa-com-20090101-220228-99-316326,Konflikte,dpa,,,01032022,Sueddeutsche,politik
 Montagsdemos stehen unter dem Eindruck des Krieges,28022022_19:19,https://www.sueddeutsche.de/muenchen/fuerstenfeldbruck/montagsdemos-impfpflicht-ukraine-spaziergaenger-1.5538754,In Fürstenfeldbruck,,"Von Peter Bierl, Fürstenfeldbruck","Gegner und Befürworter der Corona-Politik nehmen Bezug zur Ukraine
                         
-                            Von Peter Bierl, Fürstenfeldbruck",01032022,Sueddeutsche
-Mallorca hebt fast alle Corona-Einschränkungen auf,28022022_19:16,https://www.sueddeutsche.de/gesundheit/gesundheit-mallorca-hebt-fast-alle-corona-einschraenkungen-auf-dpa.urn-newsml-dpa-com-20090101-220228-99-328342,Gesundheit,dpa,,,01032022,Sueddeutsche
-Mehrere Turniere aufgrund des Kriegs in der Ukraine abgesagt,28022022_19:05,https://www.sueddeutsche.de/sport/e-sport-mehrere-turniere-aufgrund-des-kriegs-in-der-ukraine-abgesagt-dpa.urn-newsml-dpa-com-20090101-220228-99-328286,E-Sport,dpa,,,01032022,Sueddeutsche
+                            Von Peter Bierl, Fürstenfeldbruck",01032022,Sueddeutsche,muenchen
+Mallorca hebt fast alle Corona-Einschränkungen auf,28022022_19:16,https://www.sueddeutsche.de/gesundheit/gesundheit-mallorca-hebt-fast-alle-corona-einschraenkungen-auf-dpa.urn-newsml-dpa-com-20090101-220228-99-328342,Gesundheit,dpa,,,01032022,Sueddeutsche,gesundheit
+Mehrere Turniere aufgrund des Kriegs in der Ukraine abgesagt,28022022_19:05,https://www.sueddeutsche.de/sport/e-sport-mehrere-turniere-aufgrund-des-kriegs-in-der-ukraine-abgesagt-dpa.urn-newsml-dpa-com-20090101-220228-99-328286,E-Sport,dpa,,,01032022,Sueddeutsche,sport
 Kinderkrankenhaus im Belagerungszustand,28022022_18:59,https://www.sueddeutsche.de/politik/kinderkrankenhaus-im-belagerungszustand-1.5538747,,,,"Video
                     
                     
-                        Im Keller eines Kinderkrankenhauses in Kiew haben die kleinen Patienten und ihre Eltern Schutz vor den russischen Luftangriffen gesucht.",01032022,Sueddeutsche
-DFB und DFL unterstützen Ausschluss von Russland,28022022_18:56,https://www.sueddeutsche.de/sport/fussball-leipzig-dfb-und-dfl-unterstuetzen-ausschluss-von-russland-dpa.urn-newsml-dpa-com-20090101-220228-99-328246,Fußball - Leipzig,dpa,,,01032022,Sueddeutsche
-Mann stirbt bei Wohnungsbrand in Köln,28022022_18:53,https://www.sueddeutsche.de/panorama/braende-koeln-mann-stirbt-bei-wohnungsbrand-in-koeln-dpa.urn-newsml-dpa-com-20090101-220228-99-328224,Brände - Köln,dpa,,,01032022,Sueddeutsche
-FIFA und UEFA suspendieren Russland,28022022_18:51,https://www.sueddeutsche.de/sport/fussball-fifa-und-uefa-suspendieren-russland-dpa.urn-newsml-dpa-com-20090101-220228-99-325736,Fußball,dpa,,,01032022,Sueddeutsche
-EU setzt Sanktionen gegen russische Oligarchen in Kraft,28022022_18:51,https://www.sueddeutsche.de/politik/konflikte-eu-setzt-sanktionen-gegen-russische-oligarchen-in-kraft-dpa.urn-newsml-dpa-com-20090101-220228-99-328218,Konflikte,dpa,,,01032022,Sueddeutsche
-ERC Ingolstadt holt Eishockey-Stürmer McGauley aus Innsbruck,28022022_18:50,https://www.sueddeutsche.de/bayern/eishockey-ingolstadt-erc-ingolstadt-holt-eishockey-stuermer-mcgauley-aus-innsbruck-dpa.urn-newsml-dpa-com-20090101-220228-99-328205,Eishockey - Ingolstadt,dpa,,,01032022,Sueddeutsche
+                        Im Keller eines Kinderkrankenhauses in Kiew haben die kleinen Patienten und ihre Eltern Schutz vor den russischen Luftangriffen gesucht.",01032022,Sueddeutsche,politik
+DFB und DFL unterstützen Ausschluss von Russland,28022022_18:56,https://www.sueddeutsche.de/sport/fussball-leipzig-dfb-und-dfl-unterstuetzen-ausschluss-von-russland-dpa.urn-newsml-dpa-com-20090101-220228-99-328246,Fußball - Leipzig,dpa,,,01032022,Sueddeutsche,sport
+Mann stirbt bei Wohnungsbrand in Köln,28022022_18:53,https://www.sueddeutsche.de/panorama/braende-koeln-mann-stirbt-bei-wohnungsbrand-in-koeln-dpa.urn-newsml-dpa-com-20090101-220228-99-328224,Brände - Köln,dpa,,,01032022,Sueddeutsche,panorama
+FIFA und UEFA suspendieren Russland,28022022_18:51,https://www.sueddeutsche.de/sport/fussball-fifa-und-uefa-suspendieren-russland-dpa.urn-newsml-dpa-com-20090101-220228-99-325736,Fußball,dpa,,,01032022,Sueddeutsche,sport
+EU setzt Sanktionen gegen russische Oligarchen in Kraft,28022022_18:51,https://www.sueddeutsche.de/politik/konflikte-eu-setzt-sanktionen-gegen-russische-oligarchen-in-kraft-dpa.urn-newsml-dpa-com-20090101-220228-99-328218,Konflikte,dpa,,,01032022,Sueddeutsche,politik
+ERC Ingolstadt holt Eishockey-Stürmer McGauley aus Innsbruck,28022022_18:50,https://www.sueddeutsche.de/bayern/eishockey-ingolstadt-erc-ingolstadt-holt-eishockey-stuermer-mcgauley-aus-innsbruck-dpa.urn-newsml-dpa-com-20090101-220228-99-328205,Eishockey - Ingolstadt,dpa,,,01032022,Sueddeutsche,bayern
 Die Angst vor dem unberechenbaren Diktator,28022022_18:35,https://www.sueddeutsche.de/kultur/ukraine-protest-frieden-putin-1.5538455,Putins Krieg in der Ukraine,,Kommentar von Gustav Seibt   ,"Meinung
                     
                     
                         1983, 2003, 2022: Die großen Friedensdemonstrationen waren immer ein Spiegel unserer Ängste. Aber diesmal ist alles anders.
                         
-                            Kommentar von Gustav Seibt",01032022,Sueddeutsche
-Schwerer Bus-Unfall: Fahrer nicht zu lang am Steuer,28022022_18:33,https://www.sueddeutsche.de/panorama/unfaelle-inzell-schwerer-bus-unfall-fahrer-nicht-zu-lang-am-steuer-dpa.urn-newsml-dpa-com-20090101-220228-99-325771,Unfälle - Inzell,dpa,,,01032022,Sueddeutsche
-Russischer Honorarkonsul Baden-Württembergs verurteilt Krieg,28022022_18:33,https://www.sueddeutsche.de/politik/krieg-stuttgart-russischer-honorarkonsul-baden-wuerttembergs-verurteilt-krieg-dpa.urn-newsml-dpa-com-20090101-220228-99-327900,Krieg - Stuttgart,dpa,,,01032022,Sueddeutsche
-Weniger Menschen bei Demonstrationen gegen Corona-Maßnahmen,28022022_18:31,https://www.sueddeutsche.de/politik/demonstrationen-luebeck-weniger-menschen-bei-demonstrationen-gegen-corona-massnahmen-dpa.urn-newsml-dpa-com-20090101-220228-99-328104,Demonstrationen - Lübeck,dpa,,,01032022,Sueddeutsche
-Zahlreiche Demos gegen die Corona-Politik im Südwesten,28022022_18:30,https://www.sueddeutsche.de/politik/demonstrationen-pforzheim-zahlreiche-demos-gegen-die-corona-politik-im-suedwesten-dpa.urn-newsml-dpa-com-20090101-220228-99-328097,Demonstrationen - Pforzheim,dpa,,,01032022,Sueddeutsche
-Bus-Unfall mit verletzten Skiurlaubern - Ermittlungen laufen,28022022_18:28,https://www.sueddeutsche.de/panorama/unfaelle-bus-unfall-mit-verletzten-skiurlaubern-ermittlungen-laufen-dpa.urn-newsml-dpa-com-20090101-220228-99-316466,Unfälle,dpa,,,01032022,Sueddeutsche
+                            Kommentar von Gustav Seibt",01032022,Sueddeutsche,kultur
+Schwerer Bus-Unfall: Fahrer nicht zu lang am Steuer,28022022_18:33,https://www.sueddeutsche.de/panorama/unfaelle-inzell-schwerer-bus-unfall-fahrer-nicht-zu-lang-am-steuer-dpa.urn-newsml-dpa-com-20090101-220228-99-325771,Unfälle - Inzell,dpa,,,01032022,Sueddeutsche,panorama
+Russischer Honorarkonsul Baden-Württembergs verurteilt Krieg,28022022_18:33,https://www.sueddeutsche.de/politik/krieg-stuttgart-russischer-honorarkonsul-baden-wuerttembergs-verurteilt-krieg-dpa.urn-newsml-dpa-com-20090101-220228-99-327900,Krieg - Stuttgart,dpa,,,01032022,Sueddeutsche,politik
+Weniger Menschen bei Demonstrationen gegen Corona-Maßnahmen,28022022_18:31,https://www.sueddeutsche.de/politik/demonstrationen-luebeck-weniger-menschen-bei-demonstrationen-gegen-corona-massnahmen-dpa.urn-newsml-dpa-com-20090101-220228-99-328104,Demonstrationen - Lübeck,dpa,,,01032022,Sueddeutsche,politik
+Zahlreiche Demos gegen die Corona-Politik im Südwesten,28022022_18:30,https://www.sueddeutsche.de/politik/demonstrationen-pforzheim-zahlreiche-demos-gegen-die-corona-politik-im-suedwesten-dpa.urn-newsml-dpa-com-20090101-220228-99-328097,Demonstrationen - Pforzheim,dpa,,,01032022,Sueddeutsche,politik
+Bus-Unfall mit verletzten Skiurlaubern - Ermittlungen laufen,28022022_18:28,https://www.sueddeutsche.de/panorama/unfaelle-bus-unfall-mit-verletzten-skiurlaubern-ermittlungen-laufen-dpa.urn-newsml-dpa-com-20090101-220228-99-316466,Unfälle,dpa,,,01032022,Sueddeutsche,panorama
 Ukrainische Geflüchtete kommen an / Apple baut aus,28022022_18:25,https://www.sueddeutsche.de/muenchen/muenchen-nachrichten-apple-erweiterung-ukraine-gefluechtete-1.5538733,München heute,,Von Sebastian Krass,"Nachrichten und Lesenswertes aus der Stadt.
                         
-                            Von Sebastian Krass",01032022,Sueddeutsche
-Wie gefährlich ist Putins Atom-Drohung?,28022022_18:22,https://www.sueddeutsche.de/politik/konflikte-wie-gefaehrlich-ist-putins-atom-drohung-dpa.urn-newsml-dpa-com-20090101-220228-99-327908,Konflikte,dpa,,,01032022,Sueddeutsche
-Überholmanöver endet tödlich,28022022_18:12,https://www.sueddeutsche.de/bayern/unfaelle-koenigsberg-in-bayern-ueberholmanoever-endet-toedlich-dpa.urn-newsml-dpa-com-20090101-220228-99-327939,Unfälle - Königsberg in Bayern,dpa,,,01032022,Sueddeutsche
-Rally bei Rüstungswerten - Ausgaben dürften steigen,28022022_18:10,https://www.sueddeutsche.de/politik/konflikte-rally-bei-ruestungswerten-ausgaben-duerften-steigen-dpa.urn-newsml-dpa-com-20090101-220228-99-327796,Konflikte,dpa,,,01032022,Sueddeutsche
-Rheinland-Pfalz schafft 4000 Plätze für Kriegsflüchtlinge,28022022_18:02,https://www.sueddeutsche.de/politik/konflikte-mainz-rheinland-pfalz-schafft-4000-plaetze-fuer-kriegsfluechtlinge-dpa.urn-newsml-dpa-com-20090101-220228-99-322037,Konflikte - Mainz,dpa,,,01032022,Sueddeutsche
+                            Von Sebastian Krass",01032022,Sueddeutsche,muenchen
+Wie gefährlich ist Putins Atom-Drohung?,28022022_18:22,https://www.sueddeutsche.de/politik/konflikte-wie-gefaehrlich-ist-putins-atom-drohung-dpa.urn-newsml-dpa-com-20090101-220228-99-327908,Konflikte,dpa,,,01032022,Sueddeutsche,politik
+Überholmanöver endet tödlich,28022022_18:12,https://www.sueddeutsche.de/bayern/unfaelle-koenigsberg-in-bayern-ueberholmanoever-endet-toedlich-dpa.urn-newsml-dpa-com-20090101-220228-99-327939,Unfälle - Königsberg in Bayern,dpa,,,01032022,Sueddeutsche,bayern
+Rally bei Rüstungswerten - Ausgaben dürften steigen,28022022_18:10,https://www.sueddeutsche.de/politik/konflikte-rally-bei-ruestungswerten-ausgaben-duerften-steigen-dpa.urn-newsml-dpa-com-20090101-220228-99-327796,Konflikte,dpa,,,01032022,Sueddeutsche,politik
+Rheinland-Pfalz schafft 4000 Plätze für Kriegsflüchtlinge,28022022_18:02,https://www.sueddeutsche.de/politik/konflikte-mainz-rheinland-pfalz-schafft-4000-plaetze-fuer-kriegsfluechtlinge-dpa.urn-newsml-dpa-com-20090101-220228-99-322037,Konflikte - Mainz,dpa,,,01032022,Sueddeutsche,politik
 Alle wollen helfen,28022022_18:01,https://www.sueddeutsche.de/muenchen/erding/landkreis-erding-fluechtlingshilfe-ukraine-spendenaktion-verkehrschaos-1.5538728,Erding,,"Von  Emily Bader , Erding","Bei der Spendenaktion für geflüchtete Menschen aus der Ukraine werden die Flüchtlingshilfen überrannt. Zeitweise müssen Polizei und Bundeswehr in Erding den Verkehrsstrom regeln. Auch Unterkünfte werden dringend gesucht. 
                         
-                            Von  Emily Bader , Erding",01032022,Sueddeutsche
+                            Von  Emily Bader , Erding",01032022,Sueddeutsche,muenchen
 Die Hundert-Milliarden-Überraschung,28022022_18:01,https://www.sueddeutsche.de/politik/ukraine-russland-bundeswehr-scholz-1.5538616,Bundesregierung,,"Von Daniel Brössler, Constanze von Bullion, Paul-Anton Krüger, Henrike Roßbach und Mike Szymanski, Berlin","Am Sonntag verkündete Olaf Scholz, dass er ein ""Sondervermögen"" für die Bundeswehr zur Verfügung stellen werde. Es ist eine der spektakulärsten sicherheitspolitischen Entscheidungen seit dem Mauerfall. Problem ist nur: Die meisten wussten nichts davon.
                         
-                            Von Daniel Brössler, Constanze von Bullion, Paul-Anton Krüger, Henrike Roßbach und Mike Szymanski, Berlin",01032022,Sueddeutsche
-Corona-Inzidenz in Baden-Württemberg geht weiter zurück,28022022_18:00,https://www.sueddeutsche.de/gesundheit/gesundheit-stuttgart-corona-inzidenz-in-baden-wuerttemberg-geht-weiter-zurueck-dpa.urn-newsml-dpa-com-20090101-220228-99-327832,Gesundheit - Stuttgart,dpa,,,01032022,Sueddeutsche
-Kretschmer sichert Flüchtlingen aus der Ukraine Beistand zu,28022022_17:59,https://www.sueddeutsche.de/politik/konflikte-dresden-kretschmer-sichert-fluechtlingen-aus-der-ukraine-beistand-zu-dpa.urn-newsml-dpa-com-20090101-220228-99-323327,Konflikte - Dresden,dpa,,,01032022,Sueddeutsche
-FIFA und UEFA suspendieren Russland: Leipzig weiter,28022022_17:59,https://www.sueddeutsche.de/sport/fussball-leipzig-fifa-und-uefa-suspendieren-russland-leipzig-weiter-dpa.urn-newsml-dpa-com-20090101-220228-99-327707,Fußball - Leipzig,dpa,,,01032022,Sueddeutsche
-Zeugen Jehovas werden in Russland politisch verfolgt,28022022_17:58,https://www.sueddeutsche.de/bayern/russland-zeugen-jehovas-verfolgt-politisch-bayerischer-verwaltungsgerichtshof-1.5538364,Urteil des Verwaltungsgerichtshofs,,,,01032022,Sueddeutsche
-Elf bayerische Schülerzeitungen ausgezeichnet,28022022_17:58,https://www.sueddeutsche.de/bayern/schuelerzeitung-jungjournalisten-preise-wettbewerb-1.5538349,Preiswürdige Jungjournalisten,,,,01032022,Sueddeutsche
-Bürgertelefon für G-7-Gipfel ist freigeschaltet,28022022_17:58,https://www.sueddeutsche.de/bayern/g-7-gipfel-elmau-buergertelefon-1.5538518,Für Sorgen und Informationen,,,,01032022,Sueddeutsche
+                            Von Daniel Brössler, Constanze von Bullion, Paul-Anton Krüger, Henrike Roßbach und Mike Szymanski, Berlin",01032022,Sueddeutsche,politik
+Corona-Inzidenz in Baden-Württemberg geht weiter zurück,28022022_18:00,https://www.sueddeutsche.de/gesundheit/gesundheit-stuttgart-corona-inzidenz-in-baden-wuerttemberg-geht-weiter-zurueck-dpa.urn-newsml-dpa-com-20090101-220228-99-327832,Gesundheit - Stuttgart,dpa,,,01032022,Sueddeutsche,gesundheit
+Kretschmer sichert Flüchtlingen aus der Ukraine Beistand zu,28022022_17:59,https://www.sueddeutsche.de/politik/konflikte-dresden-kretschmer-sichert-fluechtlingen-aus-der-ukraine-beistand-zu-dpa.urn-newsml-dpa-com-20090101-220228-99-323327,Konflikte - Dresden,dpa,,,01032022,Sueddeutsche,politik
+FIFA und UEFA suspendieren Russland: Leipzig weiter,28022022_17:59,https://www.sueddeutsche.de/sport/fussball-leipzig-fifa-und-uefa-suspendieren-russland-leipzig-weiter-dpa.urn-newsml-dpa-com-20090101-220228-99-327707,Fußball - Leipzig,dpa,,,01032022,Sueddeutsche,sport
+Zeugen Jehovas werden in Russland politisch verfolgt,28022022_17:58,https://www.sueddeutsche.de/bayern/russland-zeugen-jehovas-verfolgt-politisch-bayerischer-verwaltungsgerichtshof-1.5538364,Urteil des Verwaltungsgerichtshofs,,,,01032022,Sueddeutsche,bayern
+Elf bayerische Schülerzeitungen ausgezeichnet,28022022_17:58,https://www.sueddeutsche.de/bayern/schuelerzeitung-jungjournalisten-preise-wettbewerb-1.5538349,Preiswürdige Jungjournalisten,,,,01032022,Sueddeutsche,bayern
+Bürgertelefon für G-7-Gipfel ist freigeschaltet,28022022_17:58,https://www.sueddeutsche.de/bayern/g-7-gipfel-elmau-buergertelefon-1.5538518,Für Sorgen und Informationen,,,,01032022,Sueddeutsche,bayern
 Löschzwerge im Einsatz,28022022_17:58,https://www.sueddeutsche.de/bayern/feuerwehr-waischenfeld-miniatur-fahrzeug-loeschzwerge-1.5538171,Jugendarbeit,,"Von Kathrin Zeilmann/dpa, Waischenfeld","Für die Kinder hat die Freiwillige Feuerwehr Waischenfeld ein originalgetreues Miniatur-Fahrzeug nachgebaut - mit Blaulicht, Schläuchen, Motorsägen und Funkgeräten.
                         
-                            Von Kathrin Zeilmann/dpa, Waischenfeld",01032022,Sueddeutsche
-Warnung vor Cyber-Attacken,28022022_17:58,https://www.sueddeutsche.de/bayern/bayern-wirtschaft-warnung-cyber-attacken-ukraine-krieg-ihk-1.5538517,Wirtschaft,,,,01032022,Sueddeutsche
-Kollabierte Frauen waren volltrunken,28022022_17:58,https://www.sueddeutsche.de/bayern/straftat-zusammenbruch-diskothek-1.5538466,Straubing,,,,01032022,Sueddeutsche
+                            Von Kathrin Zeilmann/dpa, Waischenfeld",01032022,Sueddeutsche,bayern
+Warnung vor Cyber-Attacken,28022022_17:58,https://www.sueddeutsche.de/bayern/bayern-wirtschaft-warnung-cyber-attacken-ukraine-krieg-ihk-1.5538517,Wirtschaft,,,,01032022,Sueddeutsche,bayern
+Kollabierte Frauen waren volltrunken,28022022_17:58,https://www.sueddeutsche.de/bayern/straftat-zusammenbruch-diskothek-1.5538466,Straubing,,,,01032022,Sueddeutsche,bayern
 Schrödingers Katze ist ein Zug,28022022_17:58,https://www.sueddeutsche.de/bayern/muehldorf-wasserstoffzuege-bahn-1.5538397,Mühldorf am Inn,,Glosse von Maximilian Gerl,"In Mühldorf sollen mal Wasserstoffzüge fahren - wäre die bayerische Eisenbahnpolitik nicht komplizierter als Quantenmechanik. 
                         
-                            Glosse von Maximilian Gerl",01032022,Sueddeutsche
+                            Glosse von Maximilian Gerl",01032022,Sueddeutsche,bayern
 Leben ohne Leiden,28022022_17:57,https://www.sueddeutsche.de/muenchen/kino-dokumentarfilm-bangladesch-prostitution-muenchen-1.5538246,Kino,,"Von Josef Grübl, München","Der Münchner Schauspieler und Regisseur Michael Kranz hat einen eindrucksvollen Dokumentarfilm über Zwangsprostituierte in Bangladesch gedreht. Nun kann er ihn endlich auf Kinotour präsentieren.
                         
-                            Von Josef Grübl, München",01032022,Sueddeutsche
-Der Vorhang hebt sich wieder,28022022_17:57,https://www.sueddeutsche.de/muenchen/muenchner-marionettentheater-programm-oeffnung-siegfried-boehmke-1.5538523,Marionettentheater,,,Nach drei Monaten Schließung nimmt das Münchner Marionettentheater wieder den Spielbetrieb auf.,01032022,Sueddeutsche
+                            Von Josef Grübl, München",01032022,Sueddeutsche,muenchen
+Der Vorhang hebt sich wieder,28022022_17:57,https://www.sueddeutsche.de/muenchen/muenchner-marionettentheater-programm-oeffnung-siegfried-boehmke-1.5538523,Marionettentheater,,,Nach drei Monaten Schließung nimmt das Münchner Marionettentheater wieder den Spielbetrieb auf.,01032022,Sueddeutsche,muenchen
 Leidenschaftlich dramatisch,28022022_17:57,https://www.sueddeutsche.de/muenchen/ivo-pogorelich-prinzregententheater-chopin-konzert-kritik-1.5538344,Kritik,,"Von Klaus P. Richter, München","Pianist Ivo Pogorelich spielt Chopin im Prinzregententheater.
                         
-                            Von Klaus P. Richter, München",01032022,Sueddeutsche
+                            Von Klaus P. Richter, München",01032022,Sueddeutsche,muenchen
 Gegenwelt,28022022_17:57,https://www.sueddeutsche.de/muenchen/matthias-goerne-markus-hinterhaeuser-schumann-konzert-prinzregententheater-1.5538339,Klassik,,"Von Egbert Tholl, München","Matthias Goerne und Markus Hinterhäuser mit Schumann-Liedern im Prinzregententheater.
                         
-                            Von Egbert Tholl, München",01032022,Sueddeutsche
+                            Von Egbert Tholl, München",01032022,Sueddeutsche,muenchen
 Der Sound der Blechlawine,28022022_17:57,https://www.sueddeutsche.de/muenchen/harry-kaemmerer-kommissar-mader-krimi-muenchen-erlesen-1.5538337,Serie München erlesen,,"Von Sabine Reithmaier, München","Harry Kämmerer schreibt Krimis, die in München spielen. Seine Beobachtungen kommen der hiesigen Lebenswirklichkeit ziemlich nahe. 
                         
-                            Von Sabine Reithmaier, München",01032022,Sueddeutsche
+                            Von Sabine Reithmaier, München",01032022,Sueddeutsche,muenchen
 Man spricht weanerisch,28022022_17:57,https://www.sueddeutsche.de/muenchen/michael-buchinger-wir-staatskuenstler-science-busters-manuel-rubey-robert-palfrader-stermann-grissemann-lustspielhaus-kabarettisten-oesterreich-muenchen-1.5538520,Kleinkunst-Gipfel,,"Von Oliver Hochkeppel, München","Im März wird das Lustspielhaus zur Dependance österreichischer Kabarettisten
                         
-                            Von Oliver Hochkeppel, München",01032022,Sueddeutsche
+                            Von Oliver Hochkeppel, München",01032022,Sueddeutsche,muenchen
 Laut für Gerechtigkeit,28022022_17:57,https://www.sueddeutsche.de/muenchen/weltfrauentag-festival-we-won-t-shut-up-programm-muenchen-1.5538402,Weltfrauentag,,Von Dirk Wagner,"Vorträge, Workshops, Konzerte: Das Festival ""We won't shut up!"" stärkt Frauen den Rücken.
                         
-                            Von Dirk Wagner",01032022,Sueddeutsche
-Reden über Religion,28022022_17:57,https://www.sueddeutsche.de/muenchen/lesung-reden-ueber-religion-1.5538449,Lesung,,,Navid Kermani liest in dem Kammerspielen aus seinem neuen Buch,01032022,Sueddeutsche
+                            Von Dirk Wagner",01032022,Sueddeutsche,muenchen
+Reden über Religion,28022022_17:57,https://www.sueddeutsche.de/muenchen/lesung-reden-ueber-religion-1.5538449,Lesung,,,Navid Kermani liest in dem Kammerspielen aus seinem neuen Buch,01032022,Sueddeutsche,muenchen
 Aufgalopp,28022022_17:57,https://www.sueddeutsche.de/muenchen/cavalluna-pferdeshow-olympiahalle-apassionata-gmbh-1.5538369,Pferdeshow,,Von Barbara Hordych,"Die verschobene Tourneeproduktion ""Cavalluna - Celebration!"" gastiert jetzt in der Olympiahalle. 
                         
-                            Von Barbara Hordych",01032022,Sueddeutsche
+                            Von Barbara Hordych",01032022,Sueddeutsche,muenchen

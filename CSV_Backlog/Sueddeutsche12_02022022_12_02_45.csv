@@ -1,96 +1,96 @@
-Titel,Date_Info,URL,Overline,Breadcrumb,author,detailed_informations,Zugriff_Datum,News_page
-Wegen 50 Euro: Mann mit Machete bedroht,01022022_16:01,https://www.sueddeutsche.de/panorama/kriminalitaet-hettstedt-wegen-50-euro-mann-mit-machete-bedroht-dpa.urn-newsml-dpa-com-20090101-220201-99-933934,Kriminalität - Hettstedt,dpa,,,02022022,Sueddeutsche
-"Mick Schumacher: Kontakt in der Pause zu Masepin ""minimal""",01022022_16:01,https://www.sueddeutsche.de/sport/motorsport-mick-schumacherkontakt-in-der-pause-zu-masepin-minimal-dpa.urn-newsml-dpa-com-20090101-220201-99-934040,Motorsport,dpa,,,02022022,Sueddeutsche
-Web-Individualschule: Abschlussprüfung 2022 gesichert,01022022_16:01,https://www.sueddeutsche.de/bildung/schulen-bochum-web-individualschule-abschlusspruefung-2022-gesichert-dpa.urn-newsml-dpa-com-20090101-220201-99-934088,Schulen - Bochum,dpa,,,02022022,Sueddeutsche
-Omikron-Verfügung: Im Notfall längere Arbeitszeiten,01022022_16:00,https://www.sueddeutsche.de/bayern/arbeit-muenchen-omikron-verfuegung-im-notfall-laengere-arbeitszeiten-dpa.urn-newsml-dpa-com-20090101-220201-99-934068,Arbeit - München,dpa,,,02022022,Sueddeutsche
-Notbetreuung in Kitas: Keine Einigung zu Corona-Lockerungen,01022022_15:59,https://www.sueddeutsche.de/politik/kabinett-potsdam-notbetreuung-in-kitas-keine-einigung-zu-corona-lockerungen-dpa.urn-newsml-dpa-com-20090101-220201-99-933657,Kabinett - Potsdam,dpa,,,02022022,Sueddeutsche
-Bayerisches Büro in London eröffnet,01022022_15:59,https://www.sueddeutsche.de/bayern/international-muenchen-bayerisches-buero-in-london-eroeffnet-dpa.urn-newsml-dpa-com-20090101-220201-99-934070,International - München,dpa,,,02022022,Sueddeutsche
+Titel,Date_Info,URL,Overline,Breadcrumb,author,detailed_informations,Zugriff_Datum,News_page,Kategorie
+Wegen 50 Euro: Mann mit Machete bedroht,01022022_16:01,https://www.sueddeutsche.de/panorama/kriminalitaet-hettstedt-wegen-50-euro-mann-mit-machete-bedroht-dpa.urn-newsml-dpa-com-20090101-220201-99-933934,Kriminalität - Hettstedt,dpa,,,02022022,Sueddeutsche,panorama
+"Mick Schumacher: Kontakt in der Pause zu Masepin ""minimal""",01022022_16:01,https://www.sueddeutsche.de/sport/motorsport-mick-schumacherkontakt-in-der-pause-zu-masepin-minimal-dpa.urn-newsml-dpa-com-20090101-220201-99-934040,Motorsport,dpa,,,02022022,Sueddeutsche,sport
+Web-Individualschule: Abschlussprüfung 2022 gesichert,01022022_16:01,https://www.sueddeutsche.de/bildung/schulen-bochum-web-individualschule-abschlusspruefung-2022-gesichert-dpa.urn-newsml-dpa-com-20090101-220201-99-934088,Schulen - Bochum,dpa,,,02022022,Sueddeutsche,bildung
+Omikron-Verfügung: Im Notfall längere Arbeitszeiten,01022022_16:00,https://www.sueddeutsche.de/bayern/arbeit-muenchen-omikron-verfuegung-im-notfall-laengere-arbeitszeiten-dpa.urn-newsml-dpa-com-20090101-220201-99-934068,Arbeit - München,dpa,,,02022022,Sueddeutsche,bayern
+Notbetreuung in Kitas: Keine Einigung zu Corona-Lockerungen,01022022_15:59,https://www.sueddeutsche.de/politik/kabinett-potsdam-notbetreuung-in-kitas-keine-einigung-zu-corona-lockerungen-dpa.urn-newsml-dpa-com-20090101-220201-99-933657,Kabinett - Potsdam,dpa,,,02022022,Sueddeutsche,politik
+Bayerisches Büro in London eröffnet,01022022_15:59,https://www.sueddeutsche.de/bayern/international-muenchen-bayerisches-buero-in-london-eroeffnet-dpa.urn-newsml-dpa-com-20090101-220201-99-934070,International - München,dpa,,,02022022,Sueddeutsche,bayern
 Jörg Meuthen war Teil des Problems der AfD,01022022_15:59,https://www.sueddeutsche.de/politik/podcast-nachrichten-joerg-meuthen-war-teil-des-problems-der-afd-1.5519901,"SZ-Podcast ""Auf den Punkt""",,Von Markus Balser und Lars Langenau,"Jörg Meuthen hat die AfD verlassen. Wohin treibt es die Partei jetzt - und wohin ihren Ex-Chef?
                         
-                            Von Markus Balser und Lars Langenau",02022022,Sueddeutsche
-Antragstellern winkt doch Förderung für Energiesparhäuser,01022022_15:58,https://www.sueddeutsche.de/wirtschaft/energie-antragstellern-winkt-doch-foerderung-fuer-energiesparhaeuser-dpa.urn-newsml-dpa-com-20090101-220124-99-833036,Energie,dpa,,,02022022,Sueddeutsche
-Eltern von Kita-Kindern müssen sich testen: Ab Donnerstag,01022022_15:57,https://www.sueddeutsche.de/bildung/kindergaerten-kiel-eltern-von-kita-kindern-muessen-sich-testen-ab-donnerstag-dpa.urn-newsml-dpa-com-20090101-220201-99-934009,Kindergärten - Kiel,dpa,,,02022022,Sueddeutsche
+                            Von Markus Balser und Lars Langenau",02022022,Sueddeutsche,politik
+Antragstellern winkt doch Förderung für Energiesparhäuser,01022022_15:58,https://www.sueddeutsche.de/wirtschaft/energie-antragstellern-winkt-doch-foerderung-fuer-energiesparhaeuser-dpa.urn-newsml-dpa-com-20090101-220124-99-833036,Energie,dpa,,,02022022,Sueddeutsche,wirtschaft
+Eltern von Kita-Kindern müssen sich testen: Ab Donnerstag,01022022_15:57,https://www.sueddeutsche.de/bildung/kindergaerten-kiel-eltern-von-kita-kindern-muessen-sich-testen-ab-donnerstag-dpa.urn-newsml-dpa-com-20090101-220201-99-934009,Kindergärten - Kiel,dpa,,,02022022,Sueddeutsche,bildung
 Landratsamt meldet 160. Todesfall,01022022_15:56,https://www.sueddeutsche.de/muenchen/wolfratshausen/landkreis-bad-toelz-wolfratshausen-corona-news-1.5085758,Corona-Newsblog für den Landkreis Bad Tölz-Wolfratshausen,,Von SZ-Autoren,"Die Sieben-Tage-Inzidenz liegt im Landkreis Bad Tölz-Wolfratshausen bei 1729,9. Laut Kreisbehörde sind 2405 Menschen positiv getestet.
 
                         
-                            Von SZ-Autoren",02022022,Sueddeutsche
+                            Von SZ-Autoren",02022022,Sueddeutsche,muenchen
 Warum geht beim Gasteig nichts weiter?,01022022_15:55,https://www.sueddeutsche.de/muenchen/muenchen-gasteig-sanierung-kosten-verzoegerung-1.5519812,Kultur in München,,Von Heiner Effern,"Seit mehr als einem Jahr kommt die Sanierung des Kulturzentrums nicht voran. Und mit jedem Monat Verzögerung werden die Sorgen größer, dass das Budget von 450 Millionen Euro am Ende für den großen Wurf nicht mehr reichen könnte.
                         
-                            Von Heiner Effern",02022022,Sueddeutsche
-Hamburg verzichtet auf Erhebung persönlicher Kontaktdaten,01022022_15:55,https://www.sueddeutsche.de/politik/senat-hamburg-hamburg-verzichtet-auf-erhebung-persoenlicher-kontaktdaten-dpa.urn-newsml-dpa-com-20090101-220201-99-931489,Senat - Hamburg,dpa,,,02022022,Sueddeutsche
-Berliner Polizisten sind zunehmend Gewalt ausgesetzt,01022022_15:53,https://www.sueddeutsche.de/panorama/polizei-berlin-berliner-polizisten-sind-zunehmend-gewalt-ausgesetzt-dpa.urn-newsml-dpa-com-20090101-220201-99-933398,Polizei - Berlin,dpa,,,02022022,Sueddeutsche
+                            Von Heiner Effern",02022022,Sueddeutsche,muenchen
+Hamburg verzichtet auf Erhebung persönlicher Kontaktdaten,01022022_15:55,https://www.sueddeutsche.de/politik/senat-hamburg-hamburg-verzichtet-auf-erhebung-persoenlicher-kontaktdaten-dpa.urn-newsml-dpa-com-20090101-220201-99-931489,Senat - Hamburg,dpa,,,02022022,Sueddeutsche,politik
+Berliner Polizisten sind zunehmend Gewalt ausgesetzt,01022022_15:53,https://www.sueddeutsche.de/panorama/polizei-berlin-berliner-polizisten-sind-zunehmend-gewalt-ausgesetzt-dpa.urn-newsml-dpa-com-20090101-220201-99-933398,Polizei - Berlin,dpa,,,02022022,Sueddeutsche,panorama
 Russland pocht auf Verträge,01022022_15:53,https://www.sueddeutsche.de/politik/russland-ukraine-osze-lawrow-diplomatie-1.5519884,Ukraine-Krise,,Von Stefan Kornelius,"Exklusiv
                     
                     
                         Außenminister Lawrow wirft dem Westen in einem Brief die einseitige Auslegung wichtiger Sicherheitsabkommen vor und verlangt eine Klarstellung. Die Reisediplomatie läuft auf Hochtouren.
                         
-                            Von Stefan Kornelius",02022022,Sueddeutsche
+                            Von Stefan Kornelius",02022022,Sueddeutsche,politik
 """Ein schmerzlicher Verlust""",01022022_15:52,https://www.sueddeutsche.de/politik/gewerkschaften-mitglieder-schwund-1.5519717,Arbeit,,Von Benedikt Peters,"Die großen Gewerkschaften verlieren viele Tausend Mitglieder, ihre Verantwortlichen erklären das mit der Pandemie. Damit machen sie es sich zu einfach.
                         
-                            Von Benedikt Peters",02022022,Sueddeutsche
+                            Von Benedikt Peters",02022022,Sueddeutsche,politik
 Wie der Dry January Frankreich spaltet,01022022_15:51,https://www.jetzt.de/politik/dry-january-frankreich-deutschland-debatte,Alkoholkonsum,,Von Léonardo Kahn,"Von einem, der auf Tiktok Werbung für Wein macht - und einer trockenen Alkoholikerin, die sich für einen bewussten Konsum einsetzt.
 
                         
-                            Von Léonardo Kahn",02022022,Sueddeutsche
+                            Von Léonardo Kahn",02022022,Sueddeutsche,politik
 Die Suche nach 007: Wer wird der neue Bond?,01022022_15:51,https://www.sueddeutsche.de/panorama/die-suche-nach-007-wer-wird-der-neue-bond-1.5519905,,,,"Video
                     
                     
-                        Nach dem verzögerten Abschied von James-Bond-Darsteller Daniel Craig beginnt die Suche nach seinem Nachfolger. In britischen Medien werden viele Namen gehandelt, doch der nächste 007 ist wahrscheinlich nicht dabei.",02022022,Sueddeutsche
-Ministerium lobt Festival-Förderung: Linke übt Kritik,01022022_15:51,https://www.sueddeutsche.de/kultur/musik-potsdam-ministerium-lobt-festival-foerderung-linke-uebt-kritik-dpa.urn-newsml-dpa-com-20090101-220201-99-933801,Musik - Potsdam,dpa,,,02022022,Sueddeutsche
-Thüringen steckt viel Geld in Gewässer- und Hochwasserschutz,01022022_15:49,https://www.sueddeutsche.de/politik/regierung-erfurt-thueringen-steckt-viel-geld-in-gewaesser-und-hochwasserschutz-dpa.urn-newsml-dpa-com-20090101-220201-99-924707,Regierung - Erfurt,dpa,,,02022022,Sueddeutsche
-Kritik an Impfpflicht in Pflege und Kliniken reißt nicht ab,01022022_15:47,https://www.sueddeutsche.de/gesundheit/gesundheit-kritik-an-impfpflicht-in-pflege-und-kliniken-reisst-nicht-ab-dpa.urn-newsml-dpa-com-20090101-220201-99-923311,Gesundheit,dpa,,,02022022,Sueddeutsche
-Einbrecher klauen Tablets und Geld aus Erfurter Schule,01022022_15:47,https://www.sueddeutsche.de/panorama/kriminalitaet-erfurt-einbrecher-klauen-tablets-und-geld-aus-erfurter-schule-dpa.urn-newsml-dpa-com-20090101-220201-99-933937,Kriminalität - Erfurt,dpa,,,02022022,Sueddeutsche
-Landtag und Regierung trauern um getötete Polizisten,01022022_15:46,https://www.sueddeutsche.de/panorama/polizei-mainz-landtag-und-regierung-trauern-um-getoetete-polizisten-dpa.urn-newsml-dpa-com-20090101-220201-99-933921,Polizei - Mainz,dpa,,,02022022,Sueddeutsche
+                        Nach dem verzögerten Abschied von James-Bond-Darsteller Daniel Craig beginnt die Suche nach seinem Nachfolger. In britischen Medien werden viele Namen gehandelt, doch der nächste 007 ist wahrscheinlich nicht dabei.",02022022,Sueddeutsche,panorama
+Ministerium lobt Festival-Förderung: Linke übt Kritik,01022022_15:51,https://www.sueddeutsche.de/kultur/musik-potsdam-ministerium-lobt-festival-foerderung-linke-uebt-kritik-dpa.urn-newsml-dpa-com-20090101-220201-99-933801,Musik - Potsdam,dpa,,,02022022,Sueddeutsche,kultur
+Thüringen steckt viel Geld in Gewässer- und Hochwasserschutz,01022022_15:49,https://www.sueddeutsche.de/politik/regierung-erfurt-thueringen-steckt-viel-geld-in-gewaesser-und-hochwasserschutz-dpa.urn-newsml-dpa-com-20090101-220201-99-924707,Regierung - Erfurt,dpa,,,02022022,Sueddeutsche,politik
+Kritik an Impfpflicht in Pflege und Kliniken reißt nicht ab,01022022_15:47,https://www.sueddeutsche.de/gesundheit/gesundheit-kritik-an-impfpflicht-in-pflege-und-kliniken-reisst-nicht-ab-dpa.urn-newsml-dpa-com-20090101-220201-99-923311,Gesundheit,dpa,,,02022022,Sueddeutsche,gesundheit
+Einbrecher klauen Tablets und Geld aus Erfurter Schule,01022022_15:47,https://www.sueddeutsche.de/panorama/kriminalitaet-erfurt-einbrecher-klauen-tablets-und-geld-aus-erfurter-schule-dpa.urn-newsml-dpa-com-20090101-220201-99-933937,Kriminalität - Erfurt,dpa,,,02022022,Sueddeutsche,panorama
+Landtag und Regierung trauern um getötete Polizisten,01022022_15:46,https://www.sueddeutsche.de/panorama/polizei-mainz-landtag-und-regierung-trauern-um-getoetete-polizisten-dpa.urn-newsml-dpa-com-20090101-220201-99-933921,Polizei - Mainz,dpa,,,02022022,Sueddeutsche,panorama
 Mutig im Leben,01022022_15:45,https://www.sueddeutsche.de/kultur/marie-romy-petra-annett-goehre-starke-frauen-1.5519522,Tanztheater und Feminismus,,Von Dorion Weickmann,"Der Choreografin Annett Göhre gelingt in Zwickau eine grandiose Hommage an drei starke Frauen: Marie Curie, Romy Schneider, Petra Kelly.
                         
-                            Von Dorion Weickmann",02022022,Sueddeutsche
-Ein erster Schritt: Sachsen lässt mehr Zuschauer in Stadien,01022022_15:45,https://www.sueddeutsche.de/sport/fussball-dresden-ein-erster-schritt-sachsen-laesst-mehr-zuschauer-in-stadien-dpa.urn-newsml-dpa-com-20090101-220201-99-931777,Fußball - Dresden,dpa,,,02022022,Sueddeutsche
+                            Von Dorion Weickmann",02022022,Sueddeutsche,kultur
+Ein erster Schritt: Sachsen lässt mehr Zuschauer in Stadien,01022022_15:45,https://www.sueddeutsche.de/sport/fussball-dresden-ein-erster-schritt-sachsen-laesst-mehr-zuschauer-in-stadien-dpa.urn-newsml-dpa-com-20090101-220201-99-931777,Fußball - Dresden,dpa,,,02022022,Sueddeutsche,sport
 Ein weiterer Schritt zur umfassenden Zensur,01022022_15:45,https://www.sueddeutsche.de/medien/recep-tayyip-erdogan-medien-tuerkei-1.5519799,Türkei,,Von Tomas Avenarius,"Der türkische Präsident Recep Tayyip Erdoğan muss sich spätestens 2023 Wahlen stellen. Deshalb macht er jetzt schon Wahlkampf und fordert von den Medien die Wahrung ""nationaler Werte"" ein.
                         
-                            Von Tomas Avenarius",02022022,Sueddeutsche
+                            Von Tomas Avenarius",02022022,Sueddeutsche,medien
 """Warum fördert das Erziehungssystem dieses Zeug?""",01022022_15:45,https://www.sueddeutsche.de/kultur/maus-holocaust-verbot-art-spiegelman-1.5519767,Holocaust-Comic im Lehrplan,,Von Jens-Christian Rabe,"Ein amerikanischer Schulbezirk hat Art Spiegelmans weltberühmten Holocaust-Comic ""Maus"" aus dem Lehrplan gestrichen. Über einen verstörenden Fall.
                         
-                            Von Jens-Christian Rabe",02022022,Sueddeutsche
+                            Von Jens-Christian Rabe",02022022,Sueddeutsche,kultur
 "Ist das irre? Ja, zum Glück",01022022_15:44,https://www.sueddeutsche.de/kultur/theodor-heuss-bruecke-duesseldorf-architektur-wohnungen-gruene-architektur-1.5519746,Bewohnbare Brücke,,Von Gerhard  Matzig,"In Düsseldorf soll die Theodor-Heuss-Brücke aus dem Jahr 1957 saniert oder neugebaut werden. Architekten schlagen ein begrüntes Modell zum Wohnen vor. 
                         
-                            Von Gerhard  Matzig",02022022,Sueddeutsche
-Auto in Flammen: Autobahn 5 voll gesperrt,01022022_15:44,https://www.sueddeutsche.de/panorama/braende-hemsbach-auto-in-flammen-autobahn-5-voll-gesperrt-dpa.urn-newsml-dpa-com-20090101-220201-99-932821,Brände - Hemsbach,dpa,,,02022022,Sueddeutsche
+                            Von Gerhard  Matzig",02022022,Sueddeutsche,kultur
+Auto in Flammen: Autobahn 5 voll gesperrt,01022022_15:44,https://www.sueddeutsche.de/panorama/braende-hemsbach-auto-in-flammen-autobahn-5-voll-gesperrt-dpa.urn-newsml-dpa-com-20090101-220201-99-932821,Brände - Hemsbach,dpa,,,02022022,Sueddeutsche,panorama
 Mögliches Mordmotiv: beim Wildern erwischt,01022022_15:44,https://www.sueddeutsche.de/panorama/rheinland-pfalz-kusel-polizisten-verdaechtige-1.5519407,Rheinland-Pfalz,,Von Oliver Klasen und Kassian Stroh,"Nach den tödlichen Schüssen auf zwei Polizisten bei Kusel erlässt ein Richter gegen die Verdächtigen Haftbefehl wegen gemeinschaftlichen Mordes. Die beiden Getöteten suchten eigentlich einen Einbrecher.
                         
-                            Von Oliver Klasen und Kassian Stroh",02022022,Sueddeutsche
-Schwesig zu Ukraine-Konflikt: Russland muss Beitrag leisten,01022022_15:44,https://www.sueddeutsche.de/politik/konflikte-schwerin-schwesig-zu-ukraine-konflikt-russland-muss-beitrag-leisten-dpa.urn-newsml-dpa-com-20090101-220201-99-933803,Konflikte - Schwerin,dpa,,,02022022,Sueddeutsche
-Bonus-Supermarkt bleibt bestehen,01022022_15:42,https://www.sueddeutsche.de/muenchen/landkreismuenchen/kirchheim-bonus-supermarkt-schliessung-1.5519885,Kirchheim,,,Gemeinde und Betreiber wenden die drohende Schließung durch eine Verkleinerung des Ladens ab.,02022022,Sueddeutsche
+                            Von Oliver Klasen und Kassian Stroh",02022022,Sueddeutsche,panorama
+Schwesig zu Ukraine-Konflikt: Russland muss Beitrag leisten,01022022_15:44,https://www.sueddeutsche.de/politik/konflikte-schwerin-schwesig-zu-ukraine-konflikt-russland-muss-beitrag-leisten-dpa.urn-newsml-dpa-com-20090101-220201-99-933803,Konflikte - Schwerin,dpa,,,02022022,Sueddeutsche,politik
+Bonus-Supermarkt bleibt bestehen,01022022_15:42,https://www.sueddeutsche.de/muenchen/landkreismuenchen/kirchheim-bonus-supermarkt-schliessung-1.5519885,Kirchheim,,,Gemeinde und Betreiber wenden die drohende Schließung durch eine Verkleinerung des Ladens ab.,02022022,Sueddeutsche,muenchen
 Mit Omikron infiziert - und jetzt?,01022022_15:42,https://www.sueddeutsche.de/gesundheit/coronavirus-infektion-omikron-variante-ansteckung-symptome-zuhause-arzt-1.5519795,Corona,,Von Werner Bartens,"Immer mehr Menschen stecken sich mit der Omikron-Variante an. Wie verläuft eine Infektion? Was kann man zu Hause tun, um Beschwerden zu lindern? Und bei welchen Warnzeichen sollte man ärztliche Hilfe suchen?
                         
-                            Von Werner Bartens",02022022,Sueddeutsche
-Willem-Alexander und Máxima: 20 Jahre royales Traumpaar,01022022_15:41,https://www.sueddeutsche.de/leben/adel-willem-alexander-und-mxima-20-jahre-royales-traumpaar-dpa.urn-newsml-dpa-com-20090101-220201-99-926877,Adel,dpa,,,02022022,Sueddeutsche
-Goslarer Kaiserring 2022 geht an Isaac Julien,01022022_15:41,https://www.sueddeutsche.de/kultur/kunst-goslarer-kaiserring-2022-geht-an-isaac-julien-dpa.urn-newsml-dpa-com-20090101-220201-99-929265,Kunst,dpa,,,02022022,Sueddeutsche
+                            Von Werner Bartens",02022022,Sueddeutsche,gesundheit
+Willem-Alexander und Máxima: 20 Jahre royales Traumpaar,01022022_15:41,https://www.sueddeutsche.de/leben/adel-willem-alexander-und-mxima-20-jahre-royales-traumpaar-dpa.urn-newsml-dpa-com-20090101-220201-99-926877,Adel,dpa,,,02022022,Sueddeutsche,leben
+Goslarer Kaiserring 2022 geht an Isaac Julien,01022022_15:41,https://www.sueddeutsche.de/kultur/kunst-goslarer-kaiserring-2022-geht-an-isaac-julien-dpa.urn-newsml-dpa-com-20090101-220201-99-929265,Kunst,dpa,,,02022022,Sueddeutsche,kultur
 Einer der gefährlichsten Verbrecher Deutschlands,01022022_15:41,https://www.sueddeutsche.de/panorama/thomas-drach-prozess-landgericht-koeln-geldtransporter-ueberfaelle-1.5519869,Prozess in Köln,,"Von Peter Burghardt, Köln","Thomas Drach, der vor 26 Jahren Jan Philipp Reemtsma entführte, steht erneut vor Gericht, wegen mehrerer Raubüberfälle auf Geldtransporter. Zu den Vorwürfen schweigt er, aber sein Auftritt spricht Bände.
                         
-                            Von Peter Burghardt, Köln",02022022,Sueddeutsche
-ESL plant weiterhin mit Publikum bei IEM Katowice,01022022_15:40,https://www.sueddeutsche.de/sport/e-sport-esl-plant-weiterhin-mit-publikum-bei-iem-katowice-dpa.urn-newsml-dpa-com-20090101-220201-99-933592,E-Sport,dpa,,,02022022,Sueddeutsche
-Erstaufnahmeeinrichtungen in Brandenburg schwach ausgelastet,01022022_15:37,https://www.sueddeutsche.de/politik/migration-potsdam-erstaufnahmeeinrichtungen-in-brandenburg-schwach-ausgelastet-dpa.urn-newsml-dpa-com-20090101-220201-99-931884,Migration - Potsdam,dpa,,,02022022,Sueddeutsche
-Verdi will 2022 wieder für höhere Löhne kämpfen,01022022_15:36,https://www.sueddeutsche.de/karriere/gewerkschaften-verdi-will-2022-wieder-fuer-hoehere-loehne-kaempfen-dpa.urn-newsml-dpa-com-20090101-220201-99-929319,Gewerkschaften,dpa,,,02022022,Sueddeutsche
-Logistikzentrum hat über 100 Millionen Tests versandt,01022022_15:34,https://www.sueddeutsche.de/gesundheit/gesundheit-hann-muenden-logistikzentrum-hat-ueber-100-millionen-tests-versandt-dpa.urn-newsml-dpa-com-20090101-220201-99-933723,Gesundheit - Hann. Münden,dpa,,,02022022,Sueddeutsche
+                            Von Peter Burghardt, Köln",02022022,Sueddeutsche,panorama
+ESL plant weiterhin mit Publikum bei IEM Katowice,01022022_15:40,https://www.sueddeutsche.de/sport/e-sport-esl-plant-weiterhin-mit-publikum-bei-iem-katowice-dpa.urn-newsml-dpa-com-20090101-220201-99-933592,E-Sport,dpa,,,02022022,Sueddeutsche,sport
+Erstaufnahmeeinrichtungen in Brandenburg schwach ausgelastet,01022022_15:37,https://www.sueddeutsche.de/politik/migration-potsdam-erstaufnahmeeinrichtungen-in-brandenburg-schwach-ausgelastet-dpa.urn-newsml-dpa-com-20090101-220201-99-931884,Migration - Potsdam,dpa,,,02022022,Sueddeutsche,politik
+Verdi will 2022 wieder für höhere Löhne kämpfen,01022022_15:36,https://www.sueddeutsche.de/karriere/gewerkschaften-verdi-will-2022-wieder-fuer-hoehere-loehne-kaempfen-dpa.urn-newsml-dpa-com-20090101-220201-99-929319,Gewerkschaften,dpa,,,02022022,Sueddeutsche,karriere
+Logistikzentrum hat über 100 Millionen Tests versandt,01022022_15:34,https://www.sueddeutsche.de/gesundheit/gesundheit-hann-muenden-logistikzentrum-hat-ueber-100-millionen-tests-versandt-dpa.urn-newsml-dpa-com-20090101-220201-99-933723,Gesundheit - Hann. Münden,dpa,,,02022022,Sueddeutsche,gesundheit
 Als der Bscheißer zum Bschießer wurde,01022022_15:34,https://www.sueddeutsche.de/bayern/bayern-alpen-berge-bergnamen-zensur-hundsarsch-1.5519582,Zensierte Berge,,"Von Carsten Hoefer, Bad Hindelang","Mit dem Aufkommen des Fremdenverkehrs wurden im Alpenraum viele als besonders derb und anstößig empfundene Bergnamen verändert beziehungsweise geschönt. Selbst frühe Formen des Genderns lassen sich auf heutigen Landkarten nachweisen.
                         
-                            Von Carsten Hoefer, Bad Hindelang",02022022,Sueddeutsche
-Spenden für Weinbaubetriebe können ausgezahlt werden,01022022_15:33,https://www.sueddeutsche.de/wirtschaft/agrar-mainz-spenden-fuer-weinbaubetriebe-koennen-ausgezahlt-werden-dpa.urn-newsml-dpa-com-20090101-220201-99-930389,Agrar - Mainz,dpa,,,02022022,Sueddeutsche
-IG BCE fordert kräftigen Aufschlag für Chemie-Beschäftigte,01022022_15:33,https://www.sueddeutsche.de/wirtschaft/chemie-wiesbaden-igbce-fordert-kraeftigen-aufschlag-fuer-chemie-beschaeftigte-dpa.urn-newsml-dpa-com-20090101-220201-99-933705,Chemie - Wiesbaden,dpa,,,02022022,Sueddeutsche
-"Neue Corona-Regeln für Tests, Friseursalons und Restaurants",01022022_15:32,https://www.sueddeutsche.de/gesundheit/gesundheit-berlin-neue-corona-regeln-fuer-tests-friseursalons-und-restaurants-dpa.urn-newsml-dpa-com-20090101-220201-99-932692,Gesundheit - Berlin,dpa,,,02022022,Sueddeutsche
+                            Von Carsten Hoefer, Bad Hindelang",02022022,Sueddeutsche,bayern
+Spenden für Weinbaubetriebe können ausgezahlt werden,01022022_15:33,https://www.sueddeutsche.de/wirtschaft/agrar-mainz-spenden-fuer-weinbaubetriebe-koennen-ausgezahlt-werden-dpa.urn-newsml-dpa-com-20090101-220201-99-930389,Agrar - Mainz,dpa,,,02022022,Sueddeutsche,wirtschaft
+IG BCE fordert kräftigen Aufschlag für Chemie-Beschäftigte,01022022_15:33,https://www.sueddeutsche.de/wirtschaft/chemie-wiesbaden-igbce-fordert-kraeftigen-aufschlag-fuer-chemie-beschaeftigte-dpa.urn-newsml-dpa-com-20090101-220201-99-933705,Chemie - Wiesbaden,dpa,,,02022022,Sueddeutsche,wirtschaft
+"Neue Corona-Regeln für Tests, Friseursalons und Restaurants",01022022_15:32,https://www.sueddeutsche.de/gesundheit/gesundheit-berlin-neue-corona-regeln-fuer-tests-friseursalons-und-restaurants-dpa.urn-newsml-dpa-com-20090101-220201-99-932692,Gesundheit - Berlin,dpa,,,02022022,Sueddeutsche,gesundheit
 Geflohen vor dem Militär,01022022_15:31,https://www.sueddeutsche.de/politik/myanmar-geflohen-vor-dem-militaer-1.5519602,Myanmar,,Video von David Pfeifer und Leonie Sanke,"Video
                     
                     
                         Ein Jahr nach dem Putsch fliehen immer noch viele Menschen aus Myanmar. Ein Besuch im größten Flüchtlingslager Thailands.
                         
-                            Video von David Pfeifer und Leonie Sanke",02022022,Sueddeutsche
+                            Video von David Pfeifer und Leonie Sanke",02022022,Sueddeutsche,politik
 """Ich bin hier hergekommen, weil ich hier frei bin""",01022022_15:30,https://www.sueddeutsche.de/muenchen/muenchen-mohr-villa-gefluechtete-freimann-kunst-werkstatt-1.5519541,Mohr-Villa in Freimann,,Von Benjamin Stolz,"In der Mohr-Villa treffen sich einmal im Monat Geflüchtete und Einheimische, um gemeinsam zu malen, zu töpfern oder einfach nur zu reden. Seit zehn Jahren gibt es den Kunsttreff - ein Besuch.
                         
-                            Von Benjamin Stolz",02022022,Sueddeutsche
+                            Von Benjamin Stolz",02022022,Sueddeutsche,muenchen
 Diktaturen ohne Ausweg,01022022_15:30,https://www.sueddeutsche.de/projekte/artikel/politik/diktaturen-ohne-ausweg-e374041/,Menschenrechte,,"Von Frank Nienhuysen, Arne Perras und Dunja Ramadan","Verbrechen gegen die Menschlichkeit können heute durch das Weltrechtsprinzip überall geahndet werden. Doch das schafft ein Dilemma: Despoten, denen keine Exit-Strategie bleibt, klammern sich möglicherweise umso verbissener an die Macht.
                         
-                            Von Frank Nienhuysen, Arne Perras und Dunja Ramadan",02022022,Sueddeutsche
-Thomas Drach steht wieder vor Gericht,01022022_15:30,https://www.sueddeutsche.de/panorama/prozesse-thomas-drach-steht-wieder-vor-gericht-dpa.urn-newsml-dpa-com-20090101-220201-99-925299,Prozesse,dpa,,,02022022,Sueddeutsche
-Piazolo: Schulleiter können Klassen nach Hause schicken,01022022_15:29,https://www.sueddeutsche.de/bayern/kabinett-muenchen-piazolo-schulleiter-koennen-klassen-nach-hause-schicken-dpa.urn-newsml-dpa-com-20090101-220201-99-931012,Kabinett - München,dpa,,,02022022,Sueddeutsche
-Landratsamtsgebäude wegen Drohung geräumt,01022022_15:28,https://www.sueddeutsche.de/panorama/notfaelle-karlsruhe-landratsamtsgebaeude-wegen-drohung-geraeumt-dpa.urn-newsml-dpa-com-20090101-220201-99-930839,Notfälle - Karlsruhe,dpa,,,02022022,Sueddeutsche
-Schnee und Glätte behindern Verkehr und sorgen für Unfälle,01022022_15:27,https://www.sueddeutsche.de/panorama/unfaelle-ostrach-schnee-und-glaette-behindern-verkehr-und-sorgen-fuer-unfaelle-dpa.urn-newsml-dpa-com-20090101-220201-99-926385,Unfälle - Ostrach,dpa,,,02022022,Sueddeutsche
+                            Von Frank Nienhuysen, Arne Perras und Dunja Ramadan",02022022,Sueddeutsche,projekte
+Thomas Drach steht wieder vor Gericht,01022022_15:30,https://www.sueddeutsche.de/panorama/prozesse-thomas-drach-steht-wieder-vor-gericht-dpa.urn-newsml-dpa-com-20090101-220201-99-925299,Prozesse,dpa,,,02022022,Sueddeutsche,panorama
+Piazolo: Schulleiter können Klassen nach Hause schicken,01022022_15:29,https://www.sueddeutsche.de/bayern/kabinett-muenchen-piazolo-schulleiter-koennen-klassen-nach-hause-schicken-dpa.urn-newsml-dpa-com-20090101-220201-99-931012,Kabinett - München,dpa,,,02022022,Sueddeutsche,bayern
+Landratsamtsgebäude wegen Drohung geräumt,01022022_15:28,https://www.sueddeutsche.de/panorama/notfaelle-karlsruhe-landratsamtsgebaeude-wegen-drohung-geraeumt-dpa.urn-newsml-dpa-com-20090101-220201-99-930839,Notfälle - Karlsruhe,dpa,,,02022022,Sueddeutsche,panorama
+Schnee und Glätte behindern Verkehr und sorgen für Unfälle,01022022_15:27,https://www.sueddeutsche.de/panorama/unfaelle-ostrach-schnee-und-glaette-behindern-verkehr-und-sorgen-fuer-unfaelle-dpa.urn-newsml-dpa-com-20090101-220201-99-926385,Unfälle - Ostrach,dpa,,,02022022,Sueddeutsche,panorama
