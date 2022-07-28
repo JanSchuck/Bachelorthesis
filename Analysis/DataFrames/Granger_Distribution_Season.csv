@@ -1,0 +1,13 @@
+Connection_Granger,Spring,Winter
+news_granger_causes_google,328,222
+google_granger_causes_news,411,220
+news_granger_causes_Wiki,319,200
+Wiki_granger_causes_News,339,201
+Google_granger_causes_Wikipedia,547,335
+Wikipedia_granger_causes_Google,414,263
+not_mutual_news_wikipedia,138,97
+not_mutual_wikipedia_news,158,98
+not_mutual_news_google,126,100
+not_mutual_google_news,209,98
+not_mutual_google_wikipedia,217,135
+not_mutual_wikipedia_google,84,63
